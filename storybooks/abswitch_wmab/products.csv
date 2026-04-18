@@ -1,0 +1,519 @@
+inn,brand_name,brand_key,sponsor,authority,route_final,form_canon,sponsor_class,strength_raw,total_mg,total_volume_ml,conc_mg_per_ml,presentation_type,presentation_idx,most_recent_nct_id,most_recent_phase
+adalimumab,HYRIMOZ,HYRIMOZ,Sandoz Inc,FDA,SC,prefilled_syringe,biosimilar,40 mg/0.8 mL,40.0,0.8,50.0,liquid,0,NCT05502731,Phase 4
+adalimumab,HYRIMOZ,HYRIMOZ,Sandoz Inc,FDA,SC,prefilled_syringe,biosimilar,40 mg/0.4 mL,40.0,0.4,100.0,liquid,0,NCT05502731,Phase 4
+adalimumab,HYRIMOZ,HYRIMOZ,Cordavis Limited,FDA,SC,prefilled_syringe,biosimilar,40 mg/0.8 mL,40.0,0.8,50.0,liquid,0,NCT05502731,Phase 4
+adalimumab,HADLIMA,HADLIMA,Organon LLC,FDA,SC,autoinjector,biosimilar,40 mg/0.8 mL,40.0,0.8,50.0,liquid,0,UNKNOWN,Approved
+adalimumab,YUSIMRY,YUSIMRY,Meitheal Pharmaceuticals Inc.,FDA,SC,prefilled_syringe,biosimilar,40 mg/0.8 mL,40.0,0.8,50.0,liquid,0,UNKNOWN,Approved
+adalimumab,HADLIMA,HADLIMA,A-S Medication Solutions,FDA,SC,solution,biosimilar,40 mg/0.8 mL,40.0,0.8,50.0,liquid,0,UNKNOWN,Approved
+adalimumab,AMJEVITA,AMJEVITA,"Amgen, Inc",FDA,SC,prefilled_syringe,biosimilar,40 mg/0.8 mL,40.0,0.8,50.0,liquid,0,NCT02114931,Phase 3
+adalimumab,AMJEVITA,AMJEVITA,Amgen USA Inc.,FDA,SC,prefilled_syringe,biosimilar,"80 mg/0.8 mL, 40 mg/0.8 mL, 40 mg/0.4 mL, 20 mg/0.4 mL, 20 mg/0.2 mL, 10 mg/0.2 mL",80.0,0.8,100.0,liquid,0,NCT02114931,Phase 3
+adalimumab,AMJEVITA,AMJEVITA,Amgen USA Inc.,FDA,SC,prefilled_syringe,biosimilar,"80 mg/0.8 mL, 40 mg/0.8 mL, 40 mg/0.4 mL, 20 mg/0.4 mL, 20 mg/0.2 mL, 10 mg/0.2 mL",40.0,0.8,50.0,liquid,1,NCT02114931,Phase 3
+adalimumab,AMJEVITA,AMJEVITA,Amgen USA Inc.,FDA,SC,prefilled_syringe,biosimilar,"80 mg/0.8 mL, 40 mg/0.8 mL, 40 mg/0.4 mL, 20 mg/0.4 mL, 20 mg/0.2 mL, 10 mg/0.2 mL",40.0,0.4,100.0,liquid,2,NCT02114931,Phase 3
+adalimumab,AMJEVITA,AMJEVITA,Amgen USA Inc.,FDA,SC,prefilled_syringe,biosimilar,"80 mg/0.8 mL, 40 mg/0.8 mL, 40 mg/0.4 mL, 20 mg/0.4 mL, 20 mg/0.2 mL, 10 mg/0.2 mL",20.0,0.4,50.0,liquid,3,NCT02114931,Phase 3
+adalimumab,AMJEVITA,AMJEVITA,Amgen USA Inc.,FDA,SC,prefilled_syringe,biosimilar,"80 mg/0.8 mL, 40 mg/0.8 mL, 40 mg/0.4 mL, 20 mg/0.4 mL, 20 mg/0.2 mL, 10 mg/0.2 mL",20.0,0.2,100.0,liquid,4,NCT02114931,Phase 3
+adalimumab,AMJEVITA,AMJEVITA,Amgen USA Inc.,FDA,SC,prefilled_syringe,biosimilar,"80 mg/0.8 mL, 40 mg/0.8 mL, 40 mg/0.4 mL, 20 mg/0.4 mL, 20 mg/0.2 mL, 10 mg/0.2 mL",10.0,0.2,50.0,liquid,5,NCT02114931,Phase 3
+adalimumab,ADALIMUMAB-BWWD,ADALIMUMAB-BWWD,Cordavis Limited,FDA,SC,autoinjector,biosimilar,40 mg/0.8 mL,40.0,0.8,50.0,liquid,0,UNKNOWN,Approved
+adalimumab,YUSIMRY,YUSIMRY,Coherus BioSciences Inc,FDA,SC,prefilled_syringe,biosimilar,40 mg/0.8 mL,40.0,0.8,50.0,liquid,0,UNKNOWN,Approved
+adalimumab,AMJEVITA,AMJEVITA,Nuvaila Limited,FDA,SC,autoinjector,biosimilar,"80 mg/0.8 mL, 40 mg/0.4 mL, 20 mg/0.2 mL",80.0,0.8,100.0,liquid,0,NCT02114931,Phase 3
+adalimumab,AMJEVITA,AMJEVITA,Nuvaila Limited,FDA,SC,autoinjector,biosimilar,"80 mg/0.8 mL, 40 mg/0.4 mL, 20 mg/0.2 mL",40.0,0.4,100.0,liquid,1,NCT02114931,Phase 3
+adalimumab,AMJEVITA,AMJEVITA,Nuvaila Limited,FDA,SC,autoinjector,biosimilar,"80 mg/0.8 mL, 40 mg/0.4 mL, 20 mg/0.2 mL",20.0,0.2,100.0,liquid,2,NCT02114931,Phase 3
+alemtuzumab,CAMPATH,CAMPATH,Genzyme Corporation,FDA,IV,solution,originator,30 mg/mL,,,30.0,liquid,0,NCT02472054,Phase 1|Phase 2
+alemtuzumab,LEMTRADA,LEMTRADA,Genzyme Corporation,FDA,IV,solution,biosimilar,12 mg/1.2 mL (10 mg/mL),12.0,1.2,10.0,liquid,0,NCT03368664,Phase 3
+alirocumab,PRALUENT,PRALUENT,Sanofi-Aventis U.S. LLC,FDA,SC,autoinjector,originator,75 mg/mL or 150 mg/mL,,,75.0,liquid,0,NCT07477704,Phase 2
+alirocumab,PRALUENT,PRALUENT,Sanofi-Aventis U.S. LLC,FDA,SC,autoinjector,originator,75 mg/mL or 150 mg/mL,,,150.0,liquid,1,NCT07477704,Phase 2
+alirocumab,PRALUENT,PRALUENT,"Regeneron Pharmaceuticals, Inc.",FDA,SC,autoinjector,originator,75 mg/mL or 150 mg/mL,,,75.0,liquid,0,NCT07477704,Phase 2
+alirocumab,PRALUENT,PRALUENT,"Regeneron Pharmaceuticals, Inc.",FDA,SC,autoinjector,originator,75 mg/mL or 150 mg/mL,,,150.0,liquid,1,NCT07477704,Phase 2
+anifrolumab,SAPHNELO,SAPHNELO,AstraZeneca Pharmaceuticals LP,FDA,IV_SC,solution,originator,300 mg/2 mL (150 mg/mL),300.0,2.0,150.0,liquid,0,NCT06659029,Approved
+ansuvimab,EBANGA,EBANGA,"Emergent Manufacturing Operations Baltimore, LLC",FDA,IV,lyophilized_powder,originator,400 mg per vial,400.0,,,other,0,UNKNOWN,Approved
+atezolizumab,TECENTRIQ,TECENTRIQ,"Genentech, Inc.",FDA,IV,solution,originator,840 mg/14 mL (60 mg/mL) and 1200 mg/20 mL (60 mg/mL),840.0,14.0,60.0,liquid,0,NCT04796012,Phase 1|Phase 2
+atezolizumab,TECENTRIQ,TECENTRIQ,"Genentech, Inc.",FDA,IV,solution,originator,840 mg/14 mL (60 mg/mL) and 1200 mg/20 mL (60 mg/mL),1200.0,20.0,60.0,liquid,1,NCT04796012,Phase 1|Phase 2
+atezolizumab,TECENTRIQ HYBREZA,TECENTRIQ HYBREZA,"Genentech, Inc.",FDA,SC,solution,biosimilar,"1,875 mg atezolizumab and 30,000 units hyaluronidase per 15 mL (125 mg and 2,000 units per mL)",1875.0,15.0,125.0,liquid,0,UNKNOWN,Approved
+atoltivimab,INMAZEB,INMAZEB,"Regeneron Pharmaceuticals, Inc.",FDA,IV,solution,originator,16.67 mg/16.67 mg/16.67 mg per mL; 33.33 mg/33.33 mg/33.33 mg per mL,,,16.67,liquid,0,UNKNOWN,Approved
+atoltivimab,INMAZEB,INMAZEB,"Regeneron Pharmaceuticals, Inc.",FDA,IV,solution,originator,16.67 mg/16.67 mg/16.67 mg per mL; 33.33 mg/33.33 mg/33.33 mg per mL,,,33.33,liquid,1,UNKNOWN,Approved
+avelumab,BAVENCIO,BAVENCIO,"EMD Serono, Inc.",FDA,IV,solution,originator,200 mg/10 mL (20 mg/mL),200.0,10.0,20.0,liquid,0,NCT04071236,Phase 1|Phase 2
+axatilimab,NIKTIMVO,NIKTIMVO,Incyte Corporation,FDA,IV,solution,originator,50 mg/mL,,,50.0,liquid,0,NCT06132256,Phase 2
+basiliximab,Simulect,SIMULECT,Novartis Pharmaceuticals Corporation,FDA,IV,lyophilized_powder,originator,10 mg in 2.5 mL; 20 mg in 5 mL,10.0,2.5,4.0,liquid,0,NCT01780844,Phase 2
+basiliximab,Simulect,SIMULECT,Novartis Pharmaceuticals Corporation,FDA,IV,lyophilized_powder,originator,10 mg in 2.5 mL; 20 mg in 5 mL,20.0,5.0,4.0,liquid,1,NCT01780844,Phase 2
+belimumab,BENLYSTA,BENLYSTA,GlaxoSmithKline LLC,FDA,IV_SC,prefilled_syringe,originator,200 mg/mL,,,200.0,liquid,0,NCT03844061,Phase 2
+benralizumab,FASENRA,FASENRA,AstraZeneca Pharmaceuticals LP,FDA,SC,prefilled_syringe,originator,30 mg/mL,,,30.0,liquid,0,NCT06512883,Phase 3
+bevacizumab,MVASI,MVASI,"Amgen, Inc.",FDA,IV,solution,biosimilar,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),100.0,4.0,25.0,liquid,0,NCT06252649,Phase 3
+bevacizumab,MVASI,MVASI,"Amgen, Inc.",FDA,IV,solution,biosimilar,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),400.0,16.0,25.0,liquid,1,NCT06252649,Phase 3
+bevacizumab,ALYMSYS,ALYMSYS,"Valorum Biologics, LLC",FDA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,NCT05001880,Phase 2
+bevacizumab,VEGZELMA,VEGZELMA,"CELLTRION USA, Inc.",FDA,IV,solution,biosimilar,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),100.0,4.0,25.0,liquid,0,UNKNOWN,Approved
+bevacizumab,VEGZELMA,VEGZELMA,"CELLTRION USA, Inc.",FDA,IV,solution,biosimilar,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),400.0,16.0,25.0,liquid,1,UNKNOWN,Approved
+bevacizumab,ALYMSYS,ALYMSYS,Amneal Pharmaceuticals LLC,FDA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,NCT05001880,Phase 2
+bevacizumab,JOBEVNE,JOBEVNE,Biocon Biologics Inc.,FDA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,UNKNOWN,Approved
+bevacizumab,AVASTIN,AVASTIN,"Genentech, Inc.",FDA,IV,solution,originator,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),100.0,4.0,25.0,liquid,0,NCT01746238,Phase 1
+bevacizumab,AVASTIN,AVASTIN,"Genentech, Inc.",FDA,IV,solution,originator,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),400.0,16.0,25.0,liquid,1,NCT01746238,Phase 1
+bevacizumab,Avzivi,AVZIVI,"Bio-Thera Solutions, Ltd.",FDA,IV,solution,biosimilar,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),100.0,4.0,25.0,liquid,0,UNKNOWN,Approved
+bevacizumab,Avzivi,AVZIVI,"Bio-Thera Solutions, Ltd.",FDA,IV,solution,biosimilar,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),400.0,16.0,25.0,liquid,1,UNKNOWN,Approved
+bevacizumab,ZIRABEV,ZIRABEV,Pfizer Laboratories Div Pfizer Inc,FDA,IV,solution,biosimilar,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),100.0,4.0,25.0,liquid,0,NCT06704724,Phase 1
+bevacizumab,ZIRABEV,ZIRABEV,Pfizer Laboratories Div Pfizer Inc,FDA,IV,solution,biosimilar,100 mg/4 mL (25 mg/mL) or 400 mg/16 mL (25 mg/mL),400.0,16.0,25.0,liquid,1,NCT06704724,Phase 1
+bezlotoxumab,ZINPLAVA,ZINPLAVA,Merck Sharp & Dohme LLC,FDA,IV,solution,originator,"1,000 mg/40 mL (25 mg/mL)",1000.0,40.0,25.0,liquid,0,NCT03829475,Phase 2
+bimekizumab,BIMZELX,BIMZELX,"UCB, Inc.",FDA,SC,prefilled_syringe,originator,160 mg/mL,,,160.0,liquid,0,NCT06888193,Phase 1
+brodalumab,SILIQ,SILIQ,"Bausch Health US, LLC",FDA,SC,prefilled_syringe,biosimilar,210 mg/1.5 mL,210.0,1.5,140.0,liquid,0,NCT06673329,Phase 1
+burosumab,CRYSVITA,CRYSVITA,"Kyowa Kirin, Inc.",FDA,SC,solution,originator,"10 mg/mL, 20 mg/mL, or 30 mg/mL",,,10.0,liquid,0,NCT03775187,Approved
+burosumab,CRYSVITA,CRYSVITA,"Kyowa Kirin, Inc.",FDA,SC,solution,originator,"10 mg/mL, 20 mg/mL, or 30 mg/mL",,,20.0,liquid,1,NCT03775187,Approved
+burosumab,CRYSVITA,CRYSVITA,"Kyowa Kirin, Inc.",FDA,SC,solution,originator,"10 mg/mL, 20 mg/mL, or 30 mg/mL",,,30.0,liquid,2,NCT03775187,Approved
+canakinumab,GUNA-HEMORRHOIDS,GUNA-HEMORRHOIDS,Guna spa,FDA,OTHER,solution,biosimilar,,,,,,0,UNKNOWN,Approved
+canakinumab,CITOMIX,CITOMIX,Guna spa,FDA,OTHER,other,biosimilar,in 4 g,,,,other,0,UNKNOWN,Approved
+canakinumab,GUNA-SLEEP,GUNA-SLEEP,Guna spa,FDA,OTHER,solution,biosimilar,4 [hp_C] in 30 mL,4.0,30.0,0.1333333333333333,liquid,0,UNKNOWN,Approved
+canakinumab,ILARIS,ILARIS,Novartis Pharmaceuticals Corporation,FDA,SC,solution,originator,150 mg/mL,,,150.0,liquid,0,NCT04789681,Phase 2
+canakinumab,GUNA-DERMO,GUNA-DERMO,Guna spa,FDA,OTHER,solution,biosimilar,in 30 mL,,30.0,,liquid,0,UNKNOWN,Approved
+canakinumab,GUNA-ANTI IL 1,GUNA-ANTI IL 1,Guna spa,FDA,OTHER,solution,biosimilar,in 30 mL,,30.0,,liquid,0,UNKNOWN,Approved
+cemiplimab,LIBTAYO,LIBTAYO,"Regeneron Pharmaceuticals, Inc.",FDA,IV,solution,originator,350 mg/7 mL (50 mg/mL),350.0,7.0,50.0,liquid,0,NCT07387198,Phase 2
+cetuximab,ERBITUX,ERBITUX,ImClone LLC,FDA,IV,solution,originator,100 mg/50 mL (2 mg/mL) or 200 mg/100 mL (2 mg/mL),100.0,50.0,2.0,liquid,0,NCT02128906,Phase 2
+cetuximab,ERBITUX,ERBITUX,ImClone LLC,FDA,IV,solution,originator,100 mg/50 mL (2 mg/mL) or 200 mg/100 mL (2 mg/mL),200.0,100.0,2.0,liquid,1,NCT02128906,Phase 2
+clesrovimab,ENFLONSIA,ENFLONSIA,Merck Sharp & Dohme LLC,FDA,IM,prefilled_syringe,originator,105 mg/0.7 mL,105.0,0.7,150.0,liquid,0,UNKNOWN,Approved
+concizumab,Alhemo,ALHEMO,Novo Nordisk Inc.,FDA,SC,prefilled_syringe,originator,60 mg/1.5 mL (40 mg/mL),60.0,1.5,40.0,liquid,0,NCT06285071,Approved
+cosibelimab,UNLOXCYT,UNLOXCYT,"Sun Pharmaceutical Industries, Inc.",FDA,IV,solution,originator,300 mg/5 mL (60 mg/mL),300.0,5.0,60.0,liquid,0,UNKNOWN,Approved
+crizanlizumab,ADAKVEO,ADAKVEO,Novartis Pharmaceuticals Corporation,FDA,IV,solution,originator,100 mg/10 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,NCT04611880,Phase 2
+crovalimab,PIASKY,PIASKY,"Genentech, Inc.",FDA,IV_SC,solution,originator,340 mg/2 mL (170 mg/mL),340.0,2.0,170.0,liquid,0,UNKNOWN,Approved
+dalotuzumab,GROWTH HORMONE DROPS,GROWTH HORMONE DROPS,Professional Complementary Health Formulas,FDA,OTHER,solution,originator,,,,,,0,UNKNOWN,Approved
+dalotuzumab,CELL ENERGY PERFORMANCE DROPS,CELL ENERGY PERFORMANCE DROPS,Professional Complementary Health Formulas,FDA,OTHER,solution,biosimilar,2 FL. OZ. (59 mL),,59.0,,liquid,0,UNKNOWN,Approved
+daratumumab,DARZALEX FASPRO,DARZALEX FASPRO,"Janssen Biotech, Inc.",FDA,SC,solution,biosimilar,"1,800 mg daratumumab and 30,000 units hyaluronidase per 15 mL (120 mg and 2,000 units/mL) solution in a single-dose vial",1800.0,15.0,120.0,liquid,0,NCT07222761,Phase 3
+daratumumab,DARZALEX,DARZALEX,"Janssen Biotech, Inc.",FDA,IV,solution,originator,20 mg/mL,,,20.0,liquid,0,NCT04972942,Phase 1
+datopotamab,DATROWAY,DATROWAY,Daiichi Sankyo Inc.,FDA,IV,lyophilized_powder,originator,For injection: 100 mg lyophilized powder in a single-dose vial.,100.0,,,lyophilized_reconstituted,0,NCT07357597,Phase 4
+denosumab,STOBOCLO,STOBOCLO,"CELLTRION USA, Inc.",FDA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,BOSAYA,BOSAYA,Biocon Biologics Inc.,FDA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,BONCRESA,BONCRESA,Amneal Pharmaceuticals LLC,FDA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,CONEXXENCE,CONEXXENCE,"Fresenius Kabi USA, LLC",FDA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,BOMYNTRA,BOMYNTRA,"Fresenius Kabi USA, LLC",FDA,SC,prefilled_syringe,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+denosumab,PROLIA,PROLIA,"Amgen, Inc",FDA,SC,prefilled_syringe,originator,60 mg/mL,,,60.0,liquid,0,NCT04067726,Phase 2
+denosumab,JUBBONTI,JUBBONTI,Sandoz Inc,FDA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,AUKELSO,AUKELSO,Biocon Biologics Inc.,FDA,SC,solution,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+denosumab,XGEVA,XGEVA,"Amgen, Inc",FDA,SC,solution,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,NCT03401060,Phase 3
+denosumab,WYOST,WYOST,Sandoz Inc,FDA,SC,solution,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+denosumab,DENOSUMAB-BMWO,DENOSUMAB-BMWO,"CELLTRION USA, Inc.",FDA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,ENOBY,ENOBY,Hikma Pharmaceuticals USA Inc.,FDA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,XTRENBO,XTRENBO,Hikma Pharmaceuticals USA Inc.,FDA,SC,solution,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+denosumab,BILPREVDA,BILPREVDA,Organon LLC,FDA,SC,solution,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+denosumab,BILDYOS,BILDYOS,Organon LLC,FDA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,OSENVELT,OSENVELT,"CELLTRION USA, Inc.",FDA,SC,solution,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+denosumab,DENOSUMAB-BMWO,DENOSUMAB-BMWO,"CELLTRION USA, Inc.",FDA,SC,solution,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+denosumab,OSPOMYV,OSPOMYV,Cordavis Limited,FDA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,OZILTUS,OZILTUS,Amneal Pharmaceuticals LLC,FDA,SC,solution,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+depemokimab,EXDENSUR,EXDENSUR,GlaxoSmithKline LLC,FDA,SC,solution,originator,100 mg/mL,,,100.0,other,0,UNKNOWN,Approved
+dinutuximab,UNITUXIN,UNITUXIN,United Therapeutics Corporation,FDA,IV,solution,originator,17.5 mg/5 mL (3.5 mg/mL),17.5,5.0,3.5,liquid,0,NCT06450041,Phase 2
+donanemab,KISUNLA,KISUNLA,Eli Lilly and Company,FDA,IV,solution,originator,350 mg/20 mL (17.5 mg/mL),350.0,20.0,17.5,liquid,0,NCT07167966,Phase 2
+dostarlimab,JEMPERLI,JEMPERLI,GlaxoSmithKline LLC,FDA,IV,solution,originator,500 mg/10 mL (50 mg/mL),500.0,10.0,50.0,liquid,0,NCT04387084,Phase 1
+dupilumab,DUPIXENT,DUPIXENT,sanofi-aventis U.S. LLC,FDA,SC,prefilled_syringe,originator,300 mg/2 mL (150 mg/mL),300.0,2.0,150.0,liquid,0,NCT06693531,Approved
+durvalumab,IMFINZI,IMFINZI,AstraZeneca Pharmaceuticals LP,FDA,IV,solution,originator,120 mg/2.4 mL (50 mg/mL) and 500 mg/10 mL (50 mg/mL),120.0,2.4,50.0,liquid,0,NCT03606967,Phase 2
+durvalumab,IMFINZI,IMFINZI,AstraZeneca Pharmaceuticals LP,FDA,IV,solution,originator,120 mg/2.4 mL (50 mg/mL) and 500 mg/10 mL (50 mg/mL),500.0,10.0,50.0,liquid,1,NCT03606967,Phase 2
+eculizumab,BKEMV,BKEMV,Amgen Inc,FDA,IV,solution,biosimilar,300 mg/30 mL (10 mg/mL),300.0,30.0,10.0,liquid,0,UNKNOWN,Approved
+eculizumab,EPYSQLI,EPYSQLI,"Teva Pharmaceuticals USA, Inc.",FDA,IV,solution,biosimilar,300 mg/30 mL (10 mg/mL),300.0,30.0,10.0,liquid,0,UNKNOWN,Approved
+eculizumab,SOLIRIS,SOLIRIS,Alexion Pharmaceuticals Inc.,FDA,IV,solution,originator,300 mg/30 mL (10 mg/mL),300.0,30.0,10.0,liquid,0,NCT05133531,Phase 3
+elotuzumab,EMPLICITI,EMPLICITI,"E.R. Squibb & Sons, L.L.C.",FDA,IV,lyophilized_powder,originator,300 mg or 400 mg,300.0,,,other,0,NCT02420860,Phase 2
+elotuzumab,EMPLICITI,EMPLICITI,"E.R. Squibb & Sons, L.L.C.",FDA,IV,lyophilized_powder,originator,300 mg or 400 mg,400.0,,,other,1,NCT02420860,Phase 2
+emapalumab,GAMIFANT,GAMIFANT,Swedish Orphan Biovitrum AB (publ),FDA,IV,solution,originator,10 mg/2 mL (5 mg/mL),10.0,2.0,5.0,liquid,0,NCT05744063,Phase 4
+eptinezumab,VYEPTI,VYEPTI,Lundbeck Pharmaceuticals LLC,FDA,IV,solution,originator,100 mg/mL,,,100.0,liquid,0,NCT05164172,Phase 3
+erenumab,AIMOVIG,AIMOVIG,Amgen Inc,FDA,SC,prefilled_syringe,originator,"70 mg/mL, 140 mg/mL",,,70.0,liquid,0,NCT03832998,Phase 3
+erenumab,AIMOVIG,AIMOVIG,Amgen Inc,FDA,SC,prefilled_syringe,originator,"70 mg/mL, 140 mg/mL",,,140.0,liquid,1,NCT03832998,Phase 3
+evinacumab,EVKEEZA,EVKEEZA,"Regeneron Pharmaceuticals, Inc.",FDA,IV,solution,originator,150 mg/mL,,,150.0,liquid,0,NCT07271186,Phase 2
+evolocumab,REPATHA,REPATHA,Amgen USA Inc.,FDA,SC,autoinjector,originator,140 mg/mL,,,140.0,liquid,0,NCT04608474,Phase 4
+fremanezumab,AJOVY,AJOVY,"Teva Pharmaceuticals USA, Inc.",FDA,SC,prefilled_syringe,originator,225 mg/1.5 mL,225.0,1.5,150.0,liquid,0,NCT06173661,Phase 4
+galcanezumab,EMGALITY,EMGALITY,Eli Lilly and Company,FDA,SC,prefilled_syringe,originator,120 mg/mL,,,120.0,liquid,0,NCT07323927,EARLY_Phase 1
+garadacimab,ANDEMBRY,ANDEMBRY,CSL,FDA,SC,autoinjector,originator,200 mg/1.2 mL,200.0,1.2,166.66666666666666,liquid,0,UNKNOWN,Approved
+golimumab,SIMPONI ARIA,SIMPONI ARIA,"Janssen Biotech, Inc.",FDA,IV,solution,biosimilar,50 mg/4 mL (12.5 mg/mL),50.0,4.0,12.5,liquid,0,NCT02277444,Phase 3
+golimumab,SIMPONI,SIMPONI,"Janssen Biotech, Inc.",FDA,SC,prefilled_syringe,originator,50 mg/0.5 mL and 100 mg/mL,50.0,0.5,100.0,liquid,0,NCT05071664,Phase 2
+golimumab,SIMPONI,SIMPONI,"Janssen Biotech, Inc.",FDA,SC,prefilled_syringe,originator,50 mg/0.5 mL and 100 mg/mL,,,100.0,liquid,1,NCT05071664,Phase 2
+guselkumab,TREMFYA,TREMFYA,"Janssen Biotech, Inc.",FDA,IV_SC,prefilled_syringe,originator,100 mg/mL,,,100.0,liquid,0,NCT07532486,Approved
+ibalizumab,TROGARZO,TROGARZO,Theratechnologies Inc.,FDA,IV,solution,originator,200 mg/1.33 mL (150 mg/mL),200.0,1.33,150.37593984962405,liquid,0,NCT03913195,Phase 3
+inebilizumab,UPLIZNA,UPLIZNA,"Horizon Therapeutics USA, Inc.",FDA,IV,solution,originator,100 mg/10 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,NCT06570798,Phase 2
+infliximab,INFLECTRA,INFLECTRA,Pfizer Laboratories Div Pfizer Inc,FDA,IV,lyophilized_powder,biosimilar,100 mg,100.0,,,other,0,NCT02517684,Phase 4
+infliximab,ZYMFENTRA,ZYMFENTRA,CELLTRION USA Inc.,FDA,SC,prefilled_syringe,biosimilar,120 mg/mL,,,120.0,liquid,0,UNKNOWN,Approved
+infliximab,REMICADE,REMICADE,"Janssen Biotech, Inc.",FDA,IV,lyophilized_powder,originator,100 mg,100.0,,,other,0,NCT04438382,Phase 2
+infliximab,INFLIXIMAB,INFLIXIMAB,"Janssen Biotech, Inc.",FDA,IV,lyophilized_powder,biosimilar,100 mg,100.0,,,other,0,UNKNOWN,Approved
+infliximab,RENFLEXIS,RENFLEXIS,Organon LLC,FDA,IV,lyophilized_powder,biosimilar,100 mg,100.0,,,other,0,UNKNOWN,Approved
+infliximab,AVSOLA,AVSOLA,"Amgen, Inc",FDA,IV,lyophilized_powder,biosimilar,100 mg,100.0,,,other,0,NCT04305145,Phase 2
+ipilimumab,YERVOY,YERVOY,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,originator,50 mg/10 mL (5 mg/mL) and 200 mg/40 mL (5 mg/mL),50.0,10.0,5.0,liquid,0,NCT06946797,Phase 2
+ipilimumab,YERVOY,YERVOY,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,originator,50 mg/10 mL (5 mg/mL) and 200 mg/40 mL (5 mg/mL),200.0,40.0,5.0,liquid,1,NCT06946797,Phase 2
+isatuximab,SARCLISA,SARCLISA,Sanofi-Aventis U.S. LLC,FDA,IV,solution,originator,20 mg/mL,,,20.0,liquid,0,NCT04643002,Phase 1|Phase 2
+ixekizumab,TALTZ,TALTZ,Eli Lilly and Company,FDA,SC,prefilled_syringe,originator,80 mg/mL,,,80.0,liquid,0,NCT04340076,Phase 4
+lanadelumab,TAKHZYRO,TAKHZYRO,"Takeda Pharmaceuticals America, Inc.",FDA,SC,prefilled_syringe,originator,150 mg/mL,,,150.0,liquid,0,NCT05460325,Phase 3
+lebrikizumab,EBGLYSS,EBGLYSS,Eli Lilly and Company,FDA,SC,prefilled_syringe,originator,250 mg/2 mL,250.0,2.0,125.0,liquid,0,NCT07471932,Phase 1
+lecanemab,LEQEMBI,LEQEMBI,Eisai Inc.,FDA,IV_SC,solution,originator,500 mg/5 mL (100 mg/mL),500.0,5.0,100.0,liquid,0,NCT06602258,Phase 2
+maftivimab,INMAZEB,INMAZEB,"Regeneron Pharmaceuticals, Inc.",FDA,IV,solution,originator,16.67 mg/16.67 mg/16.67 mg per mL; 33.33 mg/33.33 mg/33.33 mg per mL,,,16.67,liquid,0,UNKNOWN,Approved
+maftivimab,INMAZEB,INMAZEB,"Regeneron Pharmaceuticals, Inc.",FDA,IV,solution,originator,16.67 mg/16.67 mg/16.67 mg per mL; 33.33 mg/33.33 mg/33.33 mg per mL,,,33.33,liquid,1,UNKNOWN,Approved
+margetuximab,MARGENZA,MARGENZA,TerSera Therapeutics LLC,FDA,IV,solution,originator,250 mg/10 mL (25 mg/mL),250.0,10.0,25.0,liquid,0,NCT04425018,Phase 2
+margetuximab,MARGENZA,MARGENZA,"MacroGenics, Inc.",FDA,IV,solution,originator,250 mg/10 mL (25 mg/mL),250.0,10.0,25.0,liquid,0,NCT04425018,Phase 2
+marstacimab,HYMPAVZI,HYMPAVZI,Pfizer Laboratories Div Pfizer Inc,FDA,SC,prefilled_syringe,originator,150 mg/mL,,,150.0,liquid,0,NCT07161687,Approved
+mepolizumab,NUCALA,NUCALA,GlaxoSmithKline LLC,FDA,SC,other,originator,100 mg/mL,,,100.0,liquid,0,NCT06069310,Approved
+mirikizumab,OMVOH,OMVOH,Eli Lilly and Company,FDA,IV_SC,solution,originator,300 mg/15 mL (20 mg/mL),300.0,15.0,20.0,liquid,0,NCT06249555,Approved
+mogamulizumab,POTELIGEO,POTELIGEO,"Kyowa Kirin, Inc.",FDA,IV,solution,originator,20 mg/5 mL (4 mg/mL),20.0,5.0,4.0,liquid,0,NCT05996185,Phase 2
+narsoplimab,YARTEMLEA,YARTEMLEA,Omeros Corporation,FDA,IV,solution,originator,370 mg/2 mL (185 mg/mL),370.0,2.0,185.0,liquid,0,UNKNOWN,Approved
+natalizumab,TYSABRI,TYSABRI,Biogen Inc.,FDA,IV_SC,solution,originator,300 mg/15 mL (20 mg/mL),300.0,15.0,20.0,liquid,0,NCT05925049,Approved
+natalizumab,TYRUKO,TYRUKO,Sandoz Inc,FDA,IV,solution,biosimilar,300 mg/15 mL (20 mg/mL),300.0,15.0,20.0,liquid,0,UNKNOWN,Approved
+naxitamab,DANYELZA,DANYELZA,"Y-mAbs Therapeutics, Inc.",FDA,IV,solution,originator,40 mg/10 mL (4 mg/mL),40.0,10.0,4.0,liquid,0,NCT06540963,Phase 2
+necitumumab,PORTRAZZA,PORTRAZZA,Eli Lilly and Company,FDA,IV,solution,originator,800 mg/50 mL (16 mg/mL),800.0,50.0,16.0,liquid,0,NCT03944772,Phase 2
+nemolizumab,NEMLUVIO,NEMLUVIO,"Galderma Laboratories, L.P.",FDA,SC,lyophilized_powder,originator,30 mg/0.49 mL,30.0,0.49,61.22448979591837,liquid,0,UNKNOWN,Approved
+nipocalimab,IMAAVY,IMAAVY,"Janssen Biotech, Inc.",FDA,IV,solution,originator,185 mg/mL,,,185.0,liquid,0,UNKNOWN,Approved
+nirsevimab,BEYFORTUS,BEYFORTUS,Sanofi Pasteur Inc.,FDA,IM,prefilled_syringe,originator,50 mg/0.5 mL; 100 mg/mL,50.0,0.5,100.0,liquid,0,NCT07158814,Phase 4
+nirsevimab,BEYFORTUS,BEYFORTUS,Sanofi Pasteur Inc.,FDA,IM,prefilled_syringe,originator,50 mg/0.5 mL; 100 mg/mL,,,100.0,liquid,1,NCT07158814,Phase 4
+nivolumab,OPDIVO QVANTIG,OPDIVO QVANTIG,"E.R. Squibb & Sons, L.L.C.",FDA,SC,solution,biosimilar,"300 mg nivolumab and 5,000 units hyaluronidase per 2.5 mL (120 mg/2,000 units per mL)",300.0,2.5,120.0,liquid,0,UNKNOWN,Approved
+nivolumab,OPDUALAG,OPDUALAG,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,biosimilar,240 mg of nivolumab and 80 mg of relatlimab per 20 mL (12 mg and 4 mg per mL),240.0,20.0,12.0,liquid,0,NCT06743126,Phase 3
+nivolumab,OPDUALAG,OPDUALAG,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,biosimilar,240 mg of nivolumab and 80 mg of relatlimab per 20 mL (12 mg and 4 mg per mL),80.0,20.0,4.0,liquid,1,NCT06743126,Phase 3
+nivolumab,OPDIVO,OPDIVO,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,originator,"40 mg/4 mL (10 mg/mL), 100 mg/10 mL (10 mg/mL), 120 mg/12 mL (10 mg/mL), and 240 mg/24 mL (10 mg/mL)",40.0,4.0,10.0,liquid,0,NCT04134325,EARLY_Phase 1
+nivolumab,OPDIVO,OPDIVO,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,originator,"40 mg/4 mL (10 mg/mL), 100 mg/10 mL (10 mg/mL), 120 mg/12 mL (10 mg/mL), and 240 mg/24 mL (10 mg/mL)",100.0,10.0,10.0,liquid,1,NCT04134325,EARLY_Phase 1
+nivolumab,OPDIVO,OPDIVO,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,originator,"40 mg/4 mL (10 mg/mL), 100 mg/10 mL (10 mg/mL), 120 mg/12 mL (10 mg/mL), and 240 mg/24 mL (10 mg/mL)",120.0,12.0,10.0,liquid,2,NCT04134325,EARLY_Phase 1
+nivolumab,OPDIVO,OPDIVO,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,originator,"40 mg/4 mL (10 mg/mL), 100 mg/10 mL (10 mg/mL), 120 mg/12 mL (10 mg/mL), and 240 mg/24 mL (10 mg/mL)",240.0,24.0,10.0,liquid,3,NCT04134325,EARLY_Phase 1
+obiltoxaximab,ANTHIM,ANTHIM,"Elusys Therapeutics, Inc.",FDA,IV,solution,originator,600 mg/6 mL (100 mg/mL),600.0,6.0,100.0,liquid,0,NCT03088111,Phase 4
+obinutuzumab,GAZYVA,GAZYVA,"Genentech, Inc.",FDA,IV,solution,biosimilar,"1,000 mg/40 mL (25 mg/mL)",1000.0,40.0,25.0,liquid,0,NCT06943872,Phase 3
+ocrelizumab,OCREVUS,OCREVUS,"Genentech, Inc.",FDA,IV,solution,originator,300 mg/10 mL (30 mg/mL),300.0,10.0,30.0,liquid,0,NCT05285891,Phase 4
+ocrelizumab,OCREVUS ZUNOVO,OCREVUS ZUNOVO,"Genentech, Inc.",FDA,SC,solution,biosimilar,"920 mg ocrelizumab and 23,000 units hyaluronidase per 23 mL (40 mg and 1,000 units per mL)",920.0,23.0,40.0,liquid,0,UNKNOWN,Approved
+odesivimab,INMAZEB,INMAZEB,"Regeneron Pharmaceuticals, Inc.",FDA,IV,solution,originator,16.67 mg/16.67 mg/16.67 mg per mL; 33.33 mg/33.33 mg/33.33 mg per mL,,,16.67,liquid,0,UNKNOWN,Approved
+odesivimab,INMAZEB,INMAZEB,"Regeneron Pharmaceuticals, Inc.",FDA,IV,solution,originator,16.67 mg/16.67 mg/16.67 mg per mL; 33.33 mg/33.33 mg/33.33 mg per mL,,,33.33,liquid,1,UNKNOWN,Approved
+ofatumumab,KESIMPTA,KESIMPTA,Novartis Pharmaceuticals Corporation,FDA,SC,prefilled_syringe,originator,20 mg/0.4 mL,20.0,0.4,50.0,liquid,0,NCT06345157,Approved
+omalizumab,XOLAIR,XOLAIR,"Genentech, Inc.",FDA,SC,prefilled_syringe,originator,"75 mg/0.5 mL, 150 mg/mL, and 300 mg/2 mL",75.0,0.5,150.0,liquid,0,NCT06943534,Phase 2
+omalizumab,XOLAIR,XOLAIR,"Genentech, Inc.",FDA,SC,prefilled_syringe,originator,"75 mg/0.5 mL, 150 mg/mL, and 300 mg/2 mL",,,150.0,other,1,NCT06943534,Phase 2
+omalizumab,XOLAIR,XOLAIR,"Genentech, Inc.",FDA,SC,prefilled_syringe,originator,"75 mg/0.5 mL, 150 mg/mL, and 300 mg/2 mL",300.0,2.0,150.0,liquid,2,NCT06943534,Phase 2
+palivizumab,SYNAGIS,SYNAGIS,Swedish Orphan Biovitrum AB (publ),FDA,IM,solution,originator,50 mg per 0.5 mL and 100 mg per 1 mL,50.0,0.5,100.0,liquid,0,NCT04540627,Phase 1
+palivizumab,SYNAGIS,SYNAGIS,Swedish Orphan Biovitrum AB (publ),FDA,IM,solution,originator,50 mg per 0.5 mL and 100 mg per 1 mL,100.0,1.0,100.0,liquid,1,NCT04540627,Phase 1
+panitumumab,VECTIBIX,VECTIBIX,"Amgen, Inc",FDA,IV,solution,originator,100 mg/5 mL (20 mg/mL) and 400 mg/20 mL (20 mg/mL),100.0,5.0,20.0,liquid,0,NCT06252649,Phase 3
+panitumumab,VECTIBIX,VECTIBIX,"Amgen, Inc",FDA,IV,solution,originator,100 mg/5 mL (20 mg/mL) and 400 mg/20 mL (20 mg/mL),400.0,20.0,20.0,liquid,1,NCT06252649,Phase 3
+pembrolizumab,KEYTRUDA QLEX,KEYTRUDA QLEX,Merck Sharp & Dohme LLC,FDA,SC,solution,biosimilar,"165 mg/2,000 units per mL",,,165.0,liquid,0,UNKNOWN,Approved
+pembrolizumab,KEYTRUDA,KEYTRUDA,Merck Sharp & Dohme LLC,FDA,IV,solution,originator,100 mg/4 mL (25 mg/mL),100.0,4.0,25.0,liquid,0,NCT05633602,Phase 3
+penpulimab,PENPULIMAB-KCQX,PENPULIMAB-KCQX,"Akeso Biopharma, Co., Ltd",FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,UNKNOWN,Approved
+pertuzumab,PERJETA,PERJETA,"Genentech, Inc.",FDA,IV,solution,originator,420 mg/14 mL (30 mg/mL),420.0,14.0,30.0,liquid,0,NCT02326974,Phase 2
+pertuzumab,PHESGO,PHESGO,"Genentech, Inc.",FDA,IV_SC,solution,biosimilar,"80 mg, 40 mg, and 2,000 units/mL",80.0,,,other,0,NCT04569747,Phase 2
+pertuzumab,PHESGO,PHESGO,"Genentech, Inc.",FDA,IV_SC,solution,biosimilar,"80 mg, 40 mg, and 2,000 units/mL",40.0,,,other,1,NCT04569747,Phase 2
+pertuzumab,PHESGO,PHESGO,"Genentech, Inc.",FDA,IV_SC,solution,biosimilar,"80 mg, 40 mg, and 2,000 units/mL",,,,liquid,2,NCT04569747,Phase 2
+pozelimab,VEOPOZ,VEOPOZ,"Regeneron Pharmaceuticals, Inc.",FDA,IV_SC,solution,originator,400 mg/2 mL (200 mg/mL),400.0,2.0,200.0,liquid,0,NCT07142343,Phase 4
+ramucirumab,CYRAMZA,CYRAMZA,Eli Lilly and Company,FDA,IV,solution,originator,100 mg/10 mL (10 mg/mL) or 500 mg/50 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,NCT03909334,Phase 2
+ramucirumab,CYRAMZA,CYRAMZA,Eli Lilly and Company,FDA,IV,solution,originator,100 mg/10 mL (10 mg/mL) or 500 mg/50 mL (10 mg/mL),500.0,50.0,10.0,liquid,1,NCT03909334,Phase 2
+ravulizumab,ULTOMIRIS,ULTOMIRIS,"Alexion Pharmaceuticals, Inc.",FDA,IV,solution,originator,300 mg/3 mL (100 mg/mL),300.0,3.0,100.0,liquid,0,NCT06909253,Approved
+relatlimab,OPDUALAG,OPDUALAG,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,originator,240 mg of nivolumab and 80 mg of relatlimab per 20 mL (12 mg and 4 mg per mL),240.0,20.0,12.0,liquid,0,NCT06743126,Phase 3
+relatlimab,OPDUALAG,OPDUALAG,"E.R. Squibb & Sons, L.L.C.",FDA,IV,solution,originator,240 mg of nivolumab and 80 mg of relatlimab per 20 mL (12 mg and 4 mg per mL),80.0,20.0,4.0,liquid,1,NCT06743126,Phase 3
+reslizumab,CINQAIR,CINQAIR,"Teva Respiratory, LLC",FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,NCT01111305,Phase 2
+retifanlimab,ZYNYZ,ZYNYZ,Incyte Corporation,FDA,IV,solution,originator,500 mg/20 mL (25 mg/mL),500.0,20.0,25.0,liquid,0,NCT04387084,Phase 1
+risankizumab,SKYRIZI,SKYRIZI,AbbVie Inc.,FDA,IV_SC,prefilled_syringe,originator,150 mg/mL,,,150.0,liquid,0,NCT04524611,Phase 3
+rituximab,RITUXAN HYCELA,RITUXAN HYCELA,"Genentech, Inc.",FDA,IV_SC,solution,biosimilar,"120 mg/2,000 Units per mL",,,120.0,liquid,0,NCT05455697,Phase 1|Phase 2
+rituximab,TRUXIMA,TRUXIMA,"Cephalon, Inc.",FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL) and 500 mg/50 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,NCT05735834,Phase 3
+rituximab,TRUXIMA,TRUXIMA,"Cephalon, Inc.",FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL) and 500 mg/50 mL (10 mg/mL),500.0,50.0,10.0,liquid,1,NCT05735834,Phase 3
+rituximab,RITUXAN,RITUXAN,"Genentech, Inc.",FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL) and 500 mg/50 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,NCT06522386,Phase 2
+rituximab,RITUXAN,RITUXAN,"Genentech, Inc.",FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL) and 500 mg/50 mL (10 mg/mL),500.0,50.0,10.0,liquid,1,NCT06522386,Phase 2
+rituximab,RIABNI,RIABNI,"Amgen, Inc",FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL) and 500 mg/50 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,NCT06510309,Phase 2
+rituximab,RIABNI,RIABNI,"Amgen, Inc",FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL) and 500 mg/50 mL (10 mg/mL),500.0,50.0,10.0,liquid,1,NCT06510309,Phase 2
+rituximab,RUXIENCE,RUXIENCE,Pfizer Laboratories Div Pfizer Inc,FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL) and 500 mg/50 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,NCT07257055,Phase 2
+rituximab,RUXIENCE,RUXIENCE,Pfizer Laboratories Div Pfizer Inc,FDA,IV,solution,biosimilar,100 mg/10 mL (10 mg/mL) and 500 mg/50 mL (10 mg/mL),500.0,50.0,10.0,liquid,1,NCT07257055,Phase 2
+romosozumab,EVENITY,EVENITY,"Amgen, Inc",FDA,SC,prefilled_syringe,originator,105 mg/1.17 mL,105.0,1.17,89.74358974358975,liquid,0,NCT06558188,Phase 4
+rozanolixizumab,RYSTIGGO,RYSTIGGO,"UCB, Inc.",FDA,SC,solution,originator,140 mg/mL,,,140.0,liquid,0,UNKNOWN,Approved
+sarilumab,KEVZARA,KEVZARA,Sanofi-Aventis U.S. LLC,FDA,SC,prefilled_syringe,originator,150 mg/1.14 mL and 200 mg/1.14 mL,150.0,1.14,131.578947,liquid,0,NCT06787612,Phase 2
+sarilumab,KEVZARA,KEVZARA,Sanofi-Aventis U.S. LLC,FDA,SC,prefilled_syringe,originator,150 mg/1.14 mL and 200 mg/1.14 mL,200.0,1.14,175.438596,liquid,1,NCT06787612,Phase 2
+satralizumab,ENSPRYNG,ENSPRYNG,"Genentech, Inc.",FDA,SC,prefilled_syringe,originator,120 mg/mL,,,120.0,liquid,0,NCT04660539,Phase 3
+secukinumab,COSENTYX,COSENTYX,Novartis Pharmaceuticals Corporation,FDA,IV_SC,prefilled_syringe,originator,300 mg/2 mL,300.0,2.0,150.0,liquid,0,NCT03536884,Phase 3
+sibeprenlimab,VOYXACT,VOYXACT,"Otsuka America Pharmaceutical, Inc.",FDA,SC,prefilled_syringe,originator,400 mg/2 mL (200 mg/mL),400.0,2.0,200.0,liquid,0,UNKNOWN,Approved
+siltuximab,SYLVANT,SYLVANT,"Recordati Rare Diseases, Inc.",FDA,IV,lyophilized_powder,originator,100 mg of lyophilized powder in a single-dose vial; 400 mg of lyophilized powder in a single-dose vial,100.0,,,lyophilized_reconstituted,0,NCT05684692,Phase 2
+siltuximab,SYLVANT,SYLVANT,"Recordati Rare Diseases, Inc.",FDA,IV,lyophilized_powder,originator,100 mg of lyophilized powder in a single-dose vial; 400 mg of lyophilized powder in a single-dose vial,400.0,,,lyophilized_reconstituted,1,NCT05684692,Phase 2
+spesolimab,SPEVIGO,SPEVIGO,"Boehringer Ingelheim Pharmaceuticals, Inc.",FDA,IV_SC,prefilled_syringe,originator,300 mg/2 mL (150 mg/mL),300.0,2.0,150.0,liquid,0,NCT06013969,Phase 4
+spesolimab,SPEVIGO,SPEVIGO,LEO Pharma Inc.,FDA,IV_SC,prefilled_syringe,originator,300 mg/2 mL (150 mg/mL),300.0,2.0,150.0,liquid,0,NCT06013969,Phase 4
+sutimlimab,ENJAYMO,ENJAYMO,"Recordati Rare Diseases, Inc.",FDA,IV,solution,originator,"1,100 mg/22 mL (50 mg/mL)",1100.0,22.0,50.0,liquid,0,UNKNOWN,Approved
+tafasitamab,MONJUVI,MONJUVI,Incyte Corporation,FDA,IV,lyophilized_powder,biosimilar,200 mg/vial,200.0,,,other,0,NCT04824092,Phase 3
+teplizumab,TZIELD,TZIELD,"Provention Bio, Inc.",FDA,IV,solution,biosimilar,2 mg per 2 mL (1 mg/mL),2.0,2.0,1.0,liquid,0,NCT07088068,Phase 3
+teprotumumab,TEPEZZA,TEPEZZA,"Horizon Therapeutics USA, Inc.",FDA,IV,lyophilized_powder,originator,500 mg/vial,500.0,,,other,0,NCT07142642,Phase 1
+tezepelumab,TEZSPIRE,TEZSPIRE,Amgen Inc,FDA,SC,solution,originator,210 mg/1.91 mL (110 mg/mL),210.0,1.91,109.9476439790576,liquid,0,NCT07520162,Phase 3
+tildrakizumab,ILUMYA,ILUMYA,"Sun Pharmaceutical Industries, Inc.",FDA,SC,prefilled_syringe,biosimilar,100 mg/mL,,,100.0,liquid,0,NCT04271540,Phase 4
+tislelizumab,TEVIMBRA,TEVIMBRA,"BeOne Medicines USA, Inc.",FDA,IV,solution,originator,100 mg/10 mL (10 mg/mL),100.0,10.0,10.0,liquid,0,NCT04387084,Phase 1
+tisotumab,TIVDAK,TIVDAK,Seagen Inc.,FDA,IV,lyophilized_powder,originator,40 mg/vial,40.0,,,other,0,NCT03786081,Phase 1|Phase 2
+tocilizumab,TOFIDENCE,TOFIDENCE,Biogen MA Inc,FDA,IV,solution,biosimilar,"80 mg/4 mL, 200 mg/10 mL, 400 mg/20 mL (20 mg/mL)",80.0,4.0,20.0,liquid,0,UNKNOWN,Approved
+tocilizumab,TOFIDENCE,TOFIDENCE,Biogen MA Inc,FDA,IV,solution,biosimilar,"80 mg/4 mL, 200 mg/10 mL, 400 mg/20 mL (20 mg/mL)",200.0,10.0,20.0,liquid,1,UNKNOWN,Approved
+tocilizumab,TOFIDENCE,TOFIDENCE,Biogen MA Inc,FDA,IV,solution,biosimilar,"80 mg/4 mL, 200 mg/10 mL, 400 mg/20 mL (20 mg/mL)",400.0,20.0,20.0,liquid,2,UNKNOWN,Approved
+tocilizumab,TOFIDENCE,TOFIDENCE,Organon LLC,FDA,IV,solution,biosimilar,20 mg/mL,,,20.0,liquid,0,UNKNOWN,Approved
+tocilizumab,ACTEMRA,ACTEMRA,"Genentech, Inc.",FDA,IV_SC,solution,biosimilar,162 mg/0.9 mL,162.0,0.9,180.0,liquid,0,NCT07108387,Phase 2
+tocilizumab,AVTOZMA,AVTOZMA,"CELLTRION USA, Inc.",FDA,IV_SC,solution,biosimilar,20 mg/mL,,,20.0,liquid,0,UNKNOWN,Approved
+tocilizumab,TOCILIZUMAB-ANOH,TOCILIZUMAB-ANOH,"CELLTRION USA, Inc.",FDA,IV_SC,solution,biosimilar,20 mg/mL,,,20.0,liquid,0,UNKNOWN,Approved
+tocilizumab,TYENNE,TYENNE,"Fresenius Kabi USA, LLC",FDA,IV_SC,solution,biosimilar,20 mg/mL,,,20.0,liquid,0,UNKNOWN,Approved
+tocilizumab,TYENNE,TYENNE,"Fresenius Kabi USA, LLC",FDA,IV_SC,prefilled_syringe,biosimilar,"80 mg/4 mL (20 mg/mL), 200 mg/10 mL (20 mg/mL), 400 mg/20 mL (20 mg/mL); 162 mg/0.9 mL",80.0,4.0,20.0,liquid,0,UNKNOWN,Approved
+tocilizumab,TYENNE,TYENNE,"Fresenius Kabi USA, LLC",FDA,IV_SC,prefilled_syringe,biosimilar,"80 mg/4 mL (20 mg/mL), 200 mg/10 mL (20 mg/mL), 400 mg/20 mL (20 mg/mL); 162 mg/0.9 mL",200.0,10.0,20.0,liquid,1,UNKNOWN,Approved
+tocilizumab,TYENNE,TYENNE,"Fresenius Kabi USA, LLC",FDA,IV_SC,prefilled_syringe,biosimilar,"80 mg/4 mL (20 mg/mL), 200 mg/10 mL (20 mg/mL), 400 mg/20 mL (20 mg/mL); 162 mg/0.9 mL",400.0,20.0,20.0,liquid,2,UNKNOWN,Approved
+tocilizumab,TYENNE,TYENNE,"Fresenius Kabi USA, LLC",FDA,IV_SC,prefilled_syringe,biosimilar,"80 mg/4 mL (20 mg/mL), 200 mg/10 mL (20 mg/mL), 400 mg/20 mL (20 mg/mL); 162 mg/0.9 mL",162.0,0.9,180.0,liquid,3,UNKNOWN,Approved
+tocilizumab,TYENNE,TYENNE,"Fresenius Kabi USA, LLC",FDA,IV_SC,solution,biosimilar,162 mg/0.9 mL,162.0,0.9,180.0,liquid,0,UNKNOWN,Approved
+toripalimab,LOQTORZI,LOQTORZI,"Coherus Oncology, Inc.",FDA,IV,solution,originator,240 mg/6 mL (40 mg/mL),240.0,6.0,40.0,liquid,0,NCT07423078,Phase 2
+tralokinumab,ADBRY,ADBRY,LEO Pharma Inc.,FDA,SC,prefilled_syringe,biosimilar,150 mg/mL,,,150.0,liquid,0,NCT05938478,Approved
+trastuzumab,KADCYLA,KADCYLA,"Genentech, Inc.",FDA,IV,lyophilized_powder,biosimilar,20 mg/mL,,,20.0,liquid,0,NCT02326974,Phase 2
+trastuzumab,PHESGO,PHESGO,"Genentech, Inc.",FDA,IV_SC,solution,biosimilar,"80 mg, 40 mg, and 2,000 units/mL",80.0,,,other,0,NCT04569747,Phase 2
+trastuzumab,PHESGO,PHESGO,"Genentech, Inc.",FDA,IV_SC,solution,biosimilar,"80 mg, 40 mg, and 2,000 units/mL",40.0,,,other,1,NCT04569747,Phase 2
+trastuzumab,PHESGO,PHESGO,"Genentech, Inc.",FDA,IV_SC,solution,biosimilar,"80 mg, 40 mg, and 2,000 units/mL",,,,liquid,2,NCT04569747,Phase 2
+trastuzumab,HERCEPTIN,HERCEPTIN,"Genentech, Inc.",FDA,IV,lyophilized_powder,originator,150 mg in 7.4 mL,150.0,7.4,20.27027027027027,liquid,0,NCT05152147,Phase 3
+trastuzumab,ENHERTU,ENHERTU,Daiichi Sankyo Inc.,FDA,IV,lyophilized_powder,biosimilar,100 mg lyophilized powder in a single-dose vial,100.0,,,lyophilized_reconstituted,0,NCT05744375,Phase 2
+trastuzumab,KANJINTI,KANJINTI,"Amgen, Inc",FDA,IV,lyophilized_powder,biosimilar,"For Injection: 150 mg lyophilized powder in a single-dose vial for reconstitution
+For Injection: 420 mg lyophilized powder in a multiple-dose vial for reconstitution",150.0,,,lyophilized_reconstituted,0,NCT03811418,Phase 3
+trastuzumab,KANJINTI,KANJINTI,"Amgen, Inc",FDA,IV,lyophilized_powder,biosimilar,"For Injection: 150 mg lyophilized powder in a single-dose vial for reconstitution
+For Injection: 420 mg lyophilized powder in a multiple-dose vial for reconstitution",420.0,,,lyophilized_reconstituted,1,NCT03811418,Phase 3
+trastuzumab,HERZUMA,HERZUMA,"Cephalon, Inc.",FDA,IV,lyophilized_powder,biosimilar,150 mg (single-dose vial); 420 mg (multiple-dose vial),150.0,,,other,0,NCT06083662,Phase 2
+trastuzumab,HERZUMA,HERZUMA,"Cephalon, Inc.",FDA,IV,lyophilized_powder,biosimilar,150 mg (single-dose vial); 420 mg (multiple-dose vial),420.0,,,other,1,NCT06083662,Phase 2
+trastuzumab,OGIVRI,OGIVRI,Biocon Biologics Inc.,FDA,IV,lyophilized_powder,biosimilar,21 mg/mL,,,21.0,liquid,0,UNKNOWN,Approved
+trastuzumab,TRAZIMERA,TRAZIMERA,Pfizer Laboratories Div Pfizer Inc,FDA,IV,lyophilized_powder,biosimilar,150 mg/vial; 420 mg/vial,150.0,,,other,0,NCT03988036,Phase 2
+trastuzumab,TRAZIMERA,TRAZIMERA,Pfizer Laboratories Div Pfizer Inc,FDA,IV,lyophilized_powder,biosimilar,150 mg/vial; 420 mg/vial,420.0,,,other,1,NCT03988036,Phase 2
+trastuzumab,ONTRUZANT,ONTRUZANT,Organon LLC,FDA,IV,lyophilized_powder,biosimilar,150 mg/vial; 420 mg/vial,150.0,,,other,0,NCT05504720,Phase 2
+trastuzumab,ONTRUZANT,ONTRUZANT,Organon LLC,FDA,IV,lyophilized_powder,biosimilar,150 mg/vial; 420 mg/vial,420.0,,,other,1,NCT05504720,Phase 2
+trastuzumab,HERCEPTIN HYLECTA,HERCEPTIN HYLECTA,"Genentech, Inc.",FDA,SC,solution,biosimilar,"600 mg trastuzumab and 10,000 units hyaluronidase per 5 mL (120 mg/2,000 units per mL)",600.0,5.0,120.0,liquid,0,UNKNOWN,Approved
+tremelimumab,IMJUDO,IMJUDO,AstraZeneca Pharmaceuticals LP,FDA,IV,solution,originator,25 mg/1.25 mL (20 mg/mL),25.0,1.25,20.0,liquid,0,NCT06855225,Phase 2
+ublituximab,BRIUMVI,BRIUMVI,"TG Therapeutics, Inc.",FDA,IV,solution,originator,150 mg/6 mL (25 mg/mL),150.0,6.0,25.0,liquid,0,NCT07220252,Phase 2|Phase 3
+ustekinumab,USTEKINUMAB-AEKN,USTEKINUMAB-AEKN,"Teva Pharmaceuticals USA, Inc.",FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,YESINTEK,YESINTEK,Biocon Biologics Inc.,FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,USTEKINUMAB,USTEKINUMAB,"Janssen Biotech, Inc.",FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL or 90 mg/mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,USTEKINUMAB,USTEKINUMAB,"Janssen Biotech, Inc.",FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL or 90 mg/mL,,,90.0,liquid,1,UNKNOWN,Approved
+ustekinumab,IMULDOSA,IMULDOSA,Accord BioPharma Inc.,FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL; 90 mg/mL; 130 mg/26 mL (5 mg/mL),45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,IMULDOSA,IMULDOSA,Accord BioPharma Inc.,FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL; 90 mg/mL; 130 mg/26 mL (5 mg/mL),,,90.0,liquid,1,UNKNOWN,Approved
+ustekinumab,IMULDOSA,IMULDOSA,Accord BioPharma Inc.,FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL; 90 mg/mL; 130 mg/26 mL (5 mg/mL),130.0,26.0,5.0,liquid,2,UNKNOWN,Approved
+ustekinumab,USTEKINUMAB-TTWE,USTEKINUMAB-TTWE,Quallent Pharmaceuticals Health LLC,FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,IMULDOSA,IMULDOSA,"Golden State Medical Supply, Inc.",FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,STEQEYMA,STEQEYMA,"CELLTRION USA, Inc.",FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,OTULFI,OTULFI,"Fresenius Kabi USA, LLC",FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,SELARSDI,SELARSDI,"Teva Pharmaceuticals USA, Inc.",FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,STARJEMZA,STARJEMZA,Hikma Pharmaceuticals USA Inc.,FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,SELARSDI,SELARSDI,A-S Medication Solutions,FDA,IV_SC,solution,biosimilar,45 mg/0.5 mL or 90 mg/mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,SELARSDI,SELARSDI,A-S Medication Solutions,FDA,IV_SC,solution,biosimilar,45 mg/0.5 mL or 90 mg/mL,,,90.0,liquid,1,UNKNOWN,Approved
+ustekinumab,STELARA,STELARA,"Janssen Biotech, Inc.",FDA,IV_SC,prefilled_syringe,originator,90 mg/mL,,,90.0,liquid,0,NCT03370133,Phase 3
+ustekinumab,PYZCHIVA,PYZCHIVA,Sandoz Inc,FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+ustekinumab,PYZCHIVA,PYZCHIVA,Cordavis Limited,FDA,IV_SC,prefilled_syringe,biosimilar,45 mg/0.5 mL,45.0,0.5,90.0,liquid,0,UNKNOWN,Approved
+vedolizumab,ENTYVIO,ENTYVIO,"Takeda Pharmaceuticals America, Inc.",FDA,IV_SC,prefilled_syringe,originator,108 mg/0.68 mL,108.0,0.68,158.82352941176472,liquid,0,NCT05442567,Phase 3
+vilobelimab,GOHIBIC,GOHIBIC,InflaRx GmbH,FDA,IV,solution,originator,200 mg/20 mL (10 mg/mL),200.0,20.0,10.0,liquid,0,UNKNOWN,Approved
+zolbetuximab,VYLOY,VYLOY,"Astellas Pharma US, Inc.",FDA,IV,lyophilized_powder,originator,20 mg/mL,,,20.0,liquid,0,NCT06901531,Phase 3
+teplizumab,Teizeild,TEIZEILD,Sanofi Winthrop Industrie,EMA,IV,solution,originator,1 mg/mL,,,1.0,liquid,0,UNKNOWN,Approved
+ustekinumab,Steqeyma,STEQEYMA,Celltrion Healthcare Hungary Kft.,EMA,IV_SC,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+ustekinumab,Qoyvolma,QOYVOLMA,Celltrion Healthcare Hungary Kft.,EMA,IV,solution,biosimilar,Each vial contains 130 mg ustekinumab in 26 mL (5 mg/mL).,130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+ocrelizumab,Ocrevus 300 mg concentrate for solution for infusion,OCREVUS,"Roche Registration GmbH, Emil-Barell-Strasse 1, 79639 Grenzach-Wyhlen, Germany",EMA,IV,solution,originator,300 mg in 10 mL (30 mg/mL),300.0,10.0,30.0,liquid,0,NCT05285891,Phase 4
+denosumab,Enwylma 120 mg solution for injection,ENWYLMA,Zentiva k.s.,EMA,SC,solution,biosimilar,120 mg of denosumab in 1.7 mL of solution (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+spesolimab,Spevigo 450 mg concentrate for solution for infusion,SPEVIGO,"LEO Pharma A/S, Industriparken 55, DK-2750 Ballerup, Denmark",EMA,IV_SC,solution,originator,450 mg in 7.5 mL,450.0,7.5,60.0,liquid,0,NCT06013969,Phase 4
+dupilumab,Dupixent,DUPIXENT,,EMA,SC,solution,originator,300 mg in 2 mL solution (150 mg/mL),300.0,2.0,150.0,liquid,0,NCT06693531,Approved
+daratumumab,DARZALEX 20mg/mL concentrate for solution for infusion,DARZALEX,Janssen-Cilag International NV,EMA,IV,solution,originator,20mg/mL,,,20.0,liquid,0,NCT04972942,Phase 1
+mogamulizumab,POTELIGEO,POTELIGEO,Kyowa Kirin Holdings B.V.,EMA,IV,solution,originator,20 mg in 5 mL,20.0,5.0,4.0,liquid,0,NCT05996185,Phase 2
+burosumab,CRYSVITA,CRYSVITA,Kyowa Kirin Holdings B.V.,EMA,SC,solution,originator,10 mg in 1 ml; 20 mg in 1 ml; 30 mg in 1 ml; 10 mg in 0.33 ml (pre-filled syringe); 20 mg in 0.67 ml (pre-filled syringe); 30 mg in 1 ml (pre-filled syringe),10.0,1.0,10.0,liquid,0,NCT03775187,Approved
+burosumab,CRYSVITA,CRYSVITA,Kyowa Kirin Holdings B.V.,EMA,SC,solution,originator,10 mg in 1 ml; 20 mg in 1 ml; 30 mg in 1 ml; 10 mg in 0.33 ml (pre-filled syringe); 20 mg in 0.67 ml (pre-filled syringe); 30 mg in 1 ml (pre-filled syringe),20.0,1.0,20.0,liquid,1,NCT03775187,Approved
+burosumab,CRYSVITA,CRYSVITA,Kyowa Kirin Holdings B.V.,EMA,SC,solution,originator,10 mg in 1 ml; 20 mg in 1 ml; 30 mg in 1 ml; 10 mg in 0.33 ml (pre-filled syringe); 20 mg in 0.67 ml (pre-filled syringe); 30 mg in 1 ml (pre-filled syringe),30.0,1.0,30.0,liquid,2,NCT03775187,Approved
+burosumab,CRYSVITA,CRYSVITA,Kyowa Kirin Holdings B.V.,EMA,SC,solution,originator,10 mg in 1 ml; 20 mg in 1 ml; 30 mg in 1 ml; 10 mg in 0.33 ml (pre-filled syringe); 20 mg in 0.67 ml (pre-filled syringe); 30 mg in 1 ml (pre-filled syringe),10.0,0.33,30.303030303,liquid,3,NCT03775187,Approved
+burosumab,CRYSVITA,CRYSVITA,Kyowa Kirin Holdings B.V.,EMA,SC,solution,originator,10 mg in 1 ml; 20 mg in 1 ml; 30 mg in 1 ml; 10 mg in 0.33 ml (pre-filled syringe); 20 mg in 0.67 ml (pre-filled syringe); 30 mg in 1 ml (pre-filled syringe),20.0,0.67,29.850746269,liquid,4,NCT03775187,Approved
+burosumab,CRYSVITA,CRYSVITA,Kyowa Kirin Holdings B.V.,EMA,SC,solution,originator,10 mg in 1 ml; 20 mg in 1 ml; 30 mg in 1 ml; 10 mg in 0.33 ml (pre-filled syringe); 20 mg in 0.67 ml (pre-filled syringe); 30 mg in 1 ml (pre-filled syringe),30.0,1.0,30.0,liquid,5,NCT03775187,Approved
+sipavibart,KAVIGALE 300 mg solution for injection/infusion,KAVIGALE,AstraZeneca AB,EMA,IM,solution,originator,300 mg in 2 ml (150 mg/ml),300.0,2.0,150.0,liquid,0,UNKNOWN,Approved
+relatlimab,Opdualag,OPDUALAG,Bristol-Myers Squibb Pharma EEIG,EMA,IV,solution,originator,Each mL of concentrate for solution for infusion contains 12 mg of nivolumab and 4 mg of relatlimab.,,,16.0,liquid,0,NCT06743126,Phase 3
+tralokinumab,Adtralza,ADTRALZA,LEO Pharma A/S,EMA,SC,solution,originator,150 mg/ml,,,150.0,liquid,0,UNKNOWN,Approved
+nirsevimab,Beyfortus,BEYFORTUS,Sanofi Winthrop Industrie,EMA,IM,solution,originator,50 mg in 0.5 mL (100 mg/mL); 100 mg in 1 mL (100 mg/mL),50.0,0.5,100.0,liquid,0,NCT07158814,Phase 4
+nirsevimab,Beyfortus,BEYFORTUS,Sanofi Winthrop Industrie,EMA,IM,solution,originator,50 mg in 0.5 mL (100 mg/mL); 100 mg in 1 mL (100 mg/mL),100.0,1.0,100.0,liquid,1,NCT07158814,Phase 4
+tocilizumab,RoActemra,ROACTEMRA,Roche Registration GmbH,EMA,IV_SC,solution,originator,20 mg/mL,,,20.0,liquid,0,NCT04871191,Phase 3
+infliximab,Remsima,REMSIMA,"Celltrion Healthcare Hungary Kft., 1062 Budapest, Váci út 1-3. WestEnd Office Building B torony, Hungary",EMA,IV_SC,lyophilized_powder,biosimilar,100 mg per vial (after reconstitution each mL contains 10 mg of infliximab),100.0,10.0,10.0,lyophilized_reconstituted,0,NCT06059989,Phase 3
+dostarlimab,JEMPERLI,JEMPERLI,GlaxoSmithKline Trading Services Limited,EMA,IV,solution,originator,500 mg in 10 mL,500.0,10.0,50.0,liquid,0,NCT04387084,Phase 1
+ustekinumab,Uzpruvo,UZPRUVO,STADA Arzneimittel AG,EMA,IV,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+atezolizumab,Tecentriq,TECENTRIQ,,EMA,IV,solution,originator,840 mg (one 14 mL vial); 1 200 mg (one 20 mL vial),840.0,14.0,60.0,liquid,0,NCT04796012,Phase 1|Phase 2
+atezolizumab,Tecentriq,TECENTRIQ,,EMA,IV,solution,originator,840 mg (one 14 mL vial); 1 200 mg (one 20 mL vial),1200.0,20.0,60.0,liquid,1,NCT04796012,Phase 1|Phase 2
+ustekinumab,IMULDOSA,IMULDOSA,Accord Healthcare S.L.U.,EMA,IV_SC,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+denosumab,Vevzuo,VEVZUO,Biosimilar Collaborations Ireland Limited,EMA,SC,solution,biosimilar,Each vial contains 120 mg of denosumab in 1.7 mL of solution (70 mg/mL).,120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+ustekinumab,Otulfi,OTULFI,Fresenius Kabi Deutschland GmbH,EMA,IV_SC,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+teprotumumab,TEPEZZA,TEPEZZA,Amgen Europe B.V.,EMA,IV,lyophilized_powder,originator,500 mg,500.0,,,other,0,NCT07142642,Phase 1
+siltuximab,SYLVANT,SYLVANT,Recordati Netherlands B.V.,EMA,IV,lyophilized_powder,originator,100 mg (vial); 400 mg (vial); after reconstitution: 20 mg/mL,100.0,5.0,20.0,lyophilized_reconstituted,0,NCT05684692,Phase 2
+siltuximab,SYLVANT,SYLVANT,Recordati Netherlands B.V.,EMA,IV,lyophilized_powder,originator,100 mg (vial); 400 mg (vial); after reconstitution: 20 mg/mL,400.0,20.0,20.0,lyophilized_reconstituted,1,NCT05684692,Phase 2
+retifanlimab,ZYNYZ,ZYNYZ,Incyte Biosciences Distribution B.V.,EMA,IV,solution,originator,25 mg/mL,,,25.0,liquid,0,NCT04387084,Phase 1
+guselkumab,Tremfya 45mg/0.45mL solution for injection in pre-filled pen,TREMFYA,Janssen-Cilag International NV,EMA,IV_SC,autoinjector,originator,45mg/0.45mL,45.0,0.45,100.0,liquid,0,NCT07532486,Approved
+lebrikizumab,Ebglyss,EBGLYSS,"Almirall, S.A.",EMA,SC,solution,originator,Each single-use pre-filled syringe contains 250 mg of lebrikizumab in 2 mL solution (125 mg/mL),250.0,2.0,125.0,liquid,0,NCT07471932,Phase 1
+denosumab,Evfraxy,EVFRAXY,Biosimilar Collaborations Ireland Limited,EMA,SC,solution,biosimilar,60 mg in 1 mL (60 mg/mL),60.0,1.0,60.0,liquid,0,UNKNOWN,Approved
+denosumab,XGEVA,XGEVA,Amgen Europe B.V.,EMA,SC,solution,biosimilar,Each vial contains 120 mg of denosumab in 1.7 mL of solution (70 mg/mL); Each pre-filled syringe contains 120 mg of denosumab in 1.0 mL of solution (120 mg/mL).,120.0,1.7,70.58823529411765,liquid,0,NCT03401060,Phase 3
+denosumab,XGEVA,XGEVA,Amgen Europe B.V.,EMA,SC,solution,biosimilar,Each vial contains 120 mg of denosumab in 1.7 mL of solution (70 mg/mL); Each pre-filled syringe contains 120 mg of denosumab in 1.0 mL of solution (120 mg/mL).,120.0,1.0,120.0,liquid,1,NCT03401060,Phase 3
+denosumab,Osenvelt,OSENVELT,Celltrion Healthcare Hungary Kft.,EMA,SC,solution,biosimilar,120 mg in 1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+adalimumab,Libmyris,LIBMYRIS,,EMA,SC,solution,biosimilar,40 mg in 0.4 ml,40.0,0.4,100.0,liquid,0,UNKNOWN,Approved
+durvalumab,IMFINZI,IMFINZI,,EMA,IV,solution,originator,50 mg/ml,,,50.0,liquid,0,NCT03606967,Phase 2
+pembrolizumab,KEYTRUDA,KEYTRUDA,,EMA,IV,solution,originator,25 mg/mL,,,25.0,liquid,0,NCT05633602,Phase 3
+nivolumab,OPDIVO,OPDIVO,,EMA,IV,solution,originator,10 mg/mL,,,10.0,liquid,0,NCT04134325,EARLY_Phase 1
+vilobelimab,Gohibic,GOHIBIC,"InflaRx GmbH, Winzerlaer Strasse 2, 07745 Jena, Germany",EMA,IV,solution,originator,200 mg in 20 mL (10 mg/mL),200.0,20.0,10.0,liquid,0,UNKNOWN,Approved
+obinutuzumab,Gazyvaro,GAZYVARO,Roche Registration GmbH,EMA,IV,solution,originator,1 000 mg in 40 mL,1000.0,40.0,25.0,liquid,0,NCT03341520,Phase 2
+bimekizumab,Bimzelx,BIMZELX,UCB Pharma S.A.,EMA,SC,solution,originator,160 mg in 1 mL,160.0,1.0,160.0,liquid,0,NCT06888193,Phase 1
+depemokimab,EXDENSUR,EXDENSUR,GlaxoSmithKline Trading Services Limited,EMA,SC,solution,originator,100 mg/mL,,,100.0,liquid,0,UNKNOWN,Approved
+mepolizumab,Nucala,NUCALA,GlaxoSmithKline Trading Services Limited,EMA,SC,solution,originator,100 mg in 1 mL; 40 mg in 0.4 mL,100.0,1.0,100.0,liquid,0,NCT06069310,Approved
+mepolizumab,Nucala,NUCALA,GlaxoSmithKline Trading Services Limited,EMA,SC,solution,originator,100 mg in 1 mL; 40 mg in 0.4 mL,40.0,0.4,100.0,liquid,1,NCT06069310,Approved
+natalizumab,Tyruko,TYRUKO,Sandoz GmbH,EMA,IV,solution,biosimilar,300 mg/15 mL,300.0,15.0,20.0,liquid,0,UNKNOWN,Approved
+golimumab,Simponi 45mg/0.45mL solution for injection in pre-filled pen,SIMPONI,Janssen-Cilag International NV,EMA,SC,autoinjector,originator,45mg/0.45mL,45.0,0.45,100.0,liquid,0,NCT05071664,Phase 2
+denosumab,Kefdensis,KEFDENSIS,STADA Arzneimittel AG,EMA,SC,solution,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+sotrovimab,Xevudy 500 mg concentrate for solution for infusion,XEVUDY,GlaxoSmithKline Trading Services Limited,EMA,IV,solution,originator,500 mg in 8 mL (62.5 mg/mL),500.0,8.0,62.5,liquid,0,NCT05195060,Approved
+vedolizumab,Entyvio 300 mg powder for concentrate for solution for infusion,ENTYVIO,Takeda Pharma A/S,EMA,IV_SC,lyophilized_powder,originator,300 mg,300.0,,,other,0,NCT05442567,Phase 3
+zolbetuximab,Vyloy,VYLOY,Astellas Pharma Europe B.V.,EMA,IV,lyophilized_powder,originator,100 mg vial; 300 mg vial; after reconstitution each mL contains 20 mg,100.0,5.0,20.0,lyophilized_reconstituted,0,NCT06901531,Phase 3
+zolbetuximab,Vyloy,VYLOY,Astellas Pharma Europe B.V.,EMA,IV,lyophilized_powder,originator,100 mg vial; 300 mg vial; after reconstitution each mL contains 20 mg,300.0,15.0,20.0,lyophilized_reconstituted,1,NCT06901531,Phase 3
+trastuzumab,Herceptin,HERCEPTIN,Roche Registration GmbH,EMA,IV,lyophilized_powder,originator,150 mg,150.0,,,other,0,NCT05152147,Phase 3
+nemolizumab,Nemluvio,NEMLUVIO,Galderma International,EMA,SC,lyophilized_powder,originator,30 mg per 0.49 ml dose,30.0,0.49,61.22448979591837,liquid,0,UNKNOWN,Approved
+denosumab,Xbonzy 120 mg solution for injection,XBONZY,Reddy Holding GmbH,EMA,SC,solution,biosimilar,Each vial contains 120 mg of denosumab in 1.7 mL of solution (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+ixekizumab,Taltz,TALTZ,"Eli Lilly and Company (Ireland) Limited, Dunderrow, Kinsale, Co. Cork, Ireland",EMA,SC,solution,originator,40 mg in 0.5 mL; 80 mg in 1 mL,40.0,0.5,80.0,liquid,0,NCT04340076,Phase 4
+ixekizumab,Taltz,TALTZ,"Eli Lilly and Company (Ireland) Limited, Dunderrow, Kinsale, Co. Cork, Ireland",EMA,SC,solution,originator,40 mg in 0.5 mL; 80 mg in 1 mL,80.0,1.0,80.0,liquid,1,NCT04340076,Phase 4
+evinacumab,Evkeeza 150 mg/ml concentrate for solution for infusion,EVKEEZA,Ultragenyx Germany GmbH,EMA,IV,solution,originator,150 mg/ml,,,150.0,liquid,0,NCT07271186,Phase 2
+denosumab,Conexxence,CONEXXENCE,Fresenius Kabi Deutschland GmbH,EMA,SC,prefilled_syringe,biosimilar,60 mg in 1 mL,60.0,1.0,60.0,liquid,0,UNKNOWN,Approved
+donanemab,Kisunla,KISUNLA,"Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands.",EMA,IV,solution,originator,350 mg in 20 mL (17.5 mg/mL),350.0,20.0,17.5,liquid,0,NCT07167966,Phase 2
+golimumab,Gotenfia,GOTENFIA,STADA Arzneimittel AG,EMA,SC,prefilled_syringe,biosimilar,50 mg in 0.5 mL; 100 mg in 1 mL,50.0,0.5,100.0,liquid,0,UNKNOWN,Approved
+golimumab,Gotenfia,GOTENFIA,STADA Arzneimittel AG,EMA,SC,prefilled_syringe,biosimilar,50 mg in 0.5 mL; 100 mg in 1 mL,100.0,1.0,100.0,liquid,1,UNKNOWN,Approved
+denosumab,Acvybra,ACVYBRA,Reddy Holding GmbH,EMA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+ustekinumab,Fymskina 130 mg concentrate for solution for infusion,FYMSKINA,Formycon AG,EMA,IV,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+trastuzumab,Ogivri,OGIVRI,Biosimilar Collaborations Ireland Limited,EMA,IV,lyophilized_powder,biosimilar,150 mg (vial); 420 mg (vial); reconstituted: 21 mg/mL,150.0,7.142857142857143,21.0,lyophilized_reconstituted,0,UNKNOWN,Approved
+trastuzumab,Ogivri,OGIVRI,Biosimilar Collaborations Ireland Limited,EMA,IV,lyophilized_powder,biosimilar,150 mg (vial); 420 mg (vial); reconstituted: 21 mg/mL,420.0,20.0,21.0,lyophilized_reconstituted,1,UNKNOWN,Approved
+denosumab,Osqay 60 mg solution for injection in pre-filled syringe,OSQAY,Theramex Ireland Ltd.,EMA,SC,solution,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+sarilumab,Kevzara,KEVZARA,Sanofi Winthrop Industrie,EMA,SC,solution,originator,150 mg in 1.14 ml (131.6 mg/ml),150.0,1.14,131.57894736842104,liquid,0,NCT06787612,Phase 2
+eculizumab,Soliris 300 mg concentrate for solution for infusion,SOLIRIS,Alexion Europe SAS,EMA,IV,solution,originator,300 mg in 30 ml (10 mg/ml),300.0,30.0,10.0,liquid,0,NCT05133531,Phase 3
+adalimumab,Hulio 20 mg solution for injection in pre-filled syringe,HULIO,Biosimilar Collaborations Ireland Limited,EMA,SC,solution,biosimilar,20 mg in 0.4 ml,20.0,0.4,50.0,liquid,0,UNKNOWN,Approved
+eculizumab,Epysqli 300 mg concentrate for solution for infusion,EPYSQLI,Samsung Bioepis NL B.V.,EMA,IV,solution,biosimilar,300 mg in 30 ml (10 mg/ml),300.0,30.0,10.0,liquid,0,UNKNOWN,Approved
+ustekinumab,WEZENLA,WEZENLA,"Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co Dublin, Ireland",EMA,IV_SC,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+sugemalimab,Cejemly,CEJEMLY,CStone Pharmaceuticals Ireland Limited,EMA,IV,solution,originator,30 mg/mL,,,30.0,liquid,0,UNKNOWN,Approved
+inebilizumab,Uplizna,UPLIZNA,Amgen Europe B.V.,EMA,IV,solution,originator,100 mg in 10 mL,100.0,10.0,10.0,liquid,0,NCT06570798,Phase 2
+ustekinumab,Usrenty,USRENTY,Biosimilar Collaborations Ireland Limited,EMA,IV,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+ustekinumab,Yesintek 130 mg concentrate for solution for infusion,YESINTEK,Biosimilar Collaborations Ireland Limited,EMA,IV_SC,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+adalimumab,Hefiya,HEFIYA,,EMA,SC,prefilled_syringe,biosimilar,20 mg in 0.4 ml; 40 mg in 0.8 ml,20.0,0.4,50.0,liquid,0,UNKNOWN,Approved
+adalimumab,Hefiya,HEFIYA,,EMA,SC,prefilled_syringe,biosimilar,20 mg in 0.4 ml; 40 mg in 0.8 ml,40.0,0.8,50.0,liquid,1,UNKNOWN,Approved
+satralizumab,Enspryng,ENSPRYNG,Roche Registration GmbH,EMA,SC,solution,originator,120 mg/1 mL,120.0,1.0,120.0,liquid,0,NCT04660539,Phase 3
+tremelimumab,IMJUDO,IMJUDO,AstraZeneca AB,EMA,IV,solution,originator,20 mg/ml,,,20.0,liquid,0,NCT06855225,Phase 2
+crovalimab,Piasky,PIASKY,Roche Registration GmbH,EMA,IV_SC,solution,originator,340 mg/2 mL,340.0,2.0,170.0,liquid,0,UNKNOWN,Approved
+bevacizumab,Lytenava 25 mg/mL solution for injection,LYTENAVA,Outlook Therapeutics NL B.V.,EMA,OTHER,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,UNKNOWN,Approved
+denosumab,Bildyos 60 mg solution for injection in pre-filled syringe,BILDYOS,SciencePharma Sp. z o.o.,EMA,SC,solution,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+trastuzumab,Tuznue,TUZNUE,Prestige Biopharma Belgium BVBA,EMA,IV,lyophilized_powder,biosimilar,150 mg (vial); 420 mg (vial); 21 mg/mL (reconstituted),150.0,7.142857142857143,21.0,lyophilized_reconstituted,0,UNKNOWN,Approved
+trastuzumab,Tuznue,TUZNUE,Prestige Biopharma Belgium BVBA,EMA,IV,lyophilized_powder,biosimilar,150 mg (vial); 420 mg (vial); 21 mg/mL (reconstituted),420.0,20.0,21.0,lyophilized_reconstituted,1,UNKNOWN,Approved
+bevacizumab,Alymsys,ALYMSYS,,EMA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,NCT05001880,Phase 2
+ofatumumab,Kesimpta,KESIMPTA,Novartis Europharm Limited,EMA,SC,solution,originator,20 mg in 0.4 ml (50 mg/ml),20.0,0.4,50.0,liquid,0,NCT06345157,Approved
+adalimumab,Yuflyma,YUFLYMA,,EMA,SC,solution,biosimilar,40 mg in 0.4 ml,40.0,0.4,100.0,liquid,0,UNKNOWN,Approved
+bevacizumab,Avzivi,AVZIVI,,EMA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,UNKNOWN,Approved
+tocilizumab,Tocilizumab STADA,TOCILIZUMAB STADA,STADA Arzneimittel AG,EMA,IV,solution,biosimilar,20 mg/mL,,,20.0,liquid,0,UNKNOWN,Approved
+lecanemab,LEQEMBI,LEQEMBI,Eisai GmbH,EMA,IV_SC,solution,originator,100 mg/mL,,,100.0,liquid,0,NCT06602258,Phase 2
+adalimumab,Imraldi,IMRALDI,,EMA,SC,prefilled_syringe,biosimilar,40 mg in 0.8 ml,40.0,0.8,50.0,liquid,0,NCT04089514,Approved
+trastuzumab,Trazimera,TRAZIMERA,Pfizer Europe MA EEIG,EMA,IV,lyophilized_powder,biosimilar,21 mg/mL,,,21.0,liquid,0,NCT03988036,Phase 2
+denosumab,Osvyrti,OSVYRTI,Accord Healthcare S.L.U.,EMA,SC,solution,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+cetuximab,Erbitux,ERBITUX,Merck Europe B.V.,EMA,IV,solution,originator,5 mg/mL,,,5.0,liquid,0,NCT02128906,Phase 2
+anifrolumab,Saphnelo,SAPHNELO,AstraZeneca AB,EMA,IV_SC,solution,originator,150 mg/ml,,,150.0,liquid,0,NCT06659029,Approved
+adalimumab,Hukyndra,HUKYNDRA,STADA Arzneimittel AG,EMA,SC,prefilled_syringe,biosimilar,20 mg in 0.2 ml,20.0,0.2,100.0,liquid,0,UNKNOWN,Approved
+bevacizumab,Abevmy,ABEVMY,,EMA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,UNKNOWN,Approved
+bevacizumab,Vegzelma,VEGZELMA,,EMA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,UNKNOWN,Approved
+bevacizumab,Oyavas,OYAVAS,,EMA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,UNKNOWN,Approved
+bevacizumab,Aybintio,AYBINTIO,,EMA,IV,solution,biosimilar,25 mg/ml,,,25.0,liquid,0,UNKNOWN,Approved
+trastuzumab,Herzuma,HERZUMA,Celltrion Healthcare Hungary Kft.,EMA,IV,lyophilized_powder,biosimilar,21 mg/mL,,,21.0,liquid,0,NCT06083662,Phase 2
+mirikizumab,Omvoh,OMVOH,Eli Lilly Nederland B.V.,EMA,IV_SC,solution,originator,300 mg in 15 mL (20 mg/mL),300.0,15.0,20.0,liquid,0,NCT06249555,Approved
+galcanezumab,Emgality 120 mg solution for injection in pre-filled pen,EMGALITY,"Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands",EMA,SC,solution,originator,120 mg in 1 mL,120.0,1.0,120.0,liquid,0,NCT07323927,EARLY_Phase 1
+tafasitamab,MINJUVI,MINJUVI,Incyte Biosciences Distribution B.V.,EMA,IV,lyophilized_powder,originator,200 mg per vial; 40 mg/mL after reconstitution,200.0,5.0,40.0,lyophilized_reconstituted,0,UNKNOWN,Approved
+bevacizumab,Avastin,AVASTIN,,EMA,IV,solution,originator,25 mg/ml,,,25.0,liquid,0,NCT01746238,Phase 1
+bevacizumab,MVASI 25 mg/mL concentrate for solution for infusion,MVASI,,EMA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,NCT06252649,Phase 3
+tocilizumab,Avtozma 20 mg/mL concentrate for solution for infusion,AVTOZMA,"Celltrion Healthcare Hungary Kft., 1062 Budapest, Váci út 1-3. WestEnd Office Building B torony, Hungary",EMA,IV_SC,solution,biosimilar,20 mg/mL,,,20.0,liquid,0,UNKNOWN,Approved
+tislelizumab,Tevimbra,TEVIMBRA,BeOne Medicines Ireland Limited,EMA,IV,solution,originator,100 mg/10 ml,100.0,10.0,10.0,liquid,0,NCT04387084,Phase 1
+trastuzumab,Ontruzant,ONTRUZANT,Samsung Bioepis NL B.V.,EMA,IV,lyophilized_powder,biosimilar,150 mg vial; 420 mg vial (reconstituted solution contains 21 mg/mL),150.0,,,other,0,NCT05504720,Phase 2
+trastuzumab,Ontruzant,ONTRUZANT,Samsung Bioepis NL B.V.,EMA,IV,lyophilized_powder,biosimilar,150 mg vial; 420 mg vial (reconstituted solution contains 21 mg/mL),420.0,20.0,21.0,lyophilized_reconstituted,1,NCT05504720,Phase 2
+avelumab,Bavencio,BAVENCIO,Merck Europe B.V.,EMA,IV,solution,originator,20 mg/mL,,,20.0,liquid,0,NCT04071236,Phase 1|Phase 2
+denosumab,Ponlimsi,PONLIMSI,TEVA GmbH,EMA,SC,solution,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+cemiplimab,LIBTAYO,LIBTAYO,"Regeneron Ireland Designated Activity Company (DAC), One Warrington Place, Dublin 2, D02 HH27, Ireland",EMA,IV,solution,originator,350 mg/7 ml,350.0,7.0,50.0,liquid,0,NCT07387198,Phase 2
+denosumab,Degevma 120 mg solution for injection,DEGEVMA,TEVA GmbH,EMA,SC,solution,biosimilar,120 mg in 1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+trastuzumab,Zercepac,ZERCEPAC,Accord Healthcare S.L.U.,EMA,IV,lyophilized_powder,biosimilar,21 mg/mL,,,21.0,liquid,0,NCT05615818,Phase 3
+risankizumab,Skyrizi,SKYRIZI,AbbVie Deutschland GmbH & Co. KG,EMA,IV_SC,solution,originator,150 mg in 1 mL solution,150.0,1.0,150.0,liquid,0,NCT04524611,Phase 3
+rozanolixizumab,Rystiggo,RYSTIGGO,UCB Pharma S.A.,EMA,SC,solution,originator,140 mg/ml,,,140.0,liquid,0,UNKNOWN,Approved
+ramucirumab,Cyramza,CYRAMZA,Eli Lilly Nederland B.V.,EMA,IV,solution,originator,10 mg/ml,,,10.0,liquid,0,NCT03909334,Phase 2
+eculizumab,BEKEMV,BEKEMV,Amgen Technology (Ireland) UC,EMA,IV,solution,biosimilar,300 mg in 30 mL (10 mg/mL),300.0,30.0,10.0,liquid,0,UNKNOWN,Approved
+denosumab,Zvogra,ZVOGRA,STADA Arzneimittel AG,EMA,SC,solution,biosimilar,Each vial contains 120 mg of denosumab in 1.7 mL of solution (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+denosumab,Stoboclo,STOBOCLO,Celltrion Healthcare Hungary Kft.,EMA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+serplulimab,HETRONIFLY 10 mg/ml concentrate for solution for infusion.,HETRONIFLY,Accord Healthcare S.L.U.,EMA,IV,solution,originator,10 mg/ml,,,10.0,liquid,0,UNKNOWN,Approved
+ustekinumab,Usymro 130 mg concentrate for solution for infusion,USYMRO,Gedeon Richter Plc.,EMA,IV,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+denosumab,Bilprevda,BILPREVDA,SciencePharma Sp. z o.o.,EMA,SC,solution,biosimilar,120 mg in 1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+alirocumab,Praluent,PRALUENT,Sanofi Winthrop Industrie,EMA,SC,solution,originator,Each single-use pre-filled pen contains 75 mg alirocumab in 1 ml solution; Each single-use pre-filled syringe contains 75 mg alirocumab in 1 ml solution; Each single-use pre-filled pen contains 150 mg alirocumab in 1 ml solution; Each single-use pre-filled syringe contains 150 mg alirocumab in 1 ml solution; Each single-use pre-filled pen contains 300 mg alirocumab in 2 ml solution.,75.0,1.0,75.0,liquid,0,NCT07477704,Phase 2
+alirocumab,Praluent,PRALUENT,Sanofi Winthrop Industrie,EMA,SC,solution,originator,Each single-use pre-filled pen contains 75 mg alirocumab in 1 ml solution; Each single-use pre-filled syringe contains 75 mg alirocumab in 1 ml solution; Each single-use pre-filled pen contains 150 mg alirocumab in 1 ml solution; Each single-use pre-filled syringe contains 150 mg alirocumab in 1 ml solution; Each single-use pre-filled pen contains 300 mg alirocumab in 2 ml solution.,150.0,1.0,150.0,liquid,1,NCT07477704,Phase 2
+alirocumab,Praluent,PRALUENT,Sanofi Winthrop Industrie,EMA,SC,solution,originator,Each single-use pre-filled pen contains 75 mg alirocumab in 1 ml solution; Each single-use pre-filled syringe contains 75 mg alirocumab in 1 ml solution; Each single-use pre-filled pen contains 150 mg alirocumab in 1 ml solution; Each single-use pre-filled syringe contains 150 mg alirocumab in 1 ml solution; Each single-use pre-filled pen contains 300 mg alirocumab in 2 ml solution.,300.0,2.0,150.0,liquid,2,NCT07477704,Phase 2
+natalizumab,Tysabri,TYSABRI,Biogen Netherlands B.V.,EMA,IV_SC,solution,originator,20 mg/mL,,,20.0,liquid,0,NCT05925049,Approved
+denosumab,Obodence,OBODENCE,Samsung Bioepis NL B.V.,EMA,SC,solution,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,Junod,JUNOD,Gedeon Richter Plc.,EMA,SC,solution,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+basiliximab,Simulect,SIMULECT,Novartis Europharm Limited,EMA,IV,lyophilized_powder,originator,20 mg,20.0,,,other,0,NCT01780844,Phase 2
+ustekinumab,ABSIMKY,ABSIMKY,Accord Healthcare S.L.U.,EMA,IV_SC,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+secukinumab,Cosentyx 75 mg solution for injection in pre-filled syringe,COSENTYX,Novartis Europharm Limited,EMA,IV_SC,prefilled_syringe,originator,75 mg secukinumab in 0.5 ml,75.0,0.5,150.0,liquid,0,NCT03536884,Phase 3
+infliximab,Remicade,REMICADE,Janssen-Cilag International NV,EMA,IV,lyophilized_powder,originator,100mg,100.0,,,other,0,NCT04438382,Phase 2
+evolocumab,Repatha,REPATHA,Amgen Europe B.V.,EMA,SC,solution,originator,140 mg in 1 mL; 420 mg in 3.5 mL (120 mg/mL),140.0,1.0,140.0,liquid,0,NCT04608474,Phase 4
+evolocumab,Repatha,REPATHA,Amgen Europe B.V.,EMA,SC,solution,originator,140 mg in 1 mL; 420 mg in 3.5 mL (120 mg/mL),420.0,3.5,120.0,liquid,1,NCT04608474,Phase 4
+palivizumab,Synagis 50 mg/0.5 ml solution for injection; Synagis 100 mg/1 ml solution for injection,SYNAGIS,AstraZeneca AB,EMA,IM,solution,originator,100mg/ml,,,100.0,liquid,0,NCT04540627,Phase 1
+nipocalimab,Imaavy,IMAAVY,Janssen-Cilag International NV,EMA,IV,solution,originator,185mg/mL,,,185.0,liquid,0,UNKNOWN,Approved
+adalimumab,Hyrimoz,HYRIMOZ,,EMA,SC,prefilled_syringe,biosimilar,20 mg in 0.4 ml; 40 mg in 0.8 ml,20.0,0.4,50.0,liquid,0,NCT05502731,Phase 4
+adalimumab,Hyrimoz,HYRIMOZ,,EMA,SC,prefilled_syringe,biosimilar,20 mg in 0.4 ml; 40 mg in 0.8 ml,40.0,0.8,50.0,liquid,1,NCT05502731,Phase 4
+erenumab,Aimovig,AIMOVIG,Novartis Europharm Limited,EMA,SC,solution,originator,70 mg erenumab; 140 mg erenumab,70.0,,,other,0,NCT03832998,Phase 3
+erenumab,Aimovig,AIMOVIG,Novartis Europharm Limited,EMA,SC,solution,originator,70 mg erenumab; 140 mg erenumab,140.0,,,other,1,NCT03832998,Phase 3
+denosumab,Denosumab Intas,DENOSUMAB INTAS,"Intas Third Party Sales 2005, S.L.",EMA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,Izamby,IZAMBY,Mabxience Research SL,EMA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+bezlotoxumab,ZINPLAVA,ZINPLAVA,Merck Sharp & Dohme B.V.,EMA,IV,solution,originator,25 mg/mL,,,25.0,liquid,0,NCT03829475,Phase 2
+denosumab,Rolcya,ROLCYA,Sandoz GmbH,EMA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,Jubbonti,JUBBONTI,Sandoz GmbH,EMA,SC,prefilled_syringe,biosimilar,60 mg/mL,,,60.0,liquid,0,UNKNOWN,Approved
+denosumab,Denbrayce,DENBRAYCE,Mabxience Research SL,EMA,SC,solution,biosimilar,120 mg in 1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+ipilimumab,YERVOY,YERVOY,,EMA,IV,solution,originator,5 mg/ml,,,5.0,liquid,0,NCT06946797,Phase 2
+ustekinumab,Pyzchiva,PYZCHIVA,Samsung Bioepis NL B.V.,EMA,IV_SC,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+ustekinumab,Usgena 130 mg concentrate for solution for infusion.,USGENA,STADA Arzneimittel AG,EMA,IV,solution,biosimilar,Each vial contains 130 mg ustekinumab in 26 mL (5 mg/mL).,130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+golimumab,GOBIVAZ,GOBIVAZ,Advanz Pharma Limited,EMA,SC,prefilled_syringe,biosimilar,50 mg in 0.5 mL,50.0,0.5,100.0,liquid,0,UNKNOWN,Approved
+omalizumab,Omlyclo,OMLYCLO,Celltrion Healthcare Hungary Kft.,EMA,SC,solution,biosimilar,75 mg in 0.5 ml,75.0,0.5,150.0,liquid,0,NCT07073404,Approved
+infliximab,Flixabi,FLIXABI,Samsung Bioepis NL B.V.,EMA,IV,lyophilized_powder,biosimilar,"Each vial contains 100 mg of infliximab. After reconstitution, each mL contains 10 mg of infliximab.",100.0,10.0,10.0,lyophilized_reconstituted,0,NCT03662919,Approved
+pertuzumab,Perjeta 420 mg concentrate for solution for infusion,PERJETA,Roche Registration GmbH,EMA,IV,solution,originator,30 mg/ml,,,30.0,liquid,0,NCT02326974,Phase 2
+pertuzumab,Phesgo,PHESGO,Roche Registration GmbH,EMA,IV_SC,solution,biosimilar,Each mL contains 60 mg pertuzumab and 60 mg trastuzumab (600 mg/600 mg in 10 mL vial); Each mL contains 80 mg pertuzumab and 40 mg trastuzumab (1 200 mg/600 mg in 15 mL vial),1200.0,10.0,120.0,liquid,0,NCT04569747,Phase 2
+pertuzumab,Phesgo,PHESGO,Roche Registration GmbH,EMA,IV_SC,solution,biosimilar,Each mL contains 60 mg pertuzumab and 60 mg trastuzumab (600 mg/600 mg in 10 mL vial); Each mL contains 80 mg pertuzumab and 40 mg trastuzumab (1 200 mg/600 mg in 15 mL vial),1800.0,15.0,120.0,liquid,1,NCT04569747,Phase 2
+alemtuzumab,LEMTRADA 12 mg concentrate for solution for infusion,LEMTRADA,Sanofi Belgium,EMA,IV,solution,biosimilar,Each vial contains 12 mg alemtuzumab in 1.2 ml (10 mg/ml),12.0,1.2,10.0,liquid,0,NCT03368664,Phase 3
+denosumab,Prolia 60 mg solution for injection in pre-filled syringe,PROLIA,Amgen Europe B.V.,EMA,SC,solution,originator,60 mg/mL,,,60.0,liquid,0,NCT04067726,Phase 2
+adalimumab,Amsparity 20 mg solution for injection in pre-filled syringe,AMSPARITY,Pfizer Europe MA EEIG,EMA,SC,solution,biosimilar,20 mg in 0.4 ml,20.0,0.4,50.0,liquid,0,UNKNOWN,Approved
+ravulizumab,Ultomiris,ULTOMIRIS,Alexion Europe SAS,EMA,IV,solution,originator,300 mg/3 mL; 1 100 mg/11 mL (100 mg/mL),300.0,3.0,100.0,liquid,0,NCT06909253,Approved
+ravulizumab,Ultomiris,ULTOMIRIS,Alexion Europe SAS,EMA,IV,solution,originator,300 mg/3 mL; 1 100 mg/11 mL (100 mg/mL),1100.0,11.0,100.0,liquid,1,NCT06909253,Approved
+tezepelumab,Tezspire,TEZSPIRE,AstraZeneca AB,EMA,SC,solution,originator,210 mg tezepelumab in 1.91 mL solution (110 mg/mL),210.0,1.91,109.947088,liquid,0,NCT07520162,Phase 3
+adalimumab,Idacio,IDACIO,,EMA,SC,solution,biosimilar,40 mg in 0.8 ml,40.0,0.8,50.0,liquid,0,NCT05153200,Phase 4
+trastuzumab,Herwenda 150 mg powder for concentrate for solution for infusion,HERWENDA,"Sandoz GmbH, Biochemiestr. 10, 6250 Kundl, Austria",EMA,IV,lyophilized_powder,biosimilar,150 mg,150.0,,,other,0,UNKNOWN,Approved
+tixagevimab,EVUSHELD,EVUSHELD,AstraZeneca AB,EMA,IM,solution,originator,150 mg/1.5 mL,150.0,1.5,100.0,liquid,0,NCT05281601,Phase 1
+canakinumab,Ilaris 150 mg/ml solution for injection,ILARIS,Novartis Europharm Limited,EMA,SC,solution,originator,150 mg/ml,,,150.0,liquid,0,NCT04789681,Phase 2
+denosumab,ZADENVI,ZADENVI,Zentiva k.s.,EMA,SC,prefilled_syringe,biosimilar,60 mg in 1 mL (60 mg/mL),60.0,1.0,60.0,liquid,0,UNKNOWN,Approved
+adalimumab,Humira,HUMIRA,,EMA,SC,unknown,originator,,,,,,0,NCT03412747,Phase 3
+ublituximab,Briumvi 150 mg concentrate for solution for infusion,BRIUMVI,"Neuraxpharm Pharmaceuticals, S.L.",EMA,IV,solution,originator,150 mg of ublituximab in 6 ml (25 mg/ml),150.0,6.0,25.0,liquid,0,NCT07220252,Phase 2|Phase 3
+belimumab,Benlysta 200 mg solution for injection in pre-filled pen.,BENLYSTA,GlaxoSmithKline (Ireland) Limited,EMA,IV_SC,autoinjector,originator,200 mg in 1 mL,200.0,1.0,200.0,liquid,0,NCT03844061,Phase 2
+rituximab,Rixathon,RIXATHON,,EMA,IV,solution,biosimilar,10 mg/mL,,,10.0,liquid,0,NCT05533164,Phase 3
+tocilizumab,Tyenne,TYENNE,Fresenius Kabi Deutschland GmbH,EMA,IV_SC,solution,biosimilar,20 mg/mL,,,20.0,liquid,0,UNKNOWN,Approved
+lanadelumab,TAKHZYRO,TAKHZYRO,Takeda Pharmaceuticals International AG Ireland Branch,EMA,SC,solution,originator,150 mg in 1 ml; 300 mg in 2 ml,150.0,1.0,150.0,liquid,0,NCT05460325,Phase 3
+lanadelumab,TAKHZYRO,TAKHZYRO,Takeda Pharmaceuticals International AG Ireland Branch,EMA,SC,solution,originator,150 mg in 1 ml; 300 mg in 2 ml,300.0,2.0,150.0,liquid,1,NCT05460325,Phase 3
+rituximab,Truxima 100 mg concentrate for solution for infusion; Truxima 500 mg concentrate for solution for infusion,TRUXIMA,,EMA,IV,solution,biosimilar,10 mg/mL,,,10.0,liquid,0,NCT05735834,Phase 3
+elotuzumab,Empliciti,EMPLICITI,Bristol-Myers Squibb Pharma EEIG,EMA,IV,lyophilized_powder,originator,300 mg; 400 mg; 25 mg/mL,300.0,,,other,0,NCT02420860,Phase 2
+elotuzumab,Empliciti,EMPLICITI,Bristol-Myers Squibb Pharma EEIG,EMA,IV,lyophilized_powder,originator,300 mg; 400 mg; 25 mg/mL,400.0,,,other,1,NCT02420860,Phase 2
+elotuzumab,Empliciti,EMPLICITI,Bristol-Myers Squibb Pharma EEIG,EMA,IV,lyophilized_powder,originator,300 mg; 400 mg; 25 mg/mL,,,25.0,other,2,NCT02420860,Phase 2
+rituximab,Blitzima,BLITZIMA,,EMA,IV,solution,biosimilar,10 mg/mL,,,10.0,liquid,0,NCT04609046,Phase 1
+concizumab,Alhemo,ALHEMO,Novo Nordisk A/S,EMA,SC,solution,originator,15 mg/1.5 mL; 60 mg/1.5 mL; 150 mg/1.5 mL; 300 mg/3 mL,15.0,1.5,10.0,liquid,0,NCT06285071,Approved
+concizumab,Alhemo,ALHEMO,Novo Nordisk A/S,EMA,SC,solution,originator,15 mg/1.5 mL; 60 mg/1.5 mL; 150 mg/1.5 mL; 300 mg/3 mL,60.0,1.5,40.0,liquid,1,NCT06285071,Approved
+concizumab,Alhemo,ALHEMO,Novo Nordisk A/S,EMA,SC,solution,originator,15 mg/1.5 mL; 60 mg/1.5 mL; 150 mg/1.5 mL; 300 mg/3 mL,150.0,1.5,100.0,liquid,2,NCT06285071,Approved
+concizumab,Alhemo,ALHEMO,Novo Nordisk A/S,EMA,SC,solution,originator,15 mg/1.5 mL; 60 mg/1.5 mL; 150 mg/1.5 mL; 300 mg/3 mL,300.0,3.0,100.0,liquid,3,NCT06285071,Approved
+denosumab,Bomyntra,BOMYNTRA,Fresenius Kabi Deutschland GmbH,EMA,SC,solution,biosimilar,120 mg in 1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+toripalimab,LOQTORZI,LOQTORZI,Topalliance Biosciences Europe Limited,EMA,IV,solution,originator,240 mg/6 mL,240.0,6.0,40.0,liquid,0,NCT07423078,Phase 2
+ustekinumab,Eksunbi 130 mg concentrate for solution for infusion,EKSUNBI,Samsung Bioepis NL B.V.,EMA,IV,solution,biosimilar,130 mg in 26 mL (5 mg/mL),130.0,26.0,5.0,liquid,0,UNKNOWN,Approved
+denosumab,Yaxwer 120 mg solution for injection,YAXWER,Gedeon Richter Plc.,EMA,SC,solution,biosimilar,120 mg/1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+isatuximab,SARCLISA,SARCLISA,Sanofi Winthrop Industrie,EMA,IV,solution,originator,20 mg/mL,,,20.0,liquid,0,NCT04643002,Phase 1|Phase 2
+brodalumab,Kyntheum,KYNTHEUM,LEO Pharma A/S,EMA,SC,solution,originator,210 mg in 1.5 ml (140 mg/ml),210.0,1.5,140.0,liquid,0,NCT04340076,Phase 4
+denosumab,Wyost 120 mg solution for injection,WYOST,Sandoz GmbH,EMA,SC,solution,biosimilar,120 mg in 1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+trastuzumab,Dazublys 150 mg powder for concentrate for solution for infusion.,DAZUBLYS,CuraTeQ Biologics s.r.o,EMA,IV,lyophilized_powder,biosimilar,150 mg (reconstituted: 21 mg/mL),150.0,7.142857142857143,21.0,lyophilized_reconstituted,0,UNKNOWN,Approved
+rituximab,Riximyo,RIXIMYO,,EMA,IV,solution,biosimilar,10 mg/mL,,,10.0,liquid,0,UNKNOWN,Approved
+sutimlimab,Enjaymo 50 mg/mL solution for infusion,ENJAYMO,Recordati Rare Diseases,EMA,IV,solution,originator,50 mg/mL,,,50.0,liquid,0,UNKNOWN,Approved
+denosumab,Jubereq,JUBEREQ,Accord Healthcare S.L.U.,EMA,SC,solution,biosimilar,120 mg in 1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+tildrakizumab,Ilumetri,ILUMETRI,"Almirall, S.A.",EMA,SC,prefilled_syringe,originator,100 mg in 1 mL; 200 mg in 2 mL,100.0,1.0,100.0,liquid,0,NCT04340076,Phase 4
+tildrakizumab,Ilumetri,ILUMETRI,"Almirall, S.A.",EMA,SC,prefilled_syringe,originator,100 mg in 1 mL; 200 mg in 2 mL,200.0,2.0,100.0,liquid,1,NCT04340076,Phase 4
+denosumab,Xbryk,XBRYK,Samsung Bioepis NL B.V.,EMA,SC,solution,biosimilar,120 mg in approximately 1.7 mL (70 mg/mL),120.0,1.7,70.58823529411765,liquid,0,UNKNOWN,Approved
+rituximab,Ituxredi,ITUXREDI,,EMA,IV,solution,biosimilar,Each ml contains 10 mg of rituximab.,,,10.0,liquid,0,UNKNOWN,Approved
+infliximab,Zessly,ZESSLY,Sandoz GmbH,EMA,IV,lyophilized_powder,biosimilar,100 mg,100.0,,,other,0,UNKNOWN,Approved
+omalizumab,Xolair,XOLAIR,Novartis Europharm Limited,EMA,SC,solution,originator,75 mg in 0.5 ml,75.0,0.5,150.0,liquid,0,NCT06943534,Phase 2
+trastuzumab,KANJINTI,KANJINTI,Amgen Europe B.V.,EMA,IV,lyophilized_powder,biosimilar,150 mg powder for concentrate for solution for infusion; 420 mg powder for concentrate for solution for infusion,150.0,,,lyophilized_reconstituted,0,NCT03811418,Phase 3
+trastuzumab,KANJINTI,KANJINTI,Amgen Europe B.V.,EMA,IV,lyophilized_powder,biosimilar,150 mg powder for concentrate for solution for infusion; 420 mg powder for concentrate for solution for infusion,420.0,,,lyophilized_reconstituted,1,NCT03811418,Phase 3
+romosozumab,EVENITY 105 mg solution for injection in pre-filled pen,EVENITY,UCB Pharma S.A.,EMA,SC,solution,originator,105 mg of romosozumab in 1.17 ml of solution (90 mg/ml),105.0,1.17,89.74358974358974,liquid,0,NCT06558188,Phase 4
+panitumumab,Vectibix,VECTIBIX,Amgen Europe B.V.,EMA,IV,solution,originator,20 mg/mL,,,20.0,liquid,0,NCT06252649,Phase 3
+regdanvimab,Regkirona,REGKIRONA,Celltrion Healthcare Hungary Kft.,EMA,IV,solution,originator,60 mg/mL,,,60.0,liquid,0,NCT05982704,Phase 4
+ustekinumab,STELARA 130mg concentrate for solution for infusion,STELARA,Janssen-Cilag International NV,EMA,IV_SC,solution,originator,130mg in 26mL(5mg/mL),130.0,26.0,5.0,liquid,0,NCT03370133,Phase 3
+reslizumab,CINQAERO,CINQAERO,Teva B.V.,EMA,IV,solution,originator,10 mg/mL,,,10.0,liquid,0,UNKNOWN,Approved
+fremanezumab,AJOVY,AJOVY,"TEVA GmbH, Graf-Arco-Str. 3, 89079 Ulm, Germany",EMA,SC,solution,originator,225 mg in 1.5 mL,225.0,1.5,150.0,liquid,0,NCT06173661,Phase 4
+rituximab,MabThera,MABTHERA,,EMA,IV,solution,originator,10 mg/mL,,,10.0,liquid,0,NCT01679119,Phase 2
+adalimumab,AMGEVITA,AMGEVITA,,EMA,SC,solution,biosimilar,20 mg in 0.4 mL (50 mg/mL); 40 mg in 0.8 mL (50 mg/mL),20.0,0.4,50.0,liquid,0,NCT04131322,Phase 4
+adalimumab,AMGEVITA,AMGEVITA,,EMA,SC,solution,biosimilar,20 mg in 0.4 mL (50 mg/mL); 40 mg in 0.8 mL (50 mg/mL),40.0,0.8,50.0,liquid,1,NCT04131322,Phase 4
+garadacimab,ANDEMBRY,ANDEMBRY,CSL Behring GmbH,EMA,SC,solution,originator,200 mg in 1.2 mL,200.0,1.2,166.66666666666666,liquid,0,UNKNOWN,Approved
+benralizumab,Fasenra,FASENRA,AstraZeneca AB,EMA,SC,prefilled_syringe,originator,30 mg in 1 mL,30.0,1.0,30.0,liquid,0,NCT06512883,Phase 3
+bevacizumab,Onbevzi,ONBEVZI,,EMA,IV,solution,biosimilar,25 mg/ml,,,25.0,liquid,0,NCT05904457,Phase 2
+eptinezumab,VYEPTI,VYEPTI,H. Lundbeck A/S,EMA,IV,solution,originator,Each vial of concentrate contains 100 mg eptinezumab per mL; Each vial of concentrate contains 300 mg eptinezumab per 3 mL,,,100.0,liquid,0,NCT05164172,Phase 3
+eptinezumab,VYEPTI,VYEPTI,H. Lundbeck A/S,EMA,IV,solution,originator,Each vial of concentrate contains 100 mg eptinezumab per mL; Each vial of concentrate contains 300 mg eptinezumab per 3 mL,300.0,3.0,100.0,liquid,1,NCT05164172,Phase 3
+obiltoxaximab,NYXTHRACIS,NYXTHRACIS,SFL Pharmaceuticals Deutschland GmbH,EMA,IV,solution,biosimilar,100 mg/mL,,,100.0,liquid,0,UNKNOWN,Approved
+tremelimumab,Tremelimumab AstraZeneca,TREMELIMUMAB ASTRAZENECA,AstraZeneca AB,EMA,IV,solution,biosimilar,20 mg/ml,,,20.0,liquid,0,UNKNOWN,Approved
+tislelizumab,Tizveni,TIZVENI,Beigene Ireland Limited,EMA,IV,solution,biosimilar,100 mg/10 ml,100.0,10.0,10.0,liquid,0,UNKNOWN,Approved
+crizanlizumab,Adakveo,ADAKVEO,Novartis Europharm Limited,EMA,IV,solution,originator,10 mg/ml,,,10.0,liquid,0,NCT04611880,Phase 2
+ibalizumab,Trogarzo 200 mg concentrate for solution for infusion,TROGARZO,Theratechnologies Europe Limited,EMA,IV,solution,originator,200 mg in 1.33 mL of solution,200.0,1.33,150.37594,liquid,0,NCT03913195,Phase 3
+bevacizumab,Equidacent,EQUIDACENT,,EMA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,UNKNOWN,Approved
+rituximab,Ritemvia,RITEMVIA,,EMA,IV,solution,biosimilar,10 mg/mL,,,10.0,liquid,0,UNKNOWN,Approved
+necitumumab,Portrazza 800 mg concentrate for solution for infusion,PORTRAZZA,Eli Lilly Nederland B.V.,EMA,IV,solution,originator,800 mg/50 mL,800.0,50.0,16.0,liquid,0,NCT03944772,Phase 2
+bevacizumab,Lextemy,LEXTEMY,,EMA,IV,solution,biosimilar,25 mg/mL,,,25.0,liquid,0,UNKNOWN,Approved
+adalimumab,Halimatoz,HALIMATOZ,,EMA,SC,solution,biosimilar,20 mg in 0.4 ml; 40 mg in 0.8 ml,20.0,0.4,50.0,liquid,0,UNKNOWN,Approved
+adalimumab,Halimatoz,HALIMATOZ,,EMA,SC,solution,biosimilar,20 mg in 0.4 ml; 40 mg in 0.8 ml,40.0,0.8,50.0,liquid,1,UNKNOWN,Approved
+adalimumab,Kromeya,KROMEYA,,EMA,SC,solution,biosimilar,40 mg in 0.8 ml,40.0,0.8,50.0,liquid,0,UNKNOWN,Approved
+olaratumab,Lartruvo,LARTRUVO,Eli Lilly Nederland B.V.,EMA,IV,solution,originator,10 mg/mL,,,10.0,liquid,0,NCT03437070,Phase 1
+rituximab,Rituzena,RITUZENA,Celltrion Healthcare Hungary Kft.,EMA,IV,solution,biosimilar,10 mg/mL,,,10.0,liquid,0,UNKNOWN,Approved
+ofatumumab,Arzerra,ARZERRA,Novartis Europharm Limited,EMA,IV,solution,biosimilar,20 mg/mL,,,20.0,liquid,0,NCT02135133,Phase 2
+adalimumab,Cyltezo,CYLTEZO,,EMA,SC,solution,biosimilar,40 mg in 0.8 mL,40.0,0.8,50.0,liquid,0,UNKNOWN,Approved
+adalimumab,SOLYMBIC,SOLYMBIC,,EMA,SC,prefilled_syringe,biosimilar,20 mg of adalimumab in 0.4 mL (50 mg/mL) solution,20.0,0.4,50.0,liquid,0,UNKNOWN,Approved
+daclizumab,Zinbryta,ZINBRYTA,BIOGEN IDEC Limited,EMA,SC,prefilled_syringe,biosimilar,150 mg in 1 mL,150.0,1.0,150.0,liquid,0,NCT00246129,Phase 4
+dinutuximab,Unituxin,UNITUXIN,"United Therapeutics Europe, Ltd.",EMA,IV,solution,originator,3.5 mg/mL,,,3.5,liquid,0,NCT06450041,Phase 2
+nivolumab,Nivolumab BMS,NIVOLUMAB BMS,Bristol-Myers Squibb Pharma EEIG,EMA,IV,solution,biosimilar,10 mg/mL,,,10.0,liquid,0,UNKNOWN,Approved
+alemtuzumab,MabCampath,MABCAMPATH,Genzyme Europe BV,EMA,IV,solution,biosimilar,10 mg/ml,,,10.0,liquid,0,NCT01186640,Phase 2
+efalizumab,Raptiva,RAPTIVA,Serono Europe Ltd.,EMA,SC,lyophilized_powder,originator,100 mg/ml,,,100.0,liquid,0,NCT00115076,Phase 3
+daclizumab,Zenapax 5 mg/ml concentrate for solution for infusion,ZENAPAX,Roche Registration Limited,EMA,IV,solution,originator,5 mg/ml,,,5.0,liquid,0,NCT00685061,Phase 4
+adalimumab,Trudexa,TRUDEXA,"Abbott Laboratories Ltd., Queenborough, Kent ME11 5EL, United Kingdom",EMA,SC,solution,biosimilar,40 mg in 0.8 ml,40.0,0.8,50.0,liquid,0,UNKNOWN,Approved

@@ -1,0 +1,802 @@
+inn,ch1_isotype,lc_type,highest_clin_trial,est_status,target_antigen,origin,has_fda_approved,has_ema_approved,has_iv_sc_product,n_biosimilars
+abagovomab,G1,Kappa,Phase-III,Discontinued,MUC16/CA125,Murine,False,False,False,0
+abazistobart,G4,Kappa,TBC,TBC,PDCD1/CD279/PD1,Chimeric and Humanised,False,False,False,0
+abelacimab,G1,Lambda,Phase-III,Active,F11,Genetically human,False,False,False,0
+abiprubart,G4,Kappa,Phase-II,Active,TNFRSF5/CD40,Humanised,False,False,False,0
+abituzumab,G2,Kappa,Phase-II,Active,ITGAV/CD51,Humanised,False,False,False,0
+abrilumab,G2,Kappa,Phase-II,Discontinued,ITGA4B7,Genetically human,False,False,False,0
+acrixolimab,G4,Kappa,Phase-I/II,Active,PDCD1/CD279/PD1,Genetically human,False,False,False,0
+actoxumab,G1,Kappa,Phase-III,Discontinued,Clostridium difficile Toxin A,Genetically human,False,False,False,0
+adakitug,G1,Kappa,Phase-II,Active,CXCL8,Genetically human,False,False,False,0
+adalimumab,G1,Kappa,Approved,Active,TNF/TNFA,Genetically human,True,True,False,19
+adebrelimab,G4,Kappa,Approved,Active,PDL1/CD274,Chimeric and/or humanised,False,False,False,0
+adecatumumab,G1,Kappa,Phase-II,Discontinued,EPCAM/CD326,Genetically human,False,False,False,0
+adezkibart,G1,Lambda,TBC,TBC,FLT3LG,Genetically human,False,False,False,0
+adimanebart,G1,Lambda,TBC,TBC,MUSK,Humanised,False,False,False,0
+adintrevimab,G1,Lambda,Phase-II/III,Active,SARS-CoV-2 Spike,Genetically human,False,False,False,0
+aducanumab,G1,Kappa,Approved,NFD,APP,Genetically human,False,False,False,0
+afasevikumab,G1,Kappa,Phase-I,Discontinued,IL17A,Genetically human,False,False,False,0
+afimkibart,G1,Kappa,Phase-III,Active,TNFSF15/TL1A/VEGI,Genetically human,False,False,False,0
+alcestobart,G4,Lambda,Phase-II,Active,LAG3/CD223,Genetically human,False,False,False,0
+aldastotug,G1,Kappa,Phase-I,Active,SIGLEC15/CD33L3,Genetically human,False,False,False,0
+alemtuzumab,G1,Kappa,Approved,Active,CD52,Humanised,True,True,False,2
+aletekitug,G1,Kappa,Phase-II,Active,IL18,Humanised,False,False,False,0
+alextatug,G1,Lambda,Phase-I,Discontinued,RNP complex containing PABPC1,Genetically human,False,False,False,0
+alirocumab,G1,Kappa,Approved,Active,PCSK9,Genetically human,True,True,False,0
+alomfilimab,G1,Kappa,Phase-II,Discontinued,ICOS/CD278,Genetically human,False,False,False,0
+alpitatug,G1,Kappa,TBC,Active,KLK2/KLK2A2/hGK-1/hK2,Humanised,False,False,False,0
+alsevalimab,G1,Kappa,Phase-I,Discontinued,VTCN1/B7H4,Genetically human,False,False,False,0
+amatuximab,G1,Kappa,Phase-II,Discontinued,MSLN,Chimeric,False,False,False,0
+amdokitug,G1,Kappa,TBC,TBC,IL17A,Chimeric and/or humanised,False,False,False,0
+amlenetug,G1,Kappa,Phase-III,Active,SNCA/PARK1/PARK4,Genetically human,False,False,False,0
+amlitelimab,G4,Kappa,Phase-III,Active,TNFSF4/CD134/CD252/OX40L,Genetically human,False,False,False,0
+amrecibart,G4,Kappa,TBC,TBC,F11,Genetically human,False,False,False,0
+amubarvimab,G1,Kappa,Phase-II/III,Discontinued,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+andecaliximab,G4,Kappa,Phase-III,Discontinued,MMP9/GELB,Chimeric,False,False,False,0
+anifrolumab,G1,Kappa,Approved,Active,IFNAR1,Genetically human,True,True,True,0
+anrukinzumab,G1,Kappa,Phase-II,Discontinued,IL13,Humanised,False,False,False,0
+anselamimab,G1,Kappa,Phase-III,Active,Light Chain Amyloid Fibrils,Chimeric,False,False,False,0
+ansipastobart,G1,Lambda,Phase-I,Active,NT5E/CALJA/CD73,Genetically human,False,False,False,0
+ansuvimab,G1,Kappa,Approved,Active,Zaire Ebolavirus Glycoprotein,Genetically human,True,False,False,0
+anumigilimab,G4,Kappa,Phase-I,Discontinued,CSF3R/CD114,Genetically human,False,False,False,0
+anzurstobart,G1,Kappa,Phase-I,Active,SIRPA,Genetically human,False,False,False,0
+apitegromab,G4,Lambda,Preregistration,Active,pro-MSTN/GDF8/GDF-8/pro-GDF8,Genetically human,False,False,False,0
+arcitumomab,G1,Kappa,Approved (w),NFD,CEA/CEACAM,Murine,False,False,False,0
+armocibart,G4,Kappa,TBC,Active,TFPI,Chimeric and/or humanised,False,False,False,0
+ascrinvacumab,G2,Kappa,Phase-II,Discontinued,ACVRL1/SKR3,Genetically human,False,False,False,0
+aselizumab,G4,Kappa,Phase-II,Discontinued,L-Selectin,Humanised,False,False,False,0
+astegolimab,G2,Kappa,Phase-III,Active,IL1RL1/ST2,Genetically human,False,False,False,0
+atenastobart,G1,Lambda,Phase-I,Active,TNFRSF9/CD137/4-1BB,Genetically human,False,False,False,0
+atezolizumab,G1,Kappa,Approved,Active,PDL1/CD274,Humanised,True,True,False,1
+atibuclimab,G4,Kappa,Phase-II,Active,CD14,Chimeric,False,False,False,0
+atidortoxumab,G1,Kappa,Phase-II,Discontinued,Staphylococcus aureus Toxin A,Genetically human,False,False,False,0
+atigotatug,G1,Kappa,Phase-III,Active,Fucosyl-GM1,Genetically human,False,False,False,0
+atinumab,G4,Kappa,Phase-I,Discontinued,RTN4/Nogo,Genetically human,False,False,False,0
+atisnolerbart,G4,Kappa,Phase-III,Active,Bet v 1,Genetically human,False,False,False,0
+atoltivimab,G1,Kappa,Phase-I,Discontinued,Zaire Ebolavirus Glycoprotein,Genetically human,True,False,False,0
+avdoralimab,G1,Kappa,Phase-II,Discontinued,C5AR1/CD88,Genetically human,False,False,False,0
+avelumab,G1,Lambda,Approved,Active,PDL1/CD274,Genetically human,True,True,False,0
+avitotamig,G1,Kappa,TBC,Active,SIGLEC3/CD33/p67,Humanised,False,False,False,0
+avizakimab,G1,Kappa,Phase-I/II,Active,IL21,Humanised,False,False,False,0
+axatilimab,G4,Kappa,Preregistration,Active,CSF1R/CD115/M-CSFR,Humanised,True,False,False,0
+azirkitug,G1,Kappa,Phase-I,Discontinued,CCR8/CKR-L1/CDw198,Humanised,False,False,False,0
+balertatug,G1,Kappa,TBC,TBC,CD70,Chimeric and/or humanised,False,False,False,0
+balonkibart,G4,Kappa,TBC,TBC,NPR1/ANPRA/ANPa/GUC2A/GUCY2A/NPRA,Genetically human,False,False,False,0
+balstilimab,G4,Kappa,Phase-III,Active,PDCD1/CD279/PD1,Genetically human,False,False,False,0
+bamlanivimab,G1,Kappa,Approved,Active,SARS-CoV-2 Spike,Genetically human,False,False,False,0
+bapineuzumab,G1,Kappa,Phase-II,Discontinued,APP,Humanised,False,False,False,0
+bapotulimab,G2,Kappa,Phase-I,Active,ILDR2,Genetically human,False,False,False,0
+barecetamab,G1,Lambda,Phase-I,Discontinued,ERBB3/HER3,Genetically human,False,False,False,0
+barzolvolimab,G1,Kappa,Phase-III,Active,KIT/CD117,Chimeric and/or humanised,False,False,False,0
+basiliximab,G1,Kappa,Approved,NFD,IL2RA/CD25,Chimeric,True,True,False,0
+batoclimab,G1,Lambda,Preregistration,Active,FCGRT/FcRn,Genetically human,False,False,False,0
+bavituximab,G1,Kappa,Phase-III,Active,Phosphatidylserine,Chimeric,False,False,False,0
+bebtelovimab,G1,Lambda,Approved,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+becotatug,G1,Kappa,Phase-III,Active,EGFR/ERBB1/HER1,Humanised,False,False,False,0
+befovacimab,G2,Lambda,Phase-II,Active,TFPI,Genetically human,False,False,False,0
+begelomab,G2b,Kappa,Phase-II/III,Active,DPP4/ADCP2/CD26,Murine,False,False,False,0
+belimumab,G1,Lambda,Approved,Active,TNFSF13B/CD257/BAFF,Genetically human,True,True,True,0
+belrestotug,G1,Kappa,Phase-III,Active,TIGIT/WUCAM/VSTM3,Genetically human,False,False,False,0
+beludavimab,G1,Kappa,Phase-II,Discontinued,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+bemarituzumab,G1,Kappa,Phase-III,Active,FGFR2/CD332,Humanised,False,False,False,0
+bempikibart,G1,Kappa,Phase-II,Active,IL7R/CD127,Genetically human,False,False,False,0
+benmelstobart,G1,Kappa,Approved,Active,PDL1/CD274,Humanised,False,False,False,0
+benralizumab,G1,Kappa,Approved,Active,IL5RA/CD125,Humanised,True,True,False,0
+bentracimab,G1,Lambda,Phase-III,Active,AR-C124910XX,Genetically human,False,False,False,0
+benufutamab,G1,Kappa,Phase-I/II,Active,TNFRSF10B/CD262/DR5/TRAILR2,Chimeric,False,False,False,0
+bepranemab,G4,Kappa,Phase-II,Active,MAPT,Humanised,False,False,False,0
+berlimatoxumab,G1,Kappa,Phase-II,Discontinued,Staphylococcus aureus Toxin A,Genetically human,False,False,False,0
+bermekimab,G1,Kappa,Preregistration (w),Active,IL1A,Genetically human,False,False,False,0
+bersanlimab,G1,Lambda,Phase-II,Discontinued,ICAM1/CD54,Genetically human,False,False,False,0
+betinukibart,G1,Kappa,Phase-III,Active,IL17A,Humanised,False,False,False,0
+betifisolimab,G1,Kappa,Phase-I/II,Active,PDL1/CD274,Chimeric and/or humanised,False,False,False,0
+bevacizumab,G1,Kappa,Approved,Active,VEGFA,Humanised,True,True,False,13
+bexmarilimab,G4,Kappa,Phase-I/II,Active,STAB1,Humanised,False,False,False,0
+bezlotoxumab,G1,Kappa,Approved,NFD,Clostridium difficile Toxin A,Genetically human,True,True,False,0
+bimagrumab,G1,Lambda,Phase-II,Active,ACVR2B,Genetically human,False,False,False,0
+bimekizumab,G1,Kappa,Approved,Active,IL17A,Humanised,True,True,False,0
+birinkibart,G4,Kappa,TBC,Active,CSF2RB/CD131/IL3RB/IL5RB,Genetically human,False,False,False,0
+birtamimab,G1,Kappa,Phase-III,Discontinued,SAA1,Chimeric and/or humanised,False,False,False,0
+bleselumab,G4,Kappa,Phase-II,Discontinued,TNFRSF5/CD40,Genetically human,False,False,False,0
+blosozumab,G4,Kappa,Phase-II,Active,SOST,Humanised,False,False,False,0
+bococizumab,G2,Kappa,Phase-III,Discontinued,PCSK9,Humanised,False,False,False,0
+bocunebart,G1,Kappa,TBC,TBC,ADCYAP1/PACAP,Humanised,False,False,False,0
+bosakitug,G1,Kappa,Phase-II,Active,TSLP,Humanised,False,False,False,0
+boserolimab,G1,Kappa,Phase-II,Active,TNFRSF7/CD27,,False,False,False,0
+botensilimab,G1,Kappa,Phase-II/III,Active,CTLA4/CD152,Genetically human,False,False,False,0
+brazikumab,G2,Lambda,Phase-III,Discontinued,IL23A,Genetically human,False,False,False,0
+bremzalerbart,G4,Kappa,Phase-III,Active,Bet v 1,Genetically human,False,False,False,0
+briakinumab,G1,Lambda,Preregistration (w),Discontinued,IL12B/CLMFp40,Genetically human,False,False,False,0
+briquilimab,G1,Kappa,Phase-I/II,Discontinued,KIT/CD117,Chimeric and/or humanised,False,False,False,0
+brivestobart,G4,Kappa,Phase-I/II,Active,LAG3/CD223,Humanised,False,False,False,0
+brodalumab,G2,Kappa,Approved,Active,IL17RA/CD217,Genetically human,True,True,False,1
+brontictuzumab,G2,Lambda,Phase-I,Discontinued,NOTCH1,Humanised,False,False,False,0
+budigalimab,G1,Kappa,Phase-II/III,Active,PDCD1/CD279/PD1,Chimeric and/or humanised,False,False,False,0
+budoprutug,G1,Kappa,Phase-I,Active,CD19,Chimeric and/or humanised,False,False,False,0
+bulumtatug,G1,Kappa,TBC,Active,LAG3/CD223,Chimeric and/or humanised,False,False,False,0
+burfiralimab,G4,Kappa,Phase-II,Active,VIM,Humanised,False,False,False,0
+burosumab,G1,Kappa,Approved,Active,FGF23,Genetically human,True,True,False,0
+cabiralizumab,G4,Kappa,Phase-II,Active,CSF1R/CD115/M-CSFR,Humanised,False,False,False,0
+cafelkibart,G1,Kappa,Phase-II,Active,CCR8/CKR-L1/CDw198,Humanised,False,False,False,0
+calpurbatug,G1,Kappa,Phase-I,Active,Bacteria Proteins HU and IHF,Genetically human,False,False,False,0
+calotatug,G1,Kappa,Phase-I,Active,ERBB2/CD340/HER2,Genetically human,False,False,False,0
+camoteskimab,G1,Kappa,Phase-II,Active,IL18,Genetically human,False,False,False,0
+camrelizumab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Humanised,False,False,False,0
+canakinumab,G1,Kappa,Approved,Active,IL1B,Genetically human,True,True,False,5
+canrivitug,G1,Lambda,TBC,Discontinued,SARS-CoV-2 RBD,Genetically human,False,False,False,0
+carlumab,G1,Kappa,Phase-II,Discontinued,CCL2/MCP1,Genetically human,False,False,False,0
+carotuximab,G1,Kappa,Phase-II,Discontinued,ENG/CD105,Chimeric,False,False,False,0
+casdozokitug,G1,Kappa,Phase-II,Active,IL27,Genetically human,False,False,False,0
+caxmotabart,G1,Kappa,Phase-III,Active,ERBB2/CD340/HER2,Humanised,False,False,False,0
+cemiplimab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Genetically human,True,True,False,0
+cendakimab,G1,Kappa,Phase-III,Active,IL13,Humanised,False,False,False,0
+cenvacibart,G4,Kappa,TBC,TBC,F11,Genetically human,False,False,False,0
+cenzestotug,G1,Kappa,TBC,TBC,TNFRSF4/CD134/OX40,Chimeric and/or humanised,False,False,False,0
+cepeprubart,G2,Kappa,Phase-II,Active,SELPLG/CD162/PSGL1,Genetically human,False,False,False,0
+cetrelimab,G4,Kappa,Phase-III,Active,PDCD1/CD279/PD1,Genetically human,False,False,False,0
+cetuximab,G1,Kappa,Approved,Active,EGFR/ERBB1/HER1,Chimeric,True,True,False,0
+cifurtilimab,G1,Kappa,Phase-II,Active,TNFRSF5/CD40,Genetically human,False,False,False,0
+ciletatug,G1,Kappa,Phase-I/II,Active,CLDN18,Humanised,False,False,False,0
+cilgavimab,G1,Kappa,Approved,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+ciltistotug,G2,Kappa,TBC,TBC,TNFRSF5/CD40,Chimeric and/or humanised,False,False,False,0
+cinpanemab,G1,Lambda,Phase-II,Discontinued,SNCA/PARK1/PARK4,Genetically human,False,False,False,0
+cixutumumab,G1,Lambda,Phase-II,Discontinued,IGF1R/CD221,Genetically human,False,False,False,0
+claseprubart,G4,Kappa,TBC,TBC,C1S,Genetically human,False,False,False,0
+clazakizumab,G1,Kappa,Phase-III,Active,IL6,Humanised,False,False,False,0
+clesrovimab,G1,Kappa,Preregistration,Active,RSV gpF,Genetically human,True,False,False,0
+cliramitug,G1,Kappa,TBC,TBC,Misfolded TTR,Genetically human,False,False,False,0
+cobolimab,G4,Kappa,Phase-III,Active,HAVCR2/TIM3,Humanised,False,False,False,0
+codrituzumab,G1,Kappa,Phase-II,Active,GPC3,Humanised,False,False,False,0
+comekibart,G4,Kappa,Phase-III,Active,IL4R/CD124,Humanised,False,False,False,0
+conatumumab,G1,Kappa,Phase-II,Discontinued,TNFRSF10B/CD262/DR5/TRAILR2,Genetically human,False,False,False,0
+concizumab,G4,Kappa,Approved,Active,TFPI,Humanised,True,True,False,0
+coprelotamab,G1,Kappa,Phase-III,Active,ERBB2/CD340/HER2,Humanised,False,False,False,0
+coramitug,G1,Kappa,Phase-II,Active,Misfolded TTR,Chimeric,False,False,False,0
+cosfroviximab,G1,Kappa,Phase-II,Active,Zaire Ebolavirus Glycoprotein,Chimeric,False,False,False,0
+cosibelimab,G1,Lambda,Approved,Active,PDL1/CD274,Genetically human,True,False,False,0
+crebankitug,G1,Lambda,Phase-II,Active,IL7R/CD127,Genetically human,False,False,False,0
+crenezumab,G4,Kappa,Phase-II,Discontinued,APP,Humanised,False,False,False,0
+crexavibart,G1,Lambda,Phase-II/III,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+crizanlizumab,G2,Kappa,Approved,Active,SELP/CD62,Humanised,True,True,False,0
+crotedumab,G4,Kappa,Phase-I,Discontinued,GCGR,Genetically human,False,False,False,0
+crovalimab,G1,Kappa,Approved,Active,C5,Genetically human,True,True,True,0
+crusekitug,G1,Kappa,TBC,TBC,IL17A,Humanised,False,False,False,0
+cudarolimab,G1,Kappa,Phase-I,Discontinued,TNFRSF4/CD134/OX40,Genetically human,False,False,False,0
+cusatuzumab,G1,Lambda,Phase-II,Active,CD70,Humanised,False,False,False,0
+dacetuzumab,G1,Kappa,Phase-II,Discontinued,TNFRSF5/CD40,Humanised,False,False,False,0
+daclizumab,G1,Kappa,Approved,Active,IL2RA/CD25,Humanised,False,True,False,1
+dafsolimab,G2b,Kappa,Phase-III,Active,CD3E,Murine,False,False,False,0
+dalidnetug,G1,Kappa,TBC,TBC,APP,Humanised,False,False,False,0
+dalnicastobart,G1,Kappa,Phase-I,Active,TNFRSF5/CD40,Genetically human,False,False,False,0
+dalotuzumab,G1,Kappa,Phase-II,Discontinued,IGF1R/CD221,Humanised,True,False,False,1
+daratumumab,G1,Kappa,Approved,Active,ADPRC1/CD38,Genetically human,True,True,False,1
+daretabart,G1,Kappa,TBC,TBC,Ganglioside GD2,Chimeric and/or humanised,False,False,False,0
+dargistotug,G1,Kappa,Phase-II,Active,TIGIT/WUCAM/VSTM3,Genetically human,False,False,False,0
+datopotamab,G1,Kappa,Approved,Active,TACSTD2/TROP2/EGP1,Humanised,True,False,False,0
+daxdilimab,G1,Lambda,Phase-II,Active,LILRA4/CD85g,Genetically human,False,False,False,0
+dazukibart,G1,Kappa,Phase-III,Active,IFNB1,Humanised,False,False,False,0
+dectrekumab,G1,Kappa,Phase-II,Discontinued,IL13,Genetically human,False,False,False,0
+delpacibart,G1,Kappa,Phase-III,Active,TFRC/CD71,Humanised,False,False,False,0
+demcizumab,G2,Kappa,Phase-I,Discontinued,DLL4,Humanised,False,False,False,0
+demupitamab,G1,Kappa,Phase-I,Active,EGFR/ERBB1/HER1,Genetically human,False,False,False,0
+denikitug,G1,Kappa,Phase-I,Discontinued,CCR8/CKR-L1/CDw198,Humanised,False,False,False,0
+denosumab,G2,Kappa,Approved,Active,TNFSF11/CD254/RANKL/TRANCE/OPGL/ODF,Genetically human,True,True,False,38
+denrakibart,G2,Kappa,Phase-II,Active,CCL17/ABCD-2/SCYA17/TARC,Genetically Human,False,False,False,0
+depemokimab,G1,Kappa,Phase-III,Active,IL5,Humanised,True,True,False,0
+devextinetug,G2,Kappa,Phase-II,Active,Metamphetamine,Chimeric,False,False,False,0
+dezamizumab,G1,Kappa,Phase-II,Discontinued,APCS/SAP,Humanised,False,False,False,0
+dibotatug,G1,Kappa,Phase-I/II,Active,KLRD1/CD94,Genetically human,False,False,False,0
+dinutuximab,G1,Kappa,Approved,Active,Ganglioside GD2,Chimeric,True,True,False,0
+diridavumab,G1,Lambda,Phase-II,Active,Influenza A HA2,Genetically human,False,False,False,0
+divozilimab,G1,Kappa,Phase-III,Active,MS4A1/CD20,Chimeric and/or humanised,False,False,False,0
+domagrozumab,G1,Kappa,Phase-II,Discontinued,MSTN/GDF8/GDF-8,Humanised,False,False,False,0
+domvanalimab,G1,Kappa,Phase-III,Active,TIGIT/WUCAM/VSTM3,Humanised,False,False,False,0
+donanemab,G1,Kappa,Approved,Active,APP,Humanised,True,True,False,0
+donitabart,G1,Kappa,Phase-I,Discontinued,Ganglioside GD2,Humanised,False,False,False,0
+dostarlimab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Humanised,True,True,False,0
+dresbuxelimab,G1,Kappa,Phase-I/II,Active,NT5E/CALJA/CD73,Humanised,False,False,False,0
+drotokibart,G4,Kappa,Phase-III,Active,IL4R/CD124,Humanised,False,False,False,0
+drozitumab,G1,Lambda,Phase-II,Discontinued,TNFRSF10B/CD262/DR5/TRAILR2,Genetically human,False,False,False,0
+duligotuzumab,G1,Kappa,Phase-II,Discontinued,ERBB3/HER3,Humanised,False,False,False,0
+dupilumab,G4,Kappa,Approved,Active,IL4R/CD124,Genetically human,True,True,False,0
+durvalumab,G1,Kappa,Approved,Active,PDL1/CD274,Genetically human,True,True,False,0
+dusigitumab,G2,Lambda,Phase-II,Discontinued,IGF1 and IGF2,Genetically human,False,False,False,0
+duvakitug,G1,Lambda,Phase-II,Active,TNFSF15/TL1A/VEGI,Genetically human,False,False,False,0
+ebdarokimab,G1,Kappa,Approved,Active,IL12B/CLMFp40,Humanised,False,False,False,0
+eblasakimab,G4,Kappa,Phase-II,Active,IL13RA1/CD213A1,Genetically human,False,False,False,0
+ebrasodebart,G4,Lambda,Phase-I,Active,TMEM219/IGFBP-3R,Genetically human,False,False,False,0
+ebronucimab,G1,Lambda,Approved,NFD,PCSK9,Genetically human,False,False,False,0
+ecleralimab,G1,Lambda,Phase-II,Active,TSLP,Genetically human,False,False,False,0
+eclutatug,G1,Kappa,Phase-I/II,Active,CLDN1,Humanised,False,False,False,0
+ecromeximab,G1,Kappa,Phase-II,Discontinued,GD3 ganglioside,Chimeric,False,False,False,0
+eculizumab,G2,Kappa,Approved,Active,C5,Humanised,True,True,False,3
+edrecolomab,G2a,Kappa,Approved (w),NFD,EPCAM/CD326,Murine,False,False,False,0
+efalizumab,G1,Kappa,Approved,NFD,ITGAL/CD11A/LFA1A,Genetically human,False,True,False,0
+eglatoprutug,G1,Kappa,TBC,Active,KIT/CD117,Humanised,False,False,False,0
+eldelumab,G1,Kappa,Phase-II,Discontinued,CXCL10/IP10,Genetically human,False,False,False,0
+elegrobart,G1,Kappa,TBC,TBC,TBC,Chimeric and/or humanised,False,False,False,0
+elezanumab,G1,Lambda,Phase-II,Active,RGMA,Humanised,False,False,False,0
+elgemtumab,G1,Kappa,Phase-I/II,Discontinued,ERBB3/HER3,Genetically human,False,False,False,0
+elipovimab,G1,Lambda,Phase-I,Discontinued,HIV-1 gp120,Genetically human,False,False,False,0
+elotuzumab,G1,Kappa,Approved,NFD,SLAMF7/CD319,Humanised,True,True,False,0
+eltivutabart,G4,Kappa,Phase-II,Active,ENTPD1/CD39,Genetically human,False,False,False,0
+eltrekibart,G4,Kappa,Phase-II,Active,CXCL1/CXCL2/CXCL3/CXCL5/CXCL6/CXCL7/CXCL8,Humanised,False,False,False,0
+emactuzumab,G1,Kappa,Phase-III,Active,CSF1R/CD115/M-CSFR,Humanised,False,False,False,0
+emapalumab,G1,Lambda,Approved,NFD,IFNG,Genetically human,True,False,False,0
+emibetuzumab,G4,Kappa,Phase-II,Active,MET/HGFR,Humanised,False,False,False,0
+emiltatug,G1,Kappa,Phase-I,Active,VTCN1/B7H4,Genetically human,False,False,False,0
+empasiprubart,G1,Kappa,Phase-III,Active,C2,Humanised,False,False,False,0
+emugrobart,G1,Kappa,Phase-II/III,Active,ENTPD1/CD39,Humanised,False,False,False,0
+emunkitug,G1,Kappa,Phase-I,Active,TNFRSF1B/TNFR2/CD120b/TNFR80/p75,Humanised,False,False,False,0
+enavatuzumab,G1,Kappa,Phase-I,Discontinued,TNFRSF12A/CD266/TWEAKR,Humanised,False,False,False,0
+encelimab,G4,Kappa,Phase-I,Active,LAG3/CD223,Humanised,False,False,False,0
+enibarcimab,G1,Kappa,Phase-II,Active,ADM,Chimeric and/or humanised,False,False,False,0
+enlonstobart,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Genetically human,False,False,False,0
+enoblituzumab,G1,Kappa,Phase-II,Active,B7H3/CD276,Humanised,False,False,False,0
+enokizumab,G1,Kappa,Phase-II,Discontinued,IL9,Genetically human,False,False,False,0
+enoticumab,G1,Kappa,Phase-I,Discontinued,DLL4,Genetically human,False,False,False,0
+ensituximab,G1,Kappa,Phase-II,Active,MUC5AC,Chimeric,False,False,False,0
+enuzovimab,G4,Kappa,Phase-I,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+enzelkitug,G1,Kappa,TBC,TBC,CCR8/CKR-L1/CDw198,Humanised,False,False,False,0
+epacmarstobart,G1,Kappa,Phase-I,Discontinued,SIRPA,Chimeric and/or humanised,False,False,False,0
+epratuzumab,G1,Kappa,Phase-III,Discontinued,SIGLEC2/CD22,Humanised,False,False,False,0
+eptinezumab,G1,Kappa,Approved,Active,CALCA and CALCB,Humanised,True,True,False,0
+erenumab,G2,Lambda,Approved,NFD,CALCRL,Genetically human,True,True,False,0
+erlizumab,G1,Kappa,Phase-II,Discontinued,ITGB2/CD18,Humanised,False,False,False,0
+ersodetug,G2,Kappa,Phase-III,Active,INSR/CD220,Genetically human,False,False,False,0
+erzotabart,G1,Kappa,Phase-I/II,Active,ADPRC1/CD38,Genetically human,False,False,False,0
+etalanetug,G1,Kappa,Phase-II/III,Active,MAPT,Humanised,False,False,False,0
+etaracizumab,G1,Kappa,Phase-II,Discontinued,ITGAVB3/CD61/VNR,Humanised,False,False,False,0
+etesevimab,G1,Kappa,Approved,NFD,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+etigilimab,G1,Kappa,Phase-II,Active,TIGIT/WUCAM/VSTM3,Humanised,False,False,False,0
+etokimab,G1,Kappa,Phase-II,Discontinued,IL13,Humanised,False,False,False,0
+etrolizumab,G1,Kappa,Phase-III,Discontinued,ITGA4B7 and ITGAEB7,Humanised,False,False,False,0
+eurestobart,G1,Kappa,Phase-I,Active,ENTPD1/CD39,Humanised,False,False,False,0
+evalstotug,G1,Kappa,Phase-I/II,Active,CTLA4/CD152,Genetically human,False,False,False,0
+evinacumab,G4,Kappa,Approved,Active,ANGPTL3,Genetically human,True,True,False,0
+evolocumab,G2,Lambda,Approved,Active,PCSK9,Genetically human,True,True,False,0
+evunzekibart,G4,Kappa,Phase-I,Active,TNFRSF9/CD137/4-1BB,Genetically human,False,False,False,0
+exbivirumab,G1,Lambda,Phase-II,Discontinued,Hepatitis B Surface Antigen,Genetically human,False,False,False,0
+exerenibart,G4,Kappa,TBC,TBC,TMPRSS6/MT2,Genetically human,False,False,False,0
+exidavnemab,G4,Kappa,Phase-II,Active,SNCA/PARK1/PARK4,Chimeric and/or humanised,False,False,False,0
+exlinkibart,G1,Kappa,Phase-II,Active,TNFRSF9/CD137/4-1BB,Humanised,False,False,False,0
+ezabenlimab,G4,Kappa,Phase-II,Active,PDCD1/CD279/PD1,Humanised,False,False,False,0
+falbikitug,G1,Kappa,Phase-II,Active,LIF,Humanised,False,False,False,0
+farletuzumab,G1,Kappa,Phase-III,Discontinued,FOLR1,Humanised,False,False,False,0
+fasinumab,G4,Kappa,Phase-III,Discontinued,NGFB,Genetically human,False,False,False,0
+favezelimab,G4,Kappa,Phase-II,Active,LAG3/CD223,Humanised,False,False,False,0
+feladilimab,G4,Kappa,Phase-III,Active,ICOS/CD278,Humanised,False,False,False,0
+felmetatug,G1,Kappa,Phase-I,Active,VTCN1/B7H4,Genetically human,False,False,False,0
+felzartamab,G1,Lambda,Preregistration,Active,ADPRC1/CD38,Humanised,False,False,False,0
+fepixnebart,G4,Kappa,Phase-II,Active,EREG,Humanised,False,False,False,0
+fezakinumab,G1,Lambda,Phase-I,Discontinued,IL22,Genetically human,False,False,False,0
+fianlimab,G4,Kappa,Phase-III,Active,LAG3/CD223,Genetically human,False,False,False,0
+ficlatuzumab,G1,Kappa,Phase-III,Active,HGF/SF,Humanised,False,False,False,0
+figitumumab,G2,Kappa,Phase-I,Discontinued,IGF1R/CD221,Genetically human,False,False,False,0
+finotonlimab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Chimeric and/or humanised,False,False,False,0
+firastotug,G1,Kappa,Phase-I/II,Active,CTLA4/CD152,Humanised,False,False,False,0
+firivumab,G1,Kappa,Preclinical,Discontinued,Influenza A HA,Genetically human,False,False,False,0
+firsekibart,G4,Lambda,TBC,TBC,IL1B,Genetically human,False,False,False,0
+fiztasovimab,G1,Lambda,Phase-II,Active,Human Herpesvirus Glycoprotein B AD-1,Genetically human,False,False,False,0
+flanvotumab,G1,Kappa,Phase-I,Discontinued,TYRP1,Genetically human,False,False,False,0
+fletikumab,G4,Kappa,Phase-II,Discontinued,IL20,Genetically human,False,False,False,0
+fontolizumab,G1,Kappa,Phase-II,Discontinued,IFNG,Humanised,False,False,False,0
+foralumab,G1,Kappa,Phase-II,Active,CD3E,Genetically human,False,False,False,0
+foravirumab,G1,Kappa,Phase-II,Discontinued,Rabies Virus Antigenic Site III,Genetically human,False,False,False,0
+fremanezumab,G2,Kappa,Approved,Active,CALCA and CALCB,Humanised,True,True,False,0
+freneslerbart,G4,Kappa,Phase-III,Active,Fel d 1,Genetically human,False,False,False,0
+fresolimumab,G4,Kappa,Phase-I,Discontinued,TGFB,Genetically human,False,False,False,0
+frexalimab,G1,Kappa,Phase-III,Active,CD40LG/CD154,Chimeric and/or humanised,False,False,False,0
+frovocimab,G4,Kappa,Phase-II,Active,PCSK9,Humanised,False,False,False,0
+fulranumab,G2,Kappa,Phase-III,Discontinued,NGFB,Genetically human,False,False,False,0
+futermestotug,G1,Kappa,TBC,TBC,CTLA4/CD152,Humanised,False,False,False,0
+futuximab,G1,Kappa,Phase-III,Active,EGFR/ERBB1/HER1,Chimeric,False,False,False,0
+galcanezumab,G4,Kappa,Approved,NFD,CALCA and CALCB,Humanised,True,True,False,0
+galegenimab,G1,Kappa,Phase-II,Discontinued,HTRA1,Humanised,False,False,False,0
+galiximab,G1,Lambda,Phase-II,Discontinued,B7/CD80/CD28LG,Chimeric,False,False,False,0
+ganitumab,G1,Kappa,Phase-III,Discontinued,IGF1R/CD221,Genetically human,False,False,False,0
+gantenerumab,G1,Kappa,Phase-III,Discontinued,APP,Genetically human,False,False,False,0
+garadacimab,G4,Lambda,Approved,NFD,F12,Genetically human,True,True,False,0
+garetosmab,G4,Kappa,Phase-III,Active,INHBA,Genetically human,False,False,False,0
+garivulimab,G1,Kappa,Phase-I/II,Active,PDL1/CD274,Humanised,False,False,False,0
+gatipotuzumab,G1,Kappa,Phase-II,Active,MUC1/PEM/EMA,Humanised,False,False,False,0
+gatralimab,G1,Kappa,Phase-I,Discontinued,CD52,Humanised,False,False,False,0
+gedivumab,G1,Kappa,Phase-II,Discontinued,Influenza A HA,Genetically human,False,False,False,0
+geptanolimab,G4,Kappa,Preregistration,Active,PDCD1/CD279/PD1,Chimeric and/or humanised,False,False,False,0
+gevokizumab,G2,Kappa,Phase-III,Active,IL1B,Humanised,False,False,False,0
+giloralimab,G1,Kappa,Phase-I/II,Active,TNFRSF5/CD40,Chimeric and/or humanised,False,False,False,0
+gimistotug,G1,Kappa,Phase-II,Active,TNFRSF4/CD134/OX40,Humanised,False,False,False,0
+gimsilumab,G1,Kappa,Phase-I,Discontinued,CSF2,Genetically human,False,False,False,0
+ginisortamab,G4,Kappa,Phase-I/II,Active,GREM1,Genetically human,False,False,False,0
+golimumab,G1,Kappa,Approved,Active,TNF/TNFA,Genetically human,True,True,False,3
+golocdacimab,G1,Lambda,Phase-II,Discontinued,OLR1/LOX1,Genetically human,False,False,False,0
+gorivitug,G1,Kappa,Phase-I,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+gosuranemab,G4,Kappa,Phase-II,Discontinued,MAPT,Chimeric and/or humanised,False,False,False,0
+gotistobart,G1,Kappa,Phase-III,Active,CTLA4/CD152,Genetically human,False,False,False,0
+greziprubart,G1,Kappa,Phase-I/II,Active,C5,Genetically human,False,False,False,0
+grisnilimab,G2a,Lambda,Phase-I/II,Active,CD7,Murine,False,False,False,0
+gruticibart,G4,Kappa,Phase-II,Active,F11,Chimeric and/or humanised,False,False,False,0
+gumokimab,G1,Kappa,Phase-III,Active,IL17A,Chimeric and/or humanised,False,False,False,0
+guselkumab,G1,Lambda,Approved,Active,IL23A,Genetically human,True,True,True,0
+ianalumab,G1,Kappa,Phase-III,Active,TNFRSF13C/CD268/BAFFR/BR3,Genetically human,False,False,False,0
+ibalizumab,G4,Kappa,Approved,NFD,CD4,Humanised,True,True,False,0
+ibramvibart,G1,Lambda,TBC,TBC,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+ibentatug,G1,Kappa,Phase-I/II,Active,CSP1,Chimeric and/or humanised,False,False,False,0
+ibritumomab,G1,Kappa,Approved,NFD,MS4A1/CD20,Murine,False,False,False,0
+icrucumab,G1,Kappa,Phase-II,Discontinued,FLT1,Genetically human,False,False,False,0
+idactamab,G1,Kappa,Phase-I,Discontinued,SLC1A5,Genetically human,False,False,False,0
+ieramilimab,G4,Kappa,Phase-II,Active,LAG3/CD223,Humanised,False,False,False,0
+ifabotuzumab,G1,Kappa,Phase-II,Active,EPHA3,Humanised,False,False,False,0
+ifinatamab,G1,Kappa,Phase-III,Active,B7H3/CD276,Humanised,False,False,False,0
+iluzanebart,G1,Kappa,Phase-II,Active,TREM2,Genetically human,False,False,False,0
+imalumab,G1,Kappa,Phase-II,Discontinued,MIF,Genetically human,False,False,False,0
+imaprelimab,G1,Kappa,Phase-I,Discontinued,MCAM/CD146/MUC18,Humanised,False,False,False,0
+imeroprubart,G1,Lambda,TBC,Active,FCGRT/FcRn,Genetically human,False,False,False,0
+imgatuzumab,G1,Kappa,Phase-II,Discontinued,EGFR/ERBB1/HER1,Humanised,False,False,False,0
+imneskibart,G1,Kappa,Phase-I/II,Active,IL2RA/CD25,Humanised,False,False,False,0
+imsidolimab,G4,Kappa,Phase-III,Active,IL36R,Chimeric and/or humanised,False,False,False,0
+imzokitug,G1,Kappa,Phase-II,Active,CCR8/CKR-L1/CDw198,Humanised,False,False,False,0
+inclacumab,G4,Kappa,Phase-II,Discontinued,SELP/CD62,Genetically human,False,False,False,0
+indematug,G1,Lambda,TBC,Active,IFNG,Genetically human,False,False,False,0
+indenebart,G1,Lambda,Phase-II,Active,SNCA/PARK1/PARK4,Genetically human,False,False,False,0
+inebilizumab,G1,Kappa,Approved,Active,CD19,Humanised,True,True,False,0
+infliximab,G1,Kappa,Approved,NFD,TNF/TNFA,Chimeric,True,True,True,8
+inlecitug,G1,Kappa,TBC,TBC,KDR/CD309/VEGFR2,Chimeric,False,False,False,0
+intetumumab,G1,Kappa,Phase-II,Discontinued,ITGAVB3/CD61/VNR,Genetically human,False,False,False,0
+iparomlimab,G4,Kappa,Preregistration,Active,PDCD1/CD279/PD1,Chimeric and humanised,False,False,False,0
+ipilimumab,G1,Kappa,Approved,Active,CTLA4/CD152,Genetically human,True,True,False,0
+iratumumab,G1,Kappa,Phase-II,Discontinued,TNFRSF8/CD30,Genetically human,False,False,False,0
+isatuximab,G1,Kappa,Approved,Active,ADPRC1/CD38,Chimeric,True,True,False,0
+iscalimab,G1,Kappa,Phase-II,Active,TNFRSF5/CD40,Genetically human,False,False,False,0
+ispectamab,G1,Kappa,Phase-I,Active,TNFRSF17/CD269/BCMA/TNFRSF13A,Humanised,False,False,False,0
+isuventatug,G1,Kappa,TBC,TBC,MICA&MICB,Chimeric and/or humanised,False,False,False,0
+itepekimab,G4,Kappa,Phase-III,Active,IL33,Genetically human,False,False,False,0
+itolizumab,G1,Kappa,Approved,Active,CD6,Humanised,False,False,False,0
+ivuxolimab,G2,Kappa,Phase-II,Active,TNFRSF4/CD134/OX40,Genetically human,False,False,False,0
+ixekizumab,G4,Kappa,Approved,Active,IL17A,Humanised,True,True,False,0
+izastobart,G1,Lambda,Phase-I,Active,C5AR1/CD88,Genetically human,False,False,False,0
+izeltabart,G1,Kappa,Phase-I/II,Discontinued,ADAM9,Humanised,False,False,False,0
+lacnotuzumab,G1,Kappa,Phase-II,Discontinued,CSF1,Humanised,False,False,False,0
+lacutamab,G1,Kappa,Phase-II,Active,KIR3DL2/CD158K,Chimeric and/or humanised,False,False,False,0
+lanadelumab,G1,Kappa,Approved,NFD,KLKB1,Genetically human,True,True,False,0
+lancastotug,G1,Kappa,Phase-I,Active,TIGIT/WUCAM/VSTM3,Humanised,False,False,False,0
+landogrozumab,G4,Kappa,Phase-II,Discontinued,MSTN/GDF8/GDF-8,Humanised,False,False,False,0
+lanerkitug,G1,Lambda,Phase-I,Active,CCR8/CKR-L1/CDw198,Genetically human,False,False,False,0
+larcaviximab,G1,Kappa,Phase-II,Active,Zaire Ebolavirus Glycoprotein,Chimeric,False,False,False,0
+lasrekibart,G1,Kappa,TBC,TBC,IL5,Humanised,False,False,False,0
+latozinemab,G1,Kappa,Phase-III,Active,SORT1/Gp95/NT3,Genetically human,False,False,False,0
+lebrikizumab,G4,Kappa,Approved,Active,IL13,Humanised,True,True,False,0
+lecanemab,G1,Kappa,Approved,Active,APP,Chimeric and/or humanised,True,True,True,0
+lecankitug,G1,Kappa,TBC,TBC,IL17A&IL17F,Humanised,False,False,False,0
+lemalesomab,G1,Kappa,Phase-I,Discontinued,NCA90/p95,Murine,False,False,False,0
+lemzoparlimab,G4,Kappa,Phase-III,Active,IAP/CD47,Genetically human,False,False,False,0
+lenvervimab,G1,Kappa,Phase-III,Active,Hepatitis B Virus,Humanised,False,False,False,0
+lerdelimumab,G4,Lambda,Phase-III,Discontinued,TGFB1,Genetically human,False,False,False,0
+leronlimab,G4,Kappa,Approved,Active,CCR5/CD195,Humanised,False,False,False,0
+lesabelimab,G1,Kappa,Phase-II,Active,PDL1/CD274,Genetically human,False,False,False,0
+lesofavumab,G1,Kappa,Phase-I,Discontinued,Influenza B Virus,Genetically human,False,False,False,0
+letaplimab,G4,Kappa,Phase-I/II,Active,IAP/CD47,Genetically human,False,False,False,0
+levilimab,G1,Kappa,Approved,Active,IL6R/CD126,Chimeric and/or humanised,False,False,False,0
+lexatumumab,G1,Lambda,Phase-I,Discontinued,TNFRSF10B/CD262/DR5/TRAILR2,Genetically human,False,False,False,0
+libevitug,G1,Lambda,Phase-II,Active,Hepatitis B Virus Surface Antigen,Genetically human,False,False,False,0
+libivirumab,G1,Kappa,Phase-II,Discontinued,Hepatitis B Virus Surface Antigen,Genetically human,False,False,False,0
+ligelizumab,G1,Kappa,Phase-III,Active,IGHE,Humanised,False,False,False,0
+ligufalimab,G4,Kappa,Phase-III,Active,IAP/CD47,Chimeric and/or humanised,False,False,False,0
+linavonkibart,G4,Kappa,Phase-I,Active,TGFB1,Genetically human,False,False,False,0
+lipustobart,G4,Kappa,Phase-I,Discontinued,PDCD1/CD279/PD1,Humanised,False,False,False,0
+lirentelimab,G1,Kappa,Phase-III,Discontinued,SIGLEC8/SAF2,Humanised,False,False,False,0
+lirilumab,G4,Kappa,Phase-II,Discontinued,KIRD2,Genetically human,False,False,False,0
+litifilimab,G1,Kappa,Phase-III,Active,CLEC4C,Humanised,False,False,False,0
+livmoniplimab,G4,Kappa,Phase-II/III,Active,LRRC32,Humanised,False,False,False,0
+lixudebart,G1,Kappa,Phase-II,Active,CLDN1,Humanised,False,False,False,0
+lodapolimab,G1,Lambda,Phase-I,Discontinued,PDL1/CD274,Genetically human,False,False,False,0
+lodelcizumab,G1,Kappa,Phase-II,Discontinued,PCSK9,Humanised,False,False,False,0
+lomtegovimab,G1,Kappa,Phase-II/III,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+lonigutamab,G1,Kappa,Phase-I/II,Active,IGF1R/CD221,Humanised,False,False,False,0
+lotivibart,G1,Kappa,TBC,Active,HIV-1 gp120,Genetically human,False,False,False,0
+lucatumumab,G1,Kappa,Phase-I,Discontinued,TNFRSF5/CD40,Genetically human,False,False,False,0
+lucorafusp,G4,Kappa,Phase-I,Active,TIGIT/WUCAM/VSTM3,Humanised,False,False,False,0
+lumiliximab,G1,Kappa,Phase-II,Discontinued,FCER2/CD23,Chimeric,False,False,False,0
+lumistobart,G1,Kappa,Phase-I,Active,SIRPA,Humanised,False,False,False,0
+lumrotatug,G1,Kappa,Phase-II,Active,ADPRC1/CD38,Humanised,False,False,False,0
+lumretuzumab,G1,Kappa,Phase-I/II,Discontinued,ERBB3/HER3,Humanised,False,False,False,0
+lunlekitug,G1,Kappa,TBC,Active,IL1A,Genetically human,False,False,False,0
+lusvertikimab,G4,Kappa,Phase-III,Active,IL7R/CD127,Humanised,False,False,False,0
+luvagrobart,G1,Kappa,Phase-I,Active,NGF,Humanised,False,False,False,0
+maftivimab,G1,Kappa,Preregistration,Discontinued,Zaire Ebolavirus Glycoprotein,Genetically human,True,False,False,0
+magrolimab,G4,Kappa,Phase-III,Active,IAP/CD47,Chimeric and/or humanised,False,False,False,0
+manelimab,G1,Lambda,Phase-I,Discontinued,PDL1/CD274,Genetically human,False,False,False,0
+manfidokimab,G4,Kappa,Phase-III,Active,IL4R/CD124,Humanised,False,False,False,0
+margetuximab,G1,Kappa,Approved,Active,ERBB2/CD340/HER2,Chimeric,True,False,False,0
+maridebart,G1,Kappa,Phase-II,Active,GIPR,Genetically human,False,False,False,0
+marstacimab,G1,Lambda,Approved,Active,ERBB2/CD340/HER2,Genetically human,True,True,False,0
+masavibart,G1,Lambda,Approved,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+matuzumab,G1,Kappa,Phase-II,Discontinued,EGFR/ERBB1/HER1,Humanised,False,False,False,0
+mavrilimumab,G4,Lambda,Phase-II,Active,CSF2RA/CD116,Genetically human,False,False,False,0
+mavrostobart,G4,Kappa,Phase-I,Active,NT5E/CALJA/CD73,Chimeric and/or humanised,False,False,False,0
+mazorelvimab,G1,Kappa,Phase-III,Active,Rabies Virus Spike Glycoprotein G,Chimeric and/or humanised,False,False,False,0
+mecbotamab,G1,Kappa,Phase-II,Active,AXL/UFO,Humanised,False,False,False,0
+melrilimab,G2,Kappa,Phase-II,Discontinued,IL1RL1/ST2,Genetically human,False,False,False,0
+metelimumab,G4,Kappa,Phase-II,Discontinued,TGFB1,Genetically human,False,False,False,0
+mepolizumab,G1,Kappa,Approved,Active,IL5,Humanised,True,True,False,0
+mevonlerbart,G4,Kappa,Phase-III,Active,Fel d 1,Genetically human,False,False,False,0
+mezagitamab,G1,Lambda,Phase-II,Active,ADPRC1/CD38,Humanised,False,False,False,0
+mibavademab,G4,Kappa,Phase-III,Active,LEPR/CD295/OBR,Genetically human,False,False,False,0
+micvotabart,G1,Kappa,Phase-I/II,Active,FN extracellular domain B,Genetically human,False,False,False,0
+milatuzumab,G1,Kappa,Phase-I/II,Discontinued,CD74/HLA class II histocompatibility antigen gamma chain,Humanised,False,False,False,0
+mipasetamab,G1,Kappa,Phase-I,Discontinued,AXL/UFO,Humanised,False,False,False,0
+miptenalimab,G4,Kappa,Phase-II,Active,LAG3/CD223,Chimeric and/or humanised,False,False,False,0
+mirikizumab,G4,Kappa,Approved,Active,IL23A,Humanised,True,True,True,0
+mirzotamab,G1,Kappa,Phase-I,Discontinued,B7H3/CD276,Chimeric,False,False,False,0
+misitatug,G1,Kappa,Phase-II,Active,MSLN,Humanised,False,False,False,0
+mitazalimab,G1,Lambda,Phase-II,Active,TNFRSF5/CD40,Humanised,False,False,False,0
+modotuximab,G1,Kappa,Phase-III,Active,EGFR/ERBB1/HER1,Chimeric,False,False,False,0
+mogamulizumab,G1,Kappa,Approved,Active,CCR4/CD194,Humanised,True,True,False,0
+monalizumab,G4,Kappa,Phase-III,Active,KLRC1,Humanised,False,False,False,0
+motavizumab,G1,Kappa,Phase-III,Discontinued,Respiratory Syncytial Virus Glycoprotein F,Humanised,False,False,False,0
+mozistobart,G1,Kappa,Phase-I/II,Active,SIGLEC2/CD22,Humanised,False,False,False,0
+murlentamab,G1,Kappa,Phase-II,Active,AMHR2,Humanised,False,False,False,0
+mupadolimab,G1,Kappa,Phase-II,Active,NT5E/CALJA/CD73,Humanised,False,False,False,0
+muromonab,G2a,Kappa,Approved (withdrawn),Discontinued,CD3E,Murine,False,False,False,0
+muzastotug,G1,Kappa,Phase-I/II,Active,CTLA4/CD152,Humanised,False,False,False,0
+nadecnemab,G4,Kappa,Phase-II,Active,GFRA3,Genetically human,False,False,False,0
+nadunolimab,G1,Kappa,Phase-III,Active,IL1RAP,Humanised,False,False,False,0
+namilumab,G1,Kappa,Phase-II,Active,CSF2,Genetically human,False,False,False,0
+narlumosbart,G4,Kappa,Phase-III,Approved,TNFSF11/CD254/RANKL/TRANCE/OPGL/ODF,Genetically human,False,False,False,0
+narnatumab,G1,Kappa,Phase-I,Discontinued,MST1R/CD136,Genetically human,False,False,False,0
+narsoplimab,G4,Lambda,Preregistration,Active,MASP2,Genetically human,True,False,False,0
+natalizumab,G4,Kappa,Approved,Active,ITGA4/CD49D,Humanised,True,True,True,1
+navenibart,G1,Kappa,Phase-II,Active,KLKB1,Humanised,False,False,False,0
+navivumab,G1,Kappa,Preclinical,Discontinued,Influenza A HA,Genetically human,False,False,False,0
+naxitamab,G1,Kappa,Approved,Active,Ganglioside GD2,Chimeric and/or humanised,True,False,False,0
+nebokitug,G1,Kappa,Phase-II,Active,CCL24/SCYA24/Ckb-6/MPIF-2/eotaxin-2,Chimeric and/or humanised,False,False,False,0
+necitumumab,G1,Kappa,Approved,Active,EGFR/ERBB1/HER1,Genetically human,True,True,False,0
+negalstobart,G4,Kappa,Phase-II,Active,LAG3/CD223,Genetically human,False,False,False,0
+nelmastobart,G4,Kappa,Phase-I/II,Active,BTN1A1,Humanised,False,False,False,0
+nelistotug,G1,Kappa,Phase-II,Active,TACTILE/CD96,Genetically human,False,False,False,0
+nemolizumab,G2,Kappa,Approved,Active,IL31RA,Humanised,True,True,False,0
+nepuvibart,G1,Kappa,Approved,NFD,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+nesvacumab,G1,Kappa,Phase-I,Discontinued,ANGPT2,Genetically human,False,False,False,0
+netakimab,G1,Kappa,Approved,Active,IL17A,Chimeric,False,False,False,0
+nezutatug,G1,Kappa,Phase-I/II,Active,ERBB3/HER3,Humanised,False,False,False,0
+nimacimab,G4,Kappa,Phase-II,Active,CNR1/CB1,Humanised,False,False,False,0
+nimotuzumab,G1,Kappa,Approved,Active,EGFR/ERBB1/HER1,Humanised,False,False,False,0
+nipocalimab,G1,Lambda,Preregistration,Active,FCGRT/FcRn,Genetically human,True,True,False,0
+nirsevimab,G1,Kappa,Approved,Active,Respiratory Syncytial Virus,Genetically human,True,True,False,0
+nisevokitug,G2,Lambda,Phase-III,Active,TGFB1/TGFB2,Genetically human,False,False,False,0
+nivisnebart,G1,Kappa,TBC,Active,SORT1/Gp95/NT3,Genetically human,False,False,False,0
+nivolumab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Genetically human,True,True,False,3
+nofazinlimab,G4,Kappa,Phase-III,Active,PDCD1/CD279/PD1,Humanised,False,False,False,0
+nurulimab,G1,Kappa,Phase-I,Discontinued,CTLA4/CD152,Genetically human,False,False,False,0
+nuvustotug,G1,Kappa,Phase-I,Active,TNFRSF4/CD134/OX40,Genetically human,False,False,False,0
+oberotatug,G1,Kappa,Phase-I,Active,LY75/CD205/DEC205,Genetically human,False,False,False,0
+obexelimab,G1,Kappa,Phase-III,Active,CD19,Chimeric and/or humanised,False,False,False,0
+obiltoxaximab,G1,Kappa,Approved,NFD,Anthrax Protective Antigen,Chimeric,True,True,False,1
+obinutuzumab,G1,Kappa,Approved,Active,MS4A1/CD20,Humanised,True,True,False,1
+ocankitug,G1,Kappa,Phase-II,Active,TSLP,Humanised,False,False,False,0
+ocaratuzumab,G1,Kappa,Phase-II,Discontinued,MS4A1/CD20,Humanised,False,False,False,0
+ociperlimab,G1,Kappa,Phase-III,Active,TIGIT/WUCAM/VSTM3,Humanised,False,False,False,0
+ocrelizumab,G1,Kappa,Approved,NFD,MS4A1/CD20,Humanised,True,True,False,1
+odesivimab,G1,Kappa,Approved,Active,Zaire Ebolavirus Glycoprotein,Genetically human,True,False,False,0
+ofatumumab,G1,Kappa,Approved,Active,MS4A1/CD20,Genetically human,True,True,False,1
+ogalvibart,G1,Kappa,Phase-II/III,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+olaratumab,G1,Kappa,Approved,Active,PDGFRA/CD140A,Genetically human,False,True,False,0
+oleclumab,G1,Lambda,Phase-III,Active,NT5E/CALJA/CD73,Genetically human,False,False,False,0
+olendalizumab,G2,Kappa,Phase-II,Discontinued,C5,Humanised,False,False,False,0
+olintatug,G1,Kappa,TBC,Active,KAAG1/RU2AS,Chimeric and humanised,False,False,False,0
+olinvacimab,G1,Lambda,Phase-II,Active,KDR/CD309/VEGFR2,Genetically human,False,False,False,0
+oloctinebart,G4,Kappa,TBC,Active,LGALS3/GAL3,Humanised,False,False,False,0
+olokizumab,G4,Kappa,Approved,Active,IL6,Humanised,False,False,False,0
+omalizumab,G1,Kappa,Approved,Active,IGHE,Humanised,True,True,False,1
+omectatug,G1,Kappa,Phase-III,Active,CLDN18,Humanised,False,False,False,0
+omoprubart,G2/G4,Kappa,Phase-I/II,Active,C5,Genetically human,False,False,False,0
+omodenbamab,G3,Kappa,Phase-I/II,Active,Staphylococcus aureus Protein A,Genetically human,False,False,False,0
+ongericimab,G4,Kappa,Approved,Active,PCSK9,Humanised,False,False,False,0
+ontamalimab,G2,Kappa,Phase-III,Discontinued,MADCAM1,Genetically human,False,False,False,0
+ontuxizumab,G1,Kappa,Phase-II,Active,CD248/CD164L1,Chimeric and humanised,False,False,False,0
+onvatilimab,G1,Kappa,Phase-I,Discontinued,VSIR/VISTA/B7H5/PD1H/SISP1,Genetically human,False,False,False,0
+opicinumab,G1,Kappa,Phase-II,Discontinued,LINGO1,Genetically human,False,False,False,0
+opucolimab,G1,Lambda,Phase-I,Discontinued,PDL1/CD274,Genetically human,False,False,False,0
+ordesekimab,G1,Kappa,Phase-II,Active,IL15,Genetically human,False,False,False,0
+orilanolimab,G4,Kappa,Phase-II,Discontinued,FCGRT/FcRn,Chimeric and/or humanised,False,False,False,0
+ormutivimab,G1,Lambda,Approved,NFD,Rabies Virus Surface Glycoprotein 4 (gp4) Epitope 1,Genetically human,False,False,False,0
+orticumab,G1,Lambda,Phase-II,Active,OxLDL,Genetically human,False,False,False,0
+osemitamab,G1,Kappa,Phase-II,Active,CLDN18,Humanised,False,False,False,0
+osocimab,G1,Kappa,Phase-II,Discontinued,F11,Genetically human,False,False,False,0
+otelixizumab,G1,Lambda,Phase-II,Active,CD3E,Chimeric and humanised,False,False,False,0
+otilimab,G1,Lambda,Phase-III,Discontinued,CSF2,Genetically human,False,False,False,0
+oturkibart,G4,Kappa,TBC,TBC,IL4R/CD124,Humanised,False,False,False,0
+oxelumab,G1,Kappa,Phase-II,Discontinued,TNFSF4/CD134/CD252/OX40L,Genetically human,False,False,False,0
+ozanezumab,G1,Kappa,Phase-II,Discontinued,RTN4/Nogo,Humanised,False,False,False,0
+ozureprubart,G1,Kappa,Phase-II,Active,IGHE,Humanised,False,False,False,0
+ozuriftamab,G1,Kappa,Phase-II,Active,ROR2,Chimeric and/or humanised,False,False,False,0
+pacibekitug,G2,Kappa,Phase-II,Active,IL6,Genetically human,False,False,False,0
+pacmilimab,G4,Kappa,Phase-II,Active,PDL1/CD274,Genetically human,False,False,False,0
+palivizumab,G1,Kappa,Approved,NFD,Respiratory Syncytial Virus Glycoprotein F,Humanised,True,True,False,0
+pamlectabart,G1,Kappa,Phase-I/II,Active,TNFRSF17/CD269/BCMA/TNFRSF13A;CD3E,Humanised,False,False,False,0
+pamrevlumab,G1,Kappa,Phase-III,Active,CTGF/CCN2,Genetically human,False,False,False,0
+panitumumab,G2,Kappa,Approved,Active,EGFR/ERBB1/HER1,Genetically human,True,True,False,0
+panobacumab,M,Kappa,Phase-II,Active,Serotype IATS O11,Genetically human,False,False,False,0
+paridiprubart,G1,Kappa,Phase-III,Active,TLR4/CD284,Humanised,False,False,False,0
+parsatuzumab,G1,Kappa,Phase-II,Discontinued,EGFL7,Humanised,False,False,False,0
+patecibart,G4,Kappa,Phase-I,Discontinued,EDNRA,Humanised,False,False,False,0
+pateclizumab,G1,Kappa,Phase-II,Discontinued,LTA,Humanised,False,False,False,0
+patritumab,G1,Kappa,Phase-III,Discontinued,ERBB3/HER3,Genetically human,False,False,False,0
+pembrolizumab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Humanised,True,True,False,1
+pemivibart,G1,Lambda,Approved,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+penpulimab,G1,Kappa,Approved,Active,PDCD1/CD279/PD1,Chimeric and/or humanised,True,False,False,1
+pepinemab,G4,Kappa,Phase-II,Active,SEMA4D/CD100,Chimeric and/or humanised,False,False,False,0
+perakizumab,G1,Kappa,Phase-I,Discontinued,IL17A,Humanised,False,False,False,0
+perenostobart,G4,Kappa,Phase-II,Discontinued,ENTPD1/CD39,Genetically human,False,False,False,0
+peresolimab,G1,Kappa,Phase-II,Active,PDCD1/CD279/PD1,Humanised,False,False,False,0
+pertuzumab,G1,Kappa,Approved,Active,ERBB2/CD340/HER2,Humanised,True,True,True,1
+picankibart,G1,Kappa,Preregistration,Active,IL23A,Humanised,False,False,False,0
+pidilizumab,G1,Kappa,Phase-II,Active,PDCD1/CD279/PD1,Humanised,False,False,False,0
+pimivalimab,G4,Kappa,Phase-II,Active,PDCD1/CD279/PD1,Genetically human,False,False,False,0
+pimurutamab,G1,Kappa,Phase-II,Active,EGFR/ERBB1/HER1,Humanised,False,False,False,0
+pivekimab,G1,Kappa,Phase-I/II,Active,IL3RA/CD123,Chimeric and/or humanised,False,False,False,0
+plonmarlimab,G1,Kappa,Phase-II/III,Active,CSF2,Humanised,False,False,False,0
+plozalizumab,G1,Kappa,Phase-II,Active,CCR2/CD192,Humanised by CDR Grafting,False,False,False,0
+polzastobart,G4,Kappa,Phase-I/II,Active,LILRB2,Humanised,False,False,False,0
+ponezumab,G2,Kappa,Phase-II,Discontinued,APP,Humanised,False,False,False,0
+ponsegromab,G1,Kappa,Phase-I,Discontinued,GDF15/MIC1/MIC-1/NAG1/NAG-1/PTGFB,Genetically human,False,False,False,0
+posdinemab,G1,Kappa,Phase-II,Active,MAPT,Humanised,False,False,False,0
+potravitug,G1,Kappa,Phase-II/III,Active,BK polyomavirus VP1,Genetically human,False,False,False,0
+pozelimab,G4,Kappa,Approved,Active,C5,Genetically human,True,False,True,0
+plutavimab,G1,Kappa,Phase-II,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+porgaviximab,G1,Kappa,Phase-II,Discontinued,Zaire Ebolavirus Glycoprotein,Chimeric,False,False,False,0
+pradusinstobart,G4,Kappa,Phase-I,Discontinued,PDCD1/CD279/PD1,Humanised,False,False,False,0
+prafnosbart,G1,Kappa,Phase-I,Discontinued,ACVR1,Humanised,False,False,False,0
+praluzatamab,G1,Kappa,Phase-II,Active,ALCAM/CD166,Humanised,False,False,False,0
+prasinezumab,G1,Kappa,Phase-II,Active,SNCA/PARK1/PARK4,Humanised,False,False,False,0
+precemtabart,G1,Kappa,Phase-I,Active,CEACAM5/CD66e,Genetically human,False,False,False,0
+prezalumab,G2,Kappa,Phase-II,Discontinued,ICOSLG,Genetically human,False,False,False,0
+pritoxaximab,G1,Kappa,Phase-II,Discontinued,Shiga Toxin Type 1,Chimeric,False,False,False,0
+pritumumab,G1,Kappa,Phase-II,Active,VIM,Genetically human,False,False,False,0
+prolgolimab,G1,Lambda,Approved,Active,PDCD1/CD279/PD1,Chimeric and/or humanised,False,False,False,0
+pucotenlimab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Chimeric and/or humanised,False,False,False,0
+pulocimab,G1,Kappa,Phase-III,Active,KDR/CD309/VEGFR2,Genetically human,False,False,False,0
+puxitatug,G1,Kappa,Phase-I/II,Active,VTCN1/B7H4,Genetically human,False,False,False,0
+quavonlimab,G1,Kappa,Phase-II,Active,CTLA4/CD152,Humanised,False,False,False,0
+quetmolimab,G2,Kappa,Phase-II,Discontinued,CX3CL1,Chimeric and/or humanised,False,False,False,0
+quilizumab,G1,Kappa,Phase-II,Discontinued,IGHE,Humanised,False,False,False,0
+quisovalimab,G4,Kappa,Phase-II,Active,TNFSF14/CD258,Genetically human,False,False,False,0
+racotumomab,G1,Kappa,Approved,Active,Idiotope of anti-NeuGc-ganliosides,Murine,False,False,False,0
+rademikibart,G4,Kappa,Phase-III,Active,IL4R/CD124,Genetically human,False,False,False,0
+rafivirumab,G1,Lambda,Phase-II,Discontinued,Rabies Virus Antigenic Site III,Genetically human,False,False,False,0
+ragifilimab,G1,Kappa,Phase-II,Active,TNFRSF18/CD357/GITR,Humanised,False,False,False,0
+ralpancizumab,G2,Kappa,Phase-I,Discontinued,PCSK9,Humanised,False,False,False,0
+raludotatug,G1,Kappa,Phase-II/III,Active,CDH6,Humanised,False,False,False,0
+ralzapastotug,G1,Kappa,Phase-I,Discontinued,TIGIT/WUCAM/VSTM3,Humanised,False,False,False,0
+ramucirumab,G1,Kappa,Approved,Active,KDR/CD309/VEGFR2,Genetically human,True,True,False,0
+rapaprutug,G1,Kappa,TBC,TBC,KARS1,Genetically human,False,False,False,0
+ravagalimab,G1,Kappa,Phase-II,Active,TNFRSF5/CD40,Humanised,False,False,False,0
+ravulizumab,G2,Kappa,Approved,Active,C5,Humanised,True,True,False,0
+recaticimab,G1,Kappa,Approved,Active,PCSK9,Chimeric and/or humanised,False,False,False,0
+recibokibart,G1,Kappa,Phase-II/III,Active,IL1RL2/IL1Rrp2/IL1RRP2/IL-36R/IL36R,Humanised,False,False,False,0
+refanezumab,G1,Kappa,Phase-II,Discontinued,SIGLEC4/MAG,Humanised,False,False,False,0
+reflocibart,G4,Kappa,Phase-II,Discontinued,VEGFB,Humanised,False,False,False,0
+regdanvimab,G1,Lambda,Approved,NFD,SARS-CoV-2 Spike RBD,Genetically human,False,True,False,0
+relatlimab,G4,Kappa,Approved,Active,LAG3/CD223,Genetically human,True,True,False,0
+remternetug,G1,Kappa,Phase-III,Active,APP,Genetically human,False,False,False,0
+remzistotug,G1,Kappa,TBC,Active,PVRIG/NECTIN2 receptor/CD112R,Humanised,False,False,False,0
+renvistobart,G1,Kappa,Phase-II,Active,TIGIT/WUCAM/VSTM3,Genetically human,False,False,False,0
+reslizumab,G4,Kappa,Approved,Active,IL5,Humanised,True,True,False,1
+resugosbart,G4,Kappa,Phase-II,Active,SOST,Chimeric and/or humanised,False,False,False,0
+retavibart,G1,Kappa,TBC,TBC,RSV gpF,Genetically human,False,False,False,0
+retifanlimab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Chimeric and humanised,True,True,False,0
+revdofilimab,G1,Kappa,Phase-I,Discontinued,TNFRSF4/CD134/OX40,Chimeric and/or humanised,False,False,False,0
+rezorstobart,G1,Kappa,Phase-I/II,Active,KLRB1,Genetically human,False,False,False,0
+riliprubart,G4,Kappa,Phase-III,Active,C1S,Chimeric and/or humanised,False,False,False,0
+rilogrotug,G1,Kappa,Phase-I,Active,GDF15/MIC1/MIC-1/NAG1/NAG-1/PTGFB,Humanised,False,False,False,0
+rilotumumab,G2,Kappa,Phase-II,Discontinued,HGF/SF,Genetically human,False,False,False,0
+riltovetbart,G2,Kappa,Unknown,Active,IL31 (Canine),,False,False,False,0
+rinatabart,G1,Kappa,Phase-III,Active,FOLR1,Genetically human,False,False,False,0
+rinucumab,G4,Kappa,Phase-II,Discontinued,PDGFRB/CD140B,Genetically human,False,False,False,0
+ripertamab,G1,Kappa,Approved,Active,MS4A1/CD20,Chimeric,False,False,False,0
+risankizumab,G1,Kappa,Approved,Active,IL23A,Humanised,True,True,True,0
+rituximab,G1,Kappa,Approved,Active,MS4A1/CD20,Chimeric,True,True,True,11
+robatumumab,G1,Kappa,Phase-II,Discontinued,IGF1R/CD221,Genetically human,False,False,False,0
+rocatinlimab,G1,Kappa,Phase-III,Active,TNFRSF4/CD134/OX40,Genetically human,False,False,False,0
+roconkibart,G4,Kappa,Phase-III,Active,IL17A,Chimeric and/or humanised,False,False,False,0
+roledumab,G1,Kappa,Phase-II/III,Active,RhD/CD240D/RhPI,Genetically human,False,False,False,0
+rolistobart,G4,Kappa,TBC,Active,LILRB4/CD85K,Humanised,False,False,False,0
+romlusevimab,G1,Lambda,Phase-II/III,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+romosozumab,G2,Kappa,Approved,NFD,SOST,Humanised,True,True,False,0
+rontalizumab,G2,Kappa,Phase-II,Discontinued,IFNA1,Humanised,False,False,False,0
+rosmantuzumab,G1,Kappa,Phase-I,Discontinued,RSPO3,Humanised,False,False,False,0
+rosnilimab,G1,Kappa,Phase-II,Active,PDCD1/CD279/PD1,Humanised,False,False,False,0
+rosopatamab,G1,Kappa,Phase-III,Active,FOLH1/GCPII/PSMA,Chimeric and/or humanised,False,False,False,0
+rovelizumab,G4,Kappa,Phase-III,Discontinued,ITGAL/CD11A/LFA1A and ITGB2/CD18,Humanised,False,False,False,0
+rozanolixizumab,G4,Kappa,Approved,Active,FCGRT/FcRn,Chimeric and humanised,True,True,False,0
+rulonilimab,G1,Kappa,Phase-II/III,Discontinued,PDCD1/CD279/PD1,Chimeric and/or humanised,False,False,False,0
+ruplizumab,G1,Kappa,Phase-II,Discontinued,CD40LG/CD154,Humanised,False,False,False,0
+ruxoprubart,G1,Kappa,Phase-II,Active,CFB/BFD,Chimeric and/or humanised,False,False,False,0
+sabatolimab,G4,Kappa,Phase-III,Discontinued,HAVCR2/TIM3,Humanised,False,False,False,0
+sabirnetug,G2,Kappa,Phase-II/III,Active,APP,Humanised,False,False,False,0
+samalizumab,G2,Kappa,Phase-I,Discontinued,MOX2/CD200,Humanised,False,False,False,0
+samatatug,G1,Kappa,Phase-I,Discontinued,F3/CD142,Genetically human,False,False,False,0
+sarilumab,G1,Kappa,Approved,Active,IL6R/CD126,Genetically human,True,True,False,0
+sasanlimab,G4,Kappa,Phase-III,Active,PDCD1/CD279/PD1,Humanised,False,False,False,0
+satralizumab,G2,Kappa,Approved,NFD,IL6R/CD126,Humanised,True,True,False,0
+secukinumab,G1,Kappa,Approved,Active,IL17A,Genetically human,True,True,True,0
+selicrelumab,G2,Kappa,Phase-I,Discontinued,TNFRSF5/CD40,Genetically human,False,False,False,0
+semorinemab,G4,Kappa,Phase-II,Discontinued,MAPT,Chimeric and/or humanised,False,False,False,0
+semzuvolimab,G1,Kappa,Phase-III,Active,CD4,Chimeric and/or humanised,False,False,False,0
+seniprutug,G1,Kappa,Phase-III,Active,TRBV9,Humanised,False,False,False,0
+seribantumab,G2,Lambda,Phase-II,Discontinued,ERBB3/HER3,Genetically human,False,False,False,0
+serplulimab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Humanised,False,True,False,0
+setoxaximab,G1,Kappa,Phase-II,Discontinued,Shiga Toxin Type 2,Chimeric,False,False,False,0
+setrusumab,G2,Lambda,Phase-III,Active,SOST,Genetically human,False,False,False,0
+sibeprenlimab,G2,Kappa,Phase-III,Active,TNFSF13/CD256/APRIL,Humanised,True,False,False,0
+sifalimumab,G1,Kappa,Phase-II,Discontinued,IFNA1,Genetically human,False,False,False,0
+sigvotatug,G1,Kappa,Phase-III,Active,ITGB6,Humanised,False,False,False,0
+siltartoxatug,G1,Kappa,Phase-III,Active,Clostridium tetani tetanus toxin (TeNT),Genetically human,False,False,False,0
+siltuximab,G1,Kappa,Approved,Active,IL6,Chimeric,True,True,False,0
+simaravibart,G1,Kappa,Phase-II/III,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+simtuzumab,G4,Kappa,Phase-II,Discontinued,LOXL2,Humanised,False,False,False,0
+sintilimab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Genetically human,False,False,False,0
+sipavibart,G1,Lambda,Preregistration,Active,SARS-CoV-2 Spike RBD,Genetically human,False,True,False,0
+sirexatamab,G4,Kappa,Phase-II,Active,DKK1,Humanised,False,False,False,0
+sirukumab,G1,Kappa,Preregistration (w),Active,IL6,Genetically human,False,False,False,0
+socazolimab,G1,Lambda,Approved,Active,PDL1/CD274,Genetically human,False,False,False,0
+solanezumab,G1,Kappa,Phase-III,Active,APP,Humanised,False,False,False,0
+solnerstotug,G1,Kappa,Phase-I/II,Active,VSIR/VISTA/B7H5/PD1H/SISP1,Humanised,False,False,False,0
+solrikitug,G1,Kappa,Phase-I,Discontinued,TSLP,Humanised,False,False,False,0
+sonavibart,G1,Kappa,Phase-II,Discontinued,Influenza A HA,Genetically human,False,False,False,0
+sonesitatug,G1,Kappa,Phase-III,Active,CLDN18,Humanised,False,False,False,0
+sotigalimab,G1,Kappa,Phase-II,Active,TNFRSF5/CD40,Humanised,False,False,False,0
+sotevtamab,G2,Kappa,Phase-II,Active,CLU,Humanised,False,False,False,0
+sotrovimab,G1,Kappa,Approved,Active,SARS-CoV-2 Spike RBD,Genetically human,False,True,False,0
+sovipostobart,G1,Kappa,Phase-II,Active,CTLA4/CD152,Genetically human,False,False,False,0
+spartalizumab,G4,Kappa,Phase-II,Active,PDCD1/CD279/PD1,Humanised,False,False,False,0
+spesolimab,G1,Kappa,Approved,Active,IL36RN,Humanised,True,True,True,0
+stamulumab,G1,Lambda,Phase-I/II,Discontinued,MSTN/GDF8/GDF-8/GDF8,Genetically human,False,False,False,0
+stapokibart,G4,Kappa,Approved,Active,IL4R/CD124,Humanised,False,False,False,0
+suciraslimab,G1,Kappa,Preregistration,Active,SIGLEC2/CD22,Chimeric,False,False,False,0
+sudubrilimab,G1,Kappa,Phase-II,Active,PDL1/CD274,Genetically human,False,False,False,0
+sugemalimab,G4,Lambda,Approved,Active,PDL1/CD274,Genetically human,False,True,False,0
+suptavumab,G1,Kappa,Phase-III,Discontinued,Respiratory Syncytial Virus Glycoprotein F,Genetically human,False,False,False,0
+surzebiclimab,G1,Kappa,Phase-II,Active,HAVCR2/TIM3,Genetically human,False,False,False,0
+sutimlimab,G4,Kappa,Approved,NFD,C1S,Chimeric and humanised,True,True,False,0
+suvemcitug,G1,Kappa,Phase-III,Active,VEGFA,Humanised,False,False,False,0
+suvizumab,G1,Kappa,Phase-I,Discontinued,HIV-1 gp120,Humanised,False,False,False,0
+suvonstobart,G1,Kappa,TBC,TBC,CD24,Chimeric and/or humanised,False,False,False,0
+suvratoxumab,G1,Kappa,Phase-III,Discontinued,Staphylococcus aureus Toxin A,Genetically human,False,False,False,0
+tabalumab,G4,Kappa,Phase-III,Discontinued,TNFSF13B/CD257/BAFF,Genetically human,False,False,False,0
+tafasitamab,G1,Kappa,Approved,Active,CD19,Chimeric and/or humanised,True,True,False,1
+tafolecimab,G2,Kappa,Approved,Active,PCSK9,Genetically human,False,False,False,0
+tagitanlimab,G1,Kappa,Approved,Active,PDL1/CD274,Humanised,False,False,False,0
+talacotuzumab,G1,Kappa,Phase-II,Active,IL3RA/CD123,Humanised,False,False,False,0
+talizumab,G1,Kappa,Phase-II,Discontinued,IgE,Humanised,False,False,False,0
+tamgiblimab,G4,Kappa,Phase-II,Active,TIGIT/WUCAM/VSTM3,Genetically human,False,False,False,0
+tanezumab,G2,Kappa,Phase-III,Discontinued,NGFB,Humanised,False,False,False,0
+tanruprubart,G4,Kappa,TBC,TBC,C1q,Chimeric and/or humanised,False,False,False,0
+tarcocimab,G1,Kappa,Phase-III,Active,VEGFA,Humanised,False,False,False,0
+tarextumab,G2,Kappa,Phase-II,Active,NOTCH2 and NOTCH3,Genetically human,False,False,False,0
+tavolimab,G1,Kappa,Phase-II,Discontinued,TNFSF4/CD134/CD252/OX40L,Chimeric and humanised,False,False,False,0
+tazlestobart,G1,Kappa,TBC,Active,CTLA4/CD152,Humanised,False,False,False,0
+tecotabart,G1,Kappa,Phase-I/II,Active,CLDN18,Humanised,False,False,False,0
+tegoprubart,G1,Kappa,Phase-II,Active,CD40LG/CD154,Chimeric,False,False,False,0
+telazorlimab,G1,Kappa,Phase-II,Active,TNFRSF4/CD134/OX40,Humanised,False,False,False,0
+telikibart,G1,Kappa,Phase-III,Active,IL4R/CD124,Genetically human,False,False,False,0
+temelimab,G4,Kappa,Phase-II,Active,MS-associated Retrovirus Envelope Protein,Humanised,False,False,False,0
+temtokibart,G1,Lambda,Phase-II,Active,IL22RA1,Humanised,False,False,False,0
+teneliximab,G1,Kappa,Phase-II,ND,TNFRSF5/CD40,Chimeric,False,False,False,0
+teplizumab,G1,Kappa,Approved,NFD,CD3E,Humanised,True,True,False,1
+teprotumumab,G1,Kappa,Approved,Active,IGF1R/CD221,Genetically human,True,True,False,0
+teropavimab,G1,Kappa,Phase-II,Active,HIV-1 gp120 CD4bs,Genetically human,False,False,False,0
+tesidolumab,G1,Lambda,Phase-II,Active,C5,Genetically human,False,False,False,0
+tesnatilimab,G4,Kappa,Phase-II,Active,KLRK1/NKG2D/CD314,Genetically human,False,False,False,0
+tezepelumab,G2,Lambda,Approved,Active,TSLP,Genetically human,True,True,False,0
+tifcemalimab,G4,Kappa,Phase-III,Active,BTLA/CD272,Chimeric and/or humanised,False,False,False,0
+tigatuzumab,G1,Kappa,Phase-II,Discontinued,TNFRSF10B/CD262/DR5/TRAILR2,Humanised,False,False,False,0
+tilavonemab,G4,Kappa,Phase-II,Active,MAPT,Chimeric and/or humanised,False,False,False,0
+tildrakizumab,G1,Kappa,Approved,Active,IL23A,Humanised,True,True,False,1
+tilogotamab,G1,Kappa,Phase-I/II,Active,TNFRSF10B/CD262/DR5/TRAILR2,Humanised,False,False,False,0
+tilvestamab,G1,Kappa,Phase-I,Active,AXL/UFO,Humanised,False,False,False,0
+timigutuzumab,G1,Kappa,Approved,NFD,ERBB2/CD340/HER2,Humanised,False,False,False,0
+timolumab,G4,Kappa,Phase-II,Discontinued,AOC3/VAP1,Genetically human,False,False,False,0
+timcevibart,G1,Kappa,TBC,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+tinurilimab,G2,Kappa,Phase-I,Discontinued,CEACAM6/CD66c,Humanised,False,False,False,0
+tiragolumab,G1,Kappa,Phase-III,Active,TIGIT/WUCAM/VSTM3,Genetically human,False,False,False,0
+tislelizumab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Humanised,True,True,False,1
+tisotumab,G1,Kappa,Approved,Active,F3/CD142,Genetically human,True,False,False,0
+tixagevimab,G1,Kappa,Approved,NFD,SARS-CoV-2 Spike RBD,Genetically human,False,True,False,0
+tixestobart,G1,Lambda,TBC,TBC,TNFRSF7/CD27,Genetically human,False,False,False,0
+tizetatug,G1,Kappa,Phase-III,Active,TACSTD2/TROP2/EGP1,Humanised,False,False,False,0
+tobevibart,G1,Lambda,Phase-II,Active,Human Papillomavirus Envelope Protein,Genetically human,False,False,False,0
+tocilizumab,G1,Kappa,Approved,Active,IL6R/CD126,Humanised,True,True,True,6
+tomaralimab,G4,Kappa,Phase-II,Active,TLR2/CD282,Chimeric and/or humanised,False,False,False,0
+tomuzotuximab,G1,Kappa,Phase-II,Active,EGFR/ERBB1/HER1,Chimeric,False,False,False,0
+toripalimab,G4,Kappa,Approved,Active,PDCD1/CD279/PD1,Chimeric and/or humanised,True,True,False,0
+torudokimab,G4,Kappa,Phase-II,Active,IL33,Genetically human,False,False,False,0
+tosatoxumab,G1,Lambda,Phase-III,Active,Staphylococcus aureus Toxin A,Genetically human,False,False,False,0
+tovetumab,G2,Kappa,Phase-II,Discontinued,PDGFRA/CD140A,Genetically human,False,False,False,0
+tozorakimab,G1,Lambda,Phase-III,Active,IL33,Genetically human,False,False,False,0
+trabikibart,G4,Kappa,Phase-I,Active,CSF2RB/CD131/IL3RB/IL5RB,Genetically human,False,False,False,0
+tralokinumab,G4,Lambda,Approved,Active,IL13,Genetically human,True,True,False,1
+trastuzumab,G1,Kappa,Approved,NFD,ERBB2/CD340/HER2,Humanised,True,True,True,13
+traxivitug,G1,Lambda,Phase-II,Active,BK Polyomavirus Major Capsid Protein VP1,Genetically human,False,False,False,0
+tregalizumab,G1,Kappa,Phase-II,Discontinued,CD4,Humanised,False,False,False,0
+tremelimumab,G2,Kappa,Approved,Active,CTLA4/CD152,Genetically human,True,True,False,1
+trevogrumab,G4,Kappa,Phase-II,Active,MSTN/GDF8/GDF-8,Genetically human,False,False,False,0
+trinbelimab,G1,Lambda,TBC,Active,RhD/CD240D/RhPI,Genetically human,False,False,False,0
+trosunilimab,G1,Kappa,TBC,Active,ITGA4B7,Humanised,False,False,False,0
+trovostobart,G1,Kappa,TBC,TBC,VSIR/VISTA/B7H5/PD1H/SISP1,Genetically human,False,False,False,0
+tulisokibart,G1,Kappa,Phase-III,Active,TNFSF15/TL1A/VEGI,Humanised,False,False,False,0
+tuparstobart,G1,Kappa,Phase-II,Active,LAG3/CD223,Humanised,False,False,False,0
+turenkibart,G1,Kappa,Phase-II,Active,IL17A,Humanised;Chimeric,False,False,False,0
+tusamitamab,G1,Kappa,Phase-III,Discontinued,CEACAM5/CD66e,Chimeric and/or humanised,False,False,False,0
+tuvonralimab,G1,Kappa,Approved,Active,CTLA4/CD152,Genetically human,False,False,False,0
+ublituximab,G1,Kappa,Approved,Active,MS4A1/CD20,Chimeric,True,True,False,0
+ucenprubart,G4,Kappa,Phase-II,Active,MOX2R/CD200R1,Humanised,False,False,False,0
+ulenistamab,G1,Kappa,Phase-II,Active,PAUF,Humanised,False,False,False,0
+uliledlimab,G1,Kappa,Phase-II,Active,NT5E/CALJA/CD73,Chimeric and/or humanised,False,False,False,0
+ulocuplumab,G4,Kappa,Phase-I/II,Active,CXCR4/CD184,Genetically human,False,False,False,0
+ulviprubart,G1,Kappa,Phase-II/III,Active,KLRG1,Humanised,False,False,False,0
+umesolerbart,G4,Kappa,Phase-III,Active,Bet v 1,Genetically human,False,False,False,0
+umikibart,G4,Kappa,Phase-II,Active,HGF,Humanised,False,False,False,0
+unasnemab,G1,Kappa,Phase-II,Active,RGMA,Chimeric and/or humanised,False,False,False,0
+upanovimab,G1,Kappa,Phase-II/III,Active,SARS-CoV-2 Spike RBD,Chimeric and/or humanised,False,False,False,0
+uprevstobart,G1,Kappa,Phase-I,Discontinued,NT5E/CALJA/CD73,Humanised,False,False,False,0
+upinitatug,G1,Kappa,Phase-III,Discontinued,SLC34A2,Chimeric and/or humanised,False,False,False,0
+urabrelimab,G4,Kappa,Phase-I,Discontinued,IAP/CD47,Genetically human,False,False,False,0
+urelumab,G4,Kappa,Phase-II,Active,TNFRSF9/CD137/4-1BB,Genetically human,False,False,False,0
+usilnetug,G1,Kappa,TBC,Active,APP Abeta N3pGlu,Chimeric and/or humanised,False,False,False,0
+ustekinumab,G1,Kappa,Approved,Active,IL12B/CLMFp40,Genetically human,True,True,True,19
+utomilumab,G2,Lambda,Phase-II,Active,TNFRSF9/CD137/4-1BB,Genetically human,False,False,False,0
+vamikibart,G2,Kappa,Phase-III,Active,IL6,Humanised;Chimeric,False,False,False,0
+vantictumab,G2,Lambda,Phase-I,Discontinued,FZD,Genetically human,False,False,False,0
+varisacumab,G1,Kappa,Phase-II/III,Discontinued,VEGFA,Genetically human,False,False,False,0
+varlilumab,G1,Kappa,Phase-II,Active,TNFRSF7/CD27,Genetically human,False,False,False,0
+varokibart,G4,Lambda,Phase-II,Active,IL5,Genetically human,False,False,False,0
+vatelizumab,G4,Kappa,Phase-II/III,Discontinued,ITGA2/CD49B,Humanised,False,False,False,0
+vebanvibart,G1,Kappa,Phase-II,Active,SARS-CoV-2 Spike RBD,Genetically human,False,False,False,0
+vecantoxatug,G1,Kappa,Phase-III,Active,Clostridium tetani tetanus toxin (TeNT),Humanised,False,False,False,0
+vedolizumab,G1,Kappa,Approved,Active,ITGA4B7,Humanised,True,True,True,0
+veligrotug,G1,Kappa,Phase-III,Active,IGF1R/CD221,Chimeric,False,False,False,0
+veltuzumab,G1,Kappa,Phase-II,Discontinued,MS4A1/CD20,Humanised,False,False,False,0
+venanprubart,G4,Kappa,Phase-II,Active,BTLA/CD272,Humanised,False,False,False,0
+vesencumab,G1,Kappa,Phase-I,Discontinued,NRP1,Genetically human,False,False,False,0
+verekitug,G1,Kappa,Phase-II,Active,CRLF2,Genetically human,False,False,False,0
+verzistobart,G1,Kappa,Phase-II,Active,HAVCR2/TIM3,Genetically human,False,False,False,0
+vibostolimab,G1,Kappa,Phase-III,Discontinued,TIGIT/WUCAM/VSTM3,Humanised,False,False,False,0
+vilamakitug,G4,Kappa,Phase-III,Active,IL1A,Genetically human,False,False,False,0
+vilastobart,G1,Kappa,Phase-I/II,Active,CTLA4/CD152,Humanised,False,False,False,0
+vilobelimab,G4,Kappa,Approved,Active,C5,Chimeric,True,True,False,0
+vipalanebart,G4,Kappa,Phase-II,Active,ADCYAP1/PACAP,Genetically human,False,False,False,0
+visilizumab,G2,Kappa,Phase-III,Discontinued,CD3E,Humanised,False,False,False,0
+visugromab,G4,Kappa,Phase-II,Active,GDF15/MIC1/MIC-1/NAG1/NAG-1/PTGFB,Chimeric and/or humanised,False,False,False,0
+vixarelimab,G4-G1,Lambda,Phase-II,Active,OSMR,Genetically human,False,False,False,0
+vixticibart,G4,Kappa,TBC,Active,NPR1/ANPRA/ANPa/GUC2A/GUCY2A/NPRA,Genetically human,False,False,False,0
+vobramitamab,G1,Kappa,Phase-II/III,Active,B7H3/CD276,Humanised,False,False,False,0
+vofatamab,G1,Kappa,Phase-I/II,Active,FGFR3/CD333,Genetically human,False,False,False,0
+volagidemab,G2,Kappa,Phase-II,Active,GCCR/NR3C1,Genetically human,False,False,False,0
+volociximab,G4,Kappa,Phase-II,Discontinued,ITGA5B1,Chimeric,False,False,False,0
+vonlerolizumab,G1,Kappa,Phase-II,Discontinued,TNFRSF4/CD134/OX40,Humanised,False,False,False,0
+vopikitug,G1,Kappa,Phase-I,Active,IL2RA/CD25,Genetically human,False,False,False,0
+vopratelimab,G1,Kappa,Phase-II,Active,ICOS/CD278,Humanised,False,False,False,0
+vulinacimab,G1,Kappa,Phase-I,Discontinued,KDR/CD309/VEGFR2,Genetically human,False,False,False,0
+vunakizumab,G1,Kappa,Approved,Active,IL17A,Humanised,False,False,False,0
+xeligekimab,G4,Kappa,Approved,Active,IL17A,Genetically human,False,False,False,0
+xentuzumab,G1,Lambda,Phase-II,Active,IGF1 and IGF2,Humanised,False,False,False,0
+zadoprubart,G4,Kappa,TBC,Active,BTLA/CD272,Humanised,False,False,False,0
+zagotenemab,G4,Kappa,Phase-II,Discontinued,MAPT,Humanised,False,False,False,0
+zalifrelimab,G1,Kappa,Phase-II,Active,CTLA4/CD152,Genetically human,False,False,False,0
+zaltenibart,G4,Kappa,Phase-II,Active,MASP3,Humanised,False,False,False,0
+zalutumumab,G1,Kappa,Phase-II,Discontinued,EGFR/ERBB1/HER1,Genetically human,False,False,False,0
+zamerovimab,G1,Kappa,Phase-III,Active,Rabies Virus Spike Glycoprotein G,Humanised,False,False,False,0
+zampilimab,G4,Kappa,Phase-I/II,Active,TGM2,Chimeric and humanised,False,False,False,0
+zanolimumab,G1,Kappa,Phase-III,Discontinued,CD4,Genetically human,False,False,False,0
+zansecimab,G4,Kappa,Phase-II,Discontinued,ANGPT2,Humanised,False,False,False,0
+zelminemab,G1,Kappa,Phase-II,Active,ADCYAP1R1/PAC1,Humanised,False,False,False,0
+zeluvalimab,G1,Kappa,Phase-I/II,Active,PDCD1/CD279/PD1,Genetically human,False,False,False,0
+zigakibart,G4,Kappa,Phase-III,Active,TNFSF13/CD256/APRIL,Humanised,False,False,False,0
+ziltivekimab,G1,Kappa,Phase-III,Active,IL6,Humanised,False,False,False,0
+zilovertamab,G1,Kappa,Phase-II,Active,ROR1,Humanised,False,False,False,0
+zimberelimab,G4,Lambda,Approved,Active,PDCD1/CD279/PD1,Genetically human,False,False,False,0
+zinlirvimab,G1,Lambda,Phase-II,Active,HIV-1 gp120 V3,Genetically human,False,False,False,0
+zolbetuximab,G1,Kappa,Approved,Active,CLDN18,Chimeric,True,True,False,0
+zovostotug,G1,Kappa,Phase-I/II,Active,CD163,Genetically human,False,False,False,0
+zuberitamab,G1,Kappa,Phase-II,Discontinued,MS4A1/CD20,Chimeric,False,False,False,0

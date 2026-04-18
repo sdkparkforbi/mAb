@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ABSwitch Phase W — Whole mAb Landscape</title>
+<style>
+body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+        margin: 0; padding: 0; background: #fafafa; color: #222; line-height: 1.6; }
+header { background: #2c3e50; color: white; padding: 30px 40px; }
+header h1 { margin: 0; font-size: 24px; font-weight: 500; }
+header p  { margin: 6px 0 0 0; font-size: 14px; opacity: 0.85; }
+main { max-width: 860px; margin: 40px auto; padding: 0 30px; }
+.metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+            gap: 16px; margin: 30px 0; }
+.metric { background: white; border: 1px solid #e0e0e0; border-radius: 6px;
+           padding: 18px 22px; }
+.metric .val   { font-size: 28px; font-weight: 600; color: #2c3e50; }
+.metric .label { font-size: 12px; color: #777; margin-top: 4px; }
+.cta { display: inline-block; background: #2c3e50; color: white;
+        padding: 14px 28px; border-radius: 6px; text-decoration: none;
+        font-size: 15px; margin: 20px 0; }
+.cta:hover { background: #1a252f; }
+.file-list { margin-top: 30px; }
+.file-list a { color: #2c3e50; text-decoration: none; }
+.file-list a:hover { text-decoration: underline; }
+footer { margin-top: 50px; padding: 20px 0 40px 0;
+          font-size: 12px; color: #888; border-top: 1px solid #e0e0e0; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>ABSwitch Phase W — Whole mAb Landscape</h1>
+  <p>Prof. Dae Keun Park · CHA University · Department of AI Healthcare Convergence</p>
+</header>
+
+<main>
+
+<p>
+This page publishes the structured dataset assembled by the ABSwitch Phase W
+pipeline: every monoclonal antibody (mAb) drug scaffold currently tracked by
+Thera-SAbDab, cross-linked to FDA Structured Product Labeling, EMA Summary of
+Product Characteristics, and ClinicalTrials.gov records. The pipeline emphasises
+intravenous-to-subcutaneous (IV-to-SC) formulation transitions as the focal
+research question.
+</p>
+
+<div class="metrics">
+  <div class="metric"><div class="val">801</div><div class="label">Whole mAb molecules</div></div>
+  <div class="metric"><div class="val">115</div><div class="label">FDA-approved INNs</div></div>
+  <div class="metric"><div class="val">107</div><div class="label">EMA-approved INNs</div></div>
+  <div class="metric"><div class="val">18</div><div class="label">IV/SC dual-route INNs</div></div>
+  <div class="metric"><div class="val">121</div><div class="label">Originator brands</div></div>
+  <div class="metric"><div class="val">163</div><div class="label">Biosimilar brands</div></div>
+  <div class="metric"><div class="val">28,047</div><div class="label">Clinical trials</div></div>
+</div>
+
+<p><a class="cta" href="dashboard.html">Open interactive dashboard →</a></p>
+
+<div class="file-list">
+  <strong>Data files:</strong>
+  <ul>
+    <li><a href="substances.csv">substances.csv</a> — one row per INN (801 rows)</li>
+    <li><a href="products.csv">products.csv</a> — one row per product presentation (516 rows)</li>
+    <li><a href="ct_trials.csv">ct_trials.csv</a> — one row per NCT trial (28,047 rows)</li>
+  </ul>
+</div>
+
+<footer>
+  Generated 2026-04-18 from the Phase W 21-cell pipeline.
+  Source repository: <a href="https://github.com/sdkparkforbi/mAb">github.com/sdkparkforbi/mAb</a>.
+</footer>
+
+</main>
+</body>
+</html>
