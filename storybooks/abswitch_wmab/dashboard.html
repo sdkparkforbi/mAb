@@ -3,6 +3,15 @@
 <head>
 <meta charset="utf-8">
 <title>ABSwitch Phase W — Whole mAb Dashboard</title>
+
+<!-- FIX 3: social preview thumbnail -->
+<meta property="og:title" content="ABSwitch Phase W — Whole mAb Dashboard">
+<meta property="og:description" content="801 Whole mAb molecules · 567 approved products · 28,047 clinical trials">
+<meta property="og:image" content="https://sdkparkforbi.github.io/mAb/storybooks/abswitch_wmab/dashboard_thumbnail.png">
+<meta property="og:type"  content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sdkparkforbi.github.io/mAb/storybooks/abswitch_wmab/dashboard_thumbnail.png">
+
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 <style>
 body {
@@ -14,7 +23,7 @@ header h1 { margin: 0; font-size: 22px; font-weight: 500; }
 header p  { margin: 4px 0 0 0; font-size: 13px; opacity: 0.8; }
 nav {
   background: white; border-bottom: 1px solid #ddd;
-  padding: 0 40px; display: flex; gap: 0;
+  padding: 0 40px; display: flex; gap: 0; align-items: center;
 }
 nav button {
   background: none; border: none; padding: 14px 20px;
@@ -24,6 +33,16 @@ nav button {
 nav button.active {
   color: #2c3e50; border-bottom-color: #2c3e50; font-weight: 600;
 }
+nav .spacer { flex: 1; }
+nav a.dl-btn {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #2c3e50; color: white;
+  text-decoration: none; border-radius: 4px;
+  font-size: 13px; font-weight: 500;
+  margin-right: 0;
+}
+nav a.dl-btn:hover { background: #34495e; }
 main { padding: 20px 40px; }
 .tab { display: none; }
 .tab.active { display: block; }
@@ -51,9 +70,11 @@ footer { padding: 20px 40px; font-size: 12px; color: #888; }
 <nav>
   <button class="tab-btn active" data-tab="overview">Overview</button>
   <button class="tab-btn"        data-tab="substances">Substances (801)</button>
-  <button class="tab-btn"        data-tab="products">Products</button>
+  <button class="tab-btn"        data-tab="products">Products (567)</button>
   <button class="tab-btn"        data-tab="trials">Trials (28,047)</button>
   <button class="tab-btn"        data-tab="transitions">IV → SC transitions</button>
+  <span class="spacer"></span>
+  <a class="dl-btn" href="ABSwitch_PhaseW_3tables.xlsx" download>📥 Download Excel (3 tables)</a>
 </nav>
 
 <main>
@@ -64,6 +85,7 @@ footer { padding: 20px 40px; font-size: 12px; color: #888; }
       <div class="metric"><div class="val">115</div><div class="label">FDA-approved INNs</div></div>
       <div class="metric"><div class="val">107</div><div class="label">EMA-approved INNs</div></div>
       <div class="metric"><div class="val">18</div><div class="label">INNs with IV/SC dual product</div></div>
+      <div class="metric"><div class="val">567</div><div class="label">Approved products</div></div>
       <div class="metric"><div class="val">121</div><div class="label">Originator brands</div></div>
       <div class="metric"><div class="val">163</div><div class="label">Biosimilar brands</div></div>
       <div class="metric"><div class="val">28,047</div><div class="label">ClinicalTrials.gov mAb trials</div></div>
@@ -91,7 +113,7 @@ footer { padding: 20px 40px; font-size: 12px; color: #888; }
 </main>
 
 <footer>
-  ABSwitch Phase W · Generated 2026-04-18 23:06
+  ABSwitch Phase W · Generated 2026-04-19 22:11
   · substances: 801 · products: 567 · trials: 28,047
 </footer>
 

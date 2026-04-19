@@ -3,6 +3,14 @@
 <head>
 <meta charset="utf-8">
 <title>ABSwitch Phase W — Whole mAb Landscape</title>
+
+<meta property="og:title" content="ABSwitch Phase W — Whole mAb Landscape">
+<meta property="og:description" content="801 mAb molecules · 567 approved products · 28,047 clinical trials">
+<meta property="og:image" content="https://sdkparkforbi.github.io/mAb/storybooks/abswitch_wmab/dashboard_thumbnail.png">
+<meta property="og:type"  content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sdkparkforbi.github.io/mAb/storybooks/abswitch_wmab/dashboard_thumbnail.png">
+
 <style>
 body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
         margin: 0; padding: 0; background: #fafafa; color: #222; line-height: 1.6; }
@@ -16,10 +24,22 @@ main { max-width: 860px; margin: 40px auto; padding: 0 30px; }
            padding: 18px 22px; }
 .metric .val   { font-size: 28px; font-weight: 600; color: #2c3e50; }
 .metric .label { font-size: 12px; color: #777; margin-top: 4px; }
-.cta { display: inline-block; background: #2c3e50; color: white;
-        padding: 14px 28px; border-radius: 6px; text-decoration: none;
-        font-size: 15px; margin: 20px 0; }
+.cta-row { margin: 20px 0; }
+.cta, .cta-secondary {
+  display: inline-block;
+  padding: 14px 28px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 15px;
+  margin-right: 10px;
+}
+.cta { background: #2c3e50; color: white; }
 .cta:hover { background: #1a252f; }
+.cta-secondary {
+  background: white; color: #2c3e50;
+  border: 1px solid #2c3e50;
+}
+.cta-secondary:hover { background: #f0f4f8; }
 .file-list { margin-top: 30px; }
 .file-list a { color: #2c3e50; text-decoration: none; }
 .file-list a:hover { text-decoration: underline; }
@@ -50,15 +70,19 @@ research question.
   <div class="metric"><div class="val">115</div><div class="label">FDA-approved INNs</div></div>
   <div class="metric"><div class="val">107</div><div class="label">EMA-approved INNs</div></div>
   <div class="metric"><div class="val">18</div><div class="label">IV/SC dual-route INNs</div></div>
+  <div class="metric"><div class="val">567</div><div class="label">Approved products</div></div>
   <div class="metric"><div class="val">121</div><div class="label">Originator brands</div></div>
   <div class="metric"><div class="val">163</div><div class="label">Biosimilar brands</div></div>
   <div class="metric"><div class="val">28,047</div><div class="label">Clinical trials</div></div>
 </div>
 
-<p><a class="cta" href="dashboard.html">Open interactive dashboard →</a></p>
+<div class="cta-row">
+  <a class="cta"           href="dashboard.html">Open interactive dashboard →</a>
+  <a class="cta-secondary" href="ABSwitch_PhaseW_3tables.xlsx" download>📥 Download Excel (3 tables)</a>
+</div>
 
 <div class="file-list">
-  <strong>Data files:</strong>
+  <strong>Individual data files (CSV):</strong>
   <ul>
     <li><a href="substances.csv">substances.csv</a> — one row per INN (801 rows)</li>
     <li><a href="products.csv">products.csv</a> — one row per product presentation (567 rows)</li>
@@ -67,7 +91,7 @@ research question.
 </div>
 
 <footer>
-  Generated 2026-04-18 from the Phase W 21-cell pipeline.
+  Generated 2026-04-19 from the Phase W 21-cell pipeline.
   Source repository: <a href="https://github.com/sdkparkforbi/mAb">github.com/sdkparkforbi/mAb</a>.
 </footer>
 
